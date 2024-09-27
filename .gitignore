@@ -8,6 +8,8 @@
 *.py
 *.dat
 Makefile
+uploads/.DS_Store
+
 
 # Keep the logs directory using .gitkeep
 !.gitkeep
