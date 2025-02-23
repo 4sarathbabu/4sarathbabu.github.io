@@ -6,7 +6,7 @@
 **/*.html*
 
 # Avoid all development files
-uploads/.DS_Store
+**/.DS_Store*
 
 
 # Keep the logs directory using .gitkeep
