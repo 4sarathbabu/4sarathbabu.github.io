@@ -21,6 +21,7 @@ jobs:
       - name: Build the webpage (convert .md to .html)
         run: |
           mkdir -p public
+          touch public/.nojekyll
           make
           cp style.css public/
           cp *.html public/
