@@ -1,19 +1,6 @@
-<head>
-<link rel="stylesheet" href="../../mystyle.css">
-<base target="_blank">
-</head>
-<font size="5" color="#c12f2f"><b>Sarath Babu</b></font><div class="headlink">
-<a href="../../index.html" target="_self">Home</a> 
-<a href="../../bio.html" target="_self">Bio</a> 
-<a href="../../research.html" target="_self">Research</a> 
-<a href="../../publications.html" target="_self">Publications</a> 
-<a href="../../professional.html" target="_self">Professional</a> 
-<a href="../../talks.html" target="_self">Talks</a> 
-<a href="../../ interests.html" target="_self">Interests</a> 
-</div>
-<h2><center>A Need-to-Know for Researchers</center></h2>
+## <center>A Need-to-Know for Researchers</center>
 
-<p>As researchers, we try to understand nature using scientific methods 
+As researchers, we try to understand nature using scientific methods 
 and come up with new interpretations. Our interpretations become 
 meaningless unless we make it available to the rest of the world. An 
 important question here is in what manner we convey our 
@@ -24,11 +11,11 @@ required to filter out the required contents (text, analysis,
 figures, tables, and references) that need to be included in the 
 document and to organize them in a meaningful way. In this article, 
 I discuss six efficient free and open source software (FOSS) tools 
-which provide the environment to make our work ready for publishing.</p>
+which provide the environment to make our work ready for publishing.
 
-<h3>1. GNU/Linux</h3>
+### 1. GNU/Linux
 
-<p>The use of computing systems and the availability of different
+The use of computing systems and the availability of different
 document creation tools help us to write our documents with minimum
 effort. GNU/Linux is an operating system (OS) for our computer
 machines which is freely (not in terms of cost) available. Unlike
@@ -40,7 +27,7 @@ Free Software, read <a href="http://www.fsf.org" target="_blank">Free
 Software Foundation</a>, <a href="https://stallman.org/biographies.html"
 target="_blank">Richard Stallman</a>,
 and <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"
-target="_blank">GNU General Public License</a>).</p>
+target="_blank">GNU General Public License</a>).
 
 <table hspace="20" style="float:left" >
 <tr><td><img src="figures/p1_linux_distros.png" height="200" width="400"></td></tr>
@@ -48,16 +35,16 @@ target="_blank">GNU General Public License</a>).</p>
 flavours <sup><a href="http://tecdistro.com/top-10-linux-distributions/"
 target="_blank">&#x2608;</a></sup></td></tr>
 </table>
-
-<p>GNU/Linux offers several benefits such as user friendliness, free
+	  
+GNU/Linux offers several benefits such as user friendliness, free
 of viruses, stability, security, free updates, and the rights provided
 as a free software. At present, Linux distributions with different
 flavours are available which can be downloaded from internet at no
 cost. Examples include Ubuntu, Fedora, Debian, Arch, etc. Different
 flavours of Linux distributions and their updated versions are
-available at <a href="http://distrowatch.com" target="_blank">www.distrowatch.com</a>.</p>
+available at <a href="http://distrowatch.com" target="_blank">www.distrowatch.com</a>.
 
-<p><a href="http://www.ubuntu.com" target="_blank">Ubuntu</a>
+<a href="http://www.ubuntu.com" target="_blank">Ubuntu</a>
 and <a href="https://getfedora.org" target="_blank">Fedora</a> are
 popular due to its wide acceptance and support forums. The Linux
 distributions are available as Live CDs such that you can try them
@@ -70,11 +57,11 @@ technology as well as philosophy. You can find installation steps for
 several Linux distributions in the following links:
 (a) <a href="http://www.ubuntu.com/download/desktop/install-ubuntu-desktop"
 target="_blank">Ubuntu</a> and
-(b) <a href="http://www.wikihow.com/Install-Fedora" target="_blank">Fedora</a>.</p>
+(b) <a href="http://www.wikihow.com/Install-Fedora" target="_blank">Fedora</a>.
 
-<h3>2. GNU Typist</h3>
-
-<p>Since we all are computer users, we cannot avoid typing. However,
+### 2. GNU Typist
+	  
+Since we all are computer users, we cannot avoid typing. However,
 we may not be aware of how much time we are unnecessarily spending due
 to the inefficient movement of our fingers and hands on the
 keyboard. Significant amount of time can be saved if we avoid the hand
@@ -86,22 +73,22 @@ tool <a href="https://www.gnu.org/software/gtypist/index.html"
 target="_blank">GNU Typist</a>, a free software, to learn typing. GNU
 Typist is a command line typing tutor which can be easily installed
 from the software center in Linux or using the following command in
-terminal.</p>
+terminal.
 
-<p>$ <font color="#003380">sudo apt-get install gtypist</font></p>
+$ <font color="#003380">sudo apt-get install gtypist</font>
 
-<p>In order to run GNU Typist, run the command in the terminal as
-follows:</p>
+In order to run GNU Typist, run the command in the terminal as
+follows:
 
-<p>$ <font color="#003380">gtypist</font> </p>
+$ <font color="#003380">gtypist</font> 
 
-<p>You can see the instructions for continuing with the course. The
+You can see the instructions for continuing with the course. The
 course is divided into basic lessons of typing with a set of letters
 per each lesson. Also, upon completion of each exercise, you will get
 your performance in terms of different metrics, so that you can repeat
-the exercise to achieve the required performance.</p>
-
-<p>It requires lot of patience at the initial stages of learning (Only
+the exercise to achieve the required performance.
+	  
+It requires lot of patience at the initial stages of learning (Only
 for first 3-4 days). You may feel a little bit of pain in your fingers
 or lack of interest, which may force you to go back to your previous
 typing style, which is strictly not recommended. After 4-5 days,
@@ -109,11 +96,11 @@ the <em>lack</em> of interest will turn to <em>more</em> interest and
 the urge to type will increase as days go on. At the end, you can
 measure your typing speed using the metrics such as words per minute
 (WPM) and typing accuracy. It will be sufficient that if you can
-achieve 60 WPM or above.</p>
+achieve 60 WPM or above.
 
-<h3>3. GNU Emacs</h3>
-
-<p><img src="figures/p1_emacs_icon.png" height="100" width="100" hspace="20" style="float:left"><a href="https://www.gnu.org/software/emacs/"
+### 3. GNU Emacs
+	  
+<img src="figures/p1_emacs_icon.png" height="100" width="100" hspace="20" style="float:left"><a href="https://www.gnu.org/software/emacs/"
 target="_blank">GNU Emacs</a> is a free editor using which we can do,
 whatever we want to do with a computer. You may not believe my first
 statement. It is better to experience it. In simple words, the Emacs
@@ -122,30 +109,30 @@ especially the <em>Ctrl</em> and <em>Alt</em> keys. We can move to any
 position of your document without using the dedicated direction keys
 such as arrow keys, Home, PgUp, PgDn and End. We do not need to change
 the hand-position that we learned from GNU Typist. That is, only the
-finger movements are sufficient to control the entire environment.</p>
+finger movements are sufficient to control the entire environment.
 
-<p>Apart from a simple editor, Emacs provides support to the specific
+Apart from a simple editor, Emacs provides support to the specific
 environment that we are working with. For example, it
 provides <em>python-mode</em> for Python programmers to make the
 coding easier with features such as auto-completion and
 auto-indentation. For LaTeX users, Emacs provides AUCTeX with
 shortcuts for LaTeX environment. Even, we can customize
 the environment for our requirements. In order to install Emacs, run
-the following command in the terminal.</p>
-
-<p>$ <font color="#003380">sudo apt-get install emacs24</font></p>
-
-<p>Emacs can be run either with a graphical user interface (GUI) or in
+the following command in the terminal.
+	    
+$ <font color="#003380">sudo apt-get install emacs24</font>
+	  
+Emacs can be run either with a graphical user interface (GUI) or in
 terminal. You can use the following commands to run Emacs. For
-GUI mode<br></p>
+GUI mode<br>
 
-<p>$ <font color="#003380">emacs</font> </p>
+$ <font color="#003380">emacs</font> 
 
-<p>For terminal mode</p>
+For terminal mode
 
-<p>$ <font color="#003380">emacs -nw</font></p>
+$ <font color="#003380">emacs -nw</font>
 
-<p>Similar to GNU Typist, upon opening Emacs, you can see the
+Similar to GNU Typist, upon opening Emacs, you can see the
 instruction set to start with. By pressing <em>Ctrl-h t</em>, you will
 be redirected to an Emacs tutorial where you can read and practice at
 the same place. Be cautious that you will be irritated with the
@@ -157,11 +144,11 @@ conscious mind. After learning, you may not able to answer where the
 position of a particular key in the keyboard is or what is the
 shortcut for a particular activity in Emacs. However, your fingers
 will do it perfectly without the involvement of your conscious
-mind. Here, reality comes as the biggest joke.</p>
+mind. Here, reality comes as the biggest joke.
 
-<h3>4. LaTeX</h3>
-
-<p><img src="figures/p1_latex_bird.png" height="104" width="130"
+### 4. LaTeX
+	  
+<img src="figures/p1_latex_bird.png" height="104" width="130"
 hspace="20" style="float:left"><a href="https://www.latex-project.org/"
 target="_blank">LaTeX</a> is an extreme-quality document creation tool
 originally developed by <a href="http://www.lamport.org"
@@ -185,9 +172,9 @@ from <a href="https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf"
 target="_blank">here</a>. As mentioned in the previous section, Emacs
 provides the LaTeX environment to edit documents using AUCTeX
 package. (For a very simple tutorial visit: <a href="../2010/p1_latexexperience.html" target="_blank">An
-Experience with LaTeX</a>).</p>
+Experience with LaTeX</a>).
 
-<p>Apart from articles, letters, reports, books, or scientific papers,
+Apart from articles, letters, reports, books, or scientific papers,
 LaTeX is used to create presentation slides with the help of a class
 called <em>Beamer</em>. The slides are created using
 the <em>frame</em> environment. The beamer class is originally developed
@@ -200,9 +187,9 @@ named using place names (such as Copenhagen, Berkeley, Frankfurt, and Warsaw) an
 target="_blank">beamer theme matrix</a>). A user guide for beamer can
 be downloaded
 from <a href="http://texdoc.net/texmf-dist/doc/latex/beamer/doc/beameruserguide.pdf"
-target="_blank">here</a>.</p>
+target="_blank">here</a>.
 
-<p>In addition to technical papers and presentation slides, posters
+In addition to technical papers and presentation slides, posters
 are important method to convey our ideas and results. LaTeX allows us
 to create high quality posters with appropriate dimension. If we are
 comfortable TikZ drawing, we can create custom posters of required
@@ -212,9 +199,9 @@ target="_blank">Link-1</a>,
 (ii) <a href="http://www.latextemplates.com/cat/conference-posters"
 target="_blank">Link-2</a>, and
 (iii) <a href="http://www.brian-amberg.de/uni/poster/"
-target="_blank">Link-3</a>.</p>
+target="_blank">Link-3</a>.
 
-<p>One of the major addition to the TeX system is the graphics package
+One of the major addition to the TeX system is the graphics package
 named <em>TikZ</em>. It includes macros for writing mathematical
 descriptions of an image, using which the PDF can be produced with the
 LaTeX engine. Major part of the TikZ library is developed
@@ -233,11 +220,11 @@ drawings as a <em>.tex</em> file (instead of image formats such
 as <em>.png, .jpg</em>, or <em>.eps</em>), so that we can create the
 figure using LaTeX.  An introduction for drawing using TikZ is
 available <a href="http://cremeronline.com/LaTeX/minimaltikz.pdf"
-target="_blank">here</a>.</p>
+target="_blank">here</a>.
 
-<h3>5. Python</h3>
-
-<p><img src="figures/p1_python_icon.png" height="104" hspace="20"
+### 5. Python
+	  
+<img src="figures/p1_python_icon.png" height="104" hspace="20"
 style="float:left"><a href="https://www.python.org/" target="_blank">Python</a> is
 an open source interpreted programming language which provides a
 platform to express our ideas in mind with minimum effort. As
@@ -262,9 +249,9 @@ learning language and, thereby, discouraging them to write
 code. On the other hand, Python insists proper indentations (spaces at the
 beginning) for code blocks to make the code more organized and
 readable to keep up with the design philosophy of Python. Two of the most popular
-versions Python are Python 2.7 and 3.0.</p>
-
-<p>Python supports variety of programming paradigms such as functional
+versions Python are Python 2.7 and 3.0.
+	  
+Python supports variety of programming paradigms such as functional
 programming, object oriented programming (popularly known as OOP),
 aspect oriented programming, and structured programming. The wide
 acceptance of Python resulted in the development of code libraries for
@@ -290,9 +277,9 @@ include Integrated Development and Learning Environment
 (<a href="https://docs.python.org/2/library/idle.html" target="_blank">IDLE</a>),
 <a href="http://www.red-bean.com/doc/pymacs/html/pymacs.html" target="_blank">PyMacs</a>
 (Emacs extension for Python), <a href="http://drpython.sourceforge.net/" target="_blank">DrPython</a>,
-and <a href="https://ipython.org/" target="_blank">IPython</a>.</p>
-
-<p>Similar to libraries, Python is rich in terms of learning resources
+and <a href="https://ipython.org/" target="_blank">IPython</a>.
+	  
+Similar to libraries, Python is rich in terms of learning resources
 as well. One of the best slides from Rossum is available
 from <a href="http://people.csail.mit.edu/rudolph/Teaching/Lectures/guido-intro-1.pdf"
 target="_blank">here</a>,
@@ -309,17 +296,17 @@ to Think Like a Computer Scientist: Learning with Python</a>,
 target="_blank">Python Essential Reference: Developer's Library</a> and (v)
 <a 
 href="http://www.goodreads.com/book/show/80444.Python_Essential_Reference" target="_blank">Learn
-Python: Tutorials Point</a>.</p>
+Python: Tutorials Point</a>.
 
-<p><b><em>Note:</em></b> If you are comfortable with MATLAB, free and
+<b><em>Note:</em></b> If you are comfortable with MATLAB, free and
 open source software alternatives are available with similar syntax and features
 as that of MATLAB. Two of the most important tools are
 (i) <a href="http://www.scilab.org/">Scilab</a> and
-(ii) <a href="https://www.gnu.org/software/octave/">GNU Octave</a>. </p>
+(ii) <a href="https://www.gnu.org/software/octave/">GNU Octave</a>. 
 
-<h3>6. Gnuplot</h3>
+### 6. Gnuplot
 
-<p><img src="figures/p1_gnuplot_icon.png" height="48"
+<img src="figures/p1_gnuplot_icon.png" height="48"
 hspace="20"
 style="float:left"><a href="http://www.gnuplot.info/" target="_blank">Gnuplot</a> is a
 2D and 3D plotting tool for graphical visualization of data. It uses a
@@ -331,9 +318,9 @@ as <em>jpeg, png, eps, svg, fig, gif, </em> and <em>LaTeX</em>. If you
 are familiar with LaTeX, I recommend to use the LaTeX output such that
 the figure can be created using TikZ with extreme quality (See my
 post: <a href="../2015/p1_gnuplotlatex.html" target="_blank">Gnuplot + LaTeX: The
-Ultimate Plotting Experience</a>).</p>
+Ultimate Plotting Experience</a>).
 
-<p>It is easy to learn gnuplot from examples rather than from
+It is easy to learn gnuplot from examples rather than from
 textbooks. A detailed library of different types of plots are
 available in <a href="http://gnuplot.sourceforge.net/demo/" target="_blank">gnuplot
 demos</a>. Some of the materials to learn gnuplot include
@@ -343,15 +330,14 @@ demos</a>. Some of the materials to learn gnuplot include
 target="_blank">
 Gnuplot in Action: Understanding Data with Graphs</a>, and
 (iii) <a href="http://gnuplot.sourceforge.net/docs_4.0/gpcard.pdf" target="_blank">
-gnuplot Quick Reference</a>.</p>
+gnuplot Quick Reference</a>.
 
-<p>I consider the tools discussed above are highly efficient in terms
+I consider the tools discussed above are highly efficient in terms
 of time, effort, and quality. Even though it takes a little time to
 learn the tools (only a matter of 1 or 2 weeks), the tools will surely
-remain as an asset for the remaining of our life.</p>
+remain as an asset for the remaining of our life.
 
-<p><br>
+<br>
 ------------------------------------<br>
 Thanks for <b>Deepak Gopalakrishnan</b> for suggestions. If you find 
-any mistakes or you have any suggestions, please send me a mail.</p>
-<center>&#9643;&emsp;&#9643;&emsp;&#9643;&emsp;&#9643;</center>
+any mistakes or you have any suggestions, please send me a mail.

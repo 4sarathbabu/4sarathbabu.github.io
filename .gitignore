@@ -1,13 +1,11 @@
 # Avoid all temporary files
 *~
+**/*~*
 
 # Avoid all python compiled objects
-*.md
+**/*.html*
 
 # Avoid all development files
-*.py
-*.dat
-Makefile
 uploads/.DS_Store
 
 
