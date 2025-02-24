@@ -1,11 +1,3 @@
-<!-- <style> -->
-<!--   #shaded-image { -->
-<!--     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); -->
-<!--     border-radius: 5px; /* Optional: for rounded corners */ -->
-<!-- 	margin: 10px 20px 20px 20px; -->
-<!--   } -->
-<!-- </style> -->
-
 ### About Me
 
 
