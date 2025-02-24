@@ -24,19 +24,17 @@
   
 ### Technical Program Committees (TPCs)
 
-* [IFIP Networking 2024](https://networking.ifip.org/2024/)
-* [IEEE Future Networks World Forum (FNWF) 2024](https://fnwf2024.ieee.org/), [2023](https://fnwf2023.ieee.org/)
-* [COMSNETS 2025](https://www.comsnets.org/), [COMSNETS
-  2024](https://www.comsnets.org/archive/2024/) ([Poster
-  Session](https://www.comsnets.org/poster_session.html)), [COMSNETS
-  2023](https://www.comsnets.org/archive/2023/) ([TASIR Workshop:
-  Testbeds for Advanced Systems Implementation and
-  Research](https://www.comsnets.org/archive/2023/TASIR_workshop.html) +
+
+* **2025:** [COMSNETS](https://www.comsnets.org/),
+* **2024:** [ACM WiNTECH](https://acm-wintech.github.io/2024/), [COMSNETS](https://www.comsnets.org/archive/2024/) ([Poster
+  Session](https://www.comsnets.org/poster_session.html)), [IEEE FNWF](https://fnwf2024.ieee.org/), [IFIP Networking](https://networking.ifip.org/2024/)
+* **2023:** [ACM WiNTECH](https://acm-wintech.github.io/2023/), [COMSNETS](https://www.comsnets.org/archive/2023/) ([TASIR Workshop](https://www.comsnets.org/archive/2023/TASIR_workshop.html) +
   [Poster
-  Session](https://www.comsnets.org/archive/2023/poster_session.html))
-* [ACM WiNTECH 2024](https://acm-wintech.github.io/2024/),
-  [2023](https://acm-wintech.github.io/2023/),
-  [2022](https://acm-wintech.github.io/2022/)
+  Session](https://www.comsnets.org/archive/2023/poster_session.html)),
+  [IEEE
+  FNWF](https://fnwf2023.ieee.org/)  
+* **2022:** [ACM WiNTECH](https://acm-wintech.github.io/2022/)
+* **2015:** [IEEE RAICS](https://raics.ieeemace.org/)
 
 ### As Reviewer
 
@@ -63,12 +61,15 @@
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
 * **Conferences | Workshops (Other than TPCs)**
-  	* [IEEE INFOCOM 2025](https://infocom2025.ieee-infocom.org/), [2024](https://infocom2024.ieee-infocom.org), [2023](https://infocom2023.ieee-infocom.org)
-    * [IEEE Globecom 2023](https://globecom2023.ieee-globecom.org/)
-    * [IEEE ICCC 2023](https://iccc2023.ieee-iccc.org/)
-	* [IEEE INDICON 2022](https://www.indicon2022.org/index.html)
-	* [IEEE World Forum on Internet of Things (WF-IoT) 2021, 2022](https://wfiot2022.iot.ieee.org)
-	* IEEE RAICS 2015
+    * **2025:** [IEEE INFOCOM](https://infocom2025.ieee-infocom.org/)
+    * **2024:** [IEEE INFOCOM](https://infocom2024.ieee-infocom.org)
+	* **2023:** [IEEE
+      GLOBECOM](https://globecom2023.ieee-globecom.org/), [IEEE
+      ICCC](https://iccc2023.ieee-iccc.org/), [IEEE
+      INFOCOM](https://infocom2023.ieee-infocom.org)
+    * **2022:** [IEEE
+      INDICON](https://www.indicon2022.org/index.html), [IEEE WF-IoT](https://wfiot2022.iot.ieee.org)
+    * **2021:**[IEEE WF-IoT](https://wfiot2021.iot.ieee.org)
 
 ### As Volunteer
 
