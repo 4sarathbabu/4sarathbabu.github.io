@@ -31,8 +31,8 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*ReVeal: A Physics-Informed Neural Network for
-  High-Fidelity Radio Environment Mapping*," accepted in [**IEEE
+* Paper titled "*ReVeal: A physics-informed neural network for
+  high-fidelity radio environment mapping*," accepted in [**IEEE
   International Symposium on Dynamic Spectrum Access Networks (IEEE
   DySPAN '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK,
   12–15 May 2025.
