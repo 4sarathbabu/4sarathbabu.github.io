@@ -25,7 +25,7 @@
 ### Technical Program Committees (TPCs)
 
 
-* **2025:** [COMSNETS](https://www.comsnets.org/),
+* **2025:** [COMSNETS](https://www.comsnets.org/)
 * **2024:** [ACM WiNTECH](https://acm-wintech.github.io/2024/), [COMSNETS](https://www.comsnets.org/archive/2024/) ([Poster
   Session](https://www.comsnets.org/poster_session.html)), [IEEE FNWF](https://fnwf2024.ieee.org/), [IFIP Networking](https://networking.ifip.org/2024/)
 * **2023:** [ACM WiNTECH](https://acm-wintech.github.io/2023/), [COMSNETS](https://www.comsnets.org/archive/2023/) ([TASIR Workshop](https://www.comsnets.org/archive/2023/TASIR_workshop.html) +

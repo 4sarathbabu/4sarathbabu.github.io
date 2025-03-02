@@ -35,4 +35,6 @@ next generation wireless infrastructures.
   high-fidelity radio environment mapping*," accepted in [**IEEE
   International Symposium on Dynamic Spectrum Access Networks (IEEE
   DySPAN '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK,
-  12–15 May 2025.
+  12–15 May 2025. ( [<img src="images/arxiv.png"
+  style="vertical-align: middle" height="20"></img>
+  version](https://arxiv.org/abs/2502.19646) )
