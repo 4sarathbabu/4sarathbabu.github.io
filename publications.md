@@ -44,9 +44,9 @@
 1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A Physics-Informed
    Neural Network for High-Fidelity Radio Environment
-   Mapping*]()", accepted in **IEEE International Symposium on Dynamic
-   Spectrum Access Networks (IEEE DySPAN '25)**, London, UK, 
-   May 2025. 
+   Mapping*](https://arxiv.org/abs/2502.19646)", accepted in **IEEE
+   International Symposium on Dynamic Spectrum Access Networks (IEEE
+   DySPAN '25)**, London, UK, May 2025.
 22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
    Precision Time Synchronization in Rural Wireless Living

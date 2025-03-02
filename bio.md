@@ -10,11 +10,11 @@
   *Domain*: [**<u>ARA: Wireless Living Lab for Smart and Connected Rural
 Communities</u>**](https://arawireless.org/)
 
-* **Teaching Assistant** [Feb 2014 - May 2021]  
+* **Graduate Teaching Assistant** [Feb 2014 - May 2021]  
   Department of Avionics, Indian Institute of Space Science and Technology (IIST)  
   Thiruvananthapuram, Kerala, India
 
-* **Teaching Assistant** [Jul 2009 - May 2011]  
+* **Graduate Teaching Assistant** [Jul 2009 - May 2011]  
   Department of Computer Science and Engineering, National Institute of Technology, Calicut  
   Calicut, Kerala, India
 

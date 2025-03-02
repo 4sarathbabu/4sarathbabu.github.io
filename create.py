@@ -21,7 +21,7 @@ def main(filename):
         dir_count = filename.count('/') - 1
         if dir_count:
             header_data = header_data.replace('./', '../' * dir_count)
-        if filename == './miscellaneous.md':
+        if filename == './misc.md':
             header_data += '<script src="https://cdn.wordart.com/wordart.min.js" async defer></script>\n'
 
         # Writing html header
