@@ -40,6 +40,18 @@ Communities</u>**](https://arawireless.org/)
   India  
   *Project*: Remote System Access through Universal Serial Bus
 
+* **Higher Secondary Examination (HSE)** in *Computer Science* [Jul 2003 -
+  Mar 2005]  
+  Board of Higher Secondary Examination, Kerala  
+  Brahmanandodayam Higher Secondary School, Kalady, Ernakulam, India
+  
+* **Technical High School Leaving Certificate (THSLC)** in
+  *Electronics* Trade
+  [Jun 2000 - Mar 2003]  
+  Board of Public Examinations, Kerala  
+  Model Technical Higher Secondary School, Kaprassery, Ernakulam, India
+  
+
 ### Awards | Scholarships | Certificates
 * Best Demo for **Midscale Experimental Research Infrastructure Forum
   2024 (MERIF 24)** [Sep 2024]

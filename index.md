@@ -31,6 +31,14 @@ next generation wireless infrastructures.
 
 ### Recent News
 
+* Paper titled "*Design and Implementation of ARA Wireless Living Lab
+  for Rural Broadband and Applications*," accepted for publication in
+  [**Elsevier Computer
+  Networks**](https://www.sciencedirect.com/journal/computer-networks), 2025. (
+  [<img src="images/arxiv.png" style="vertical-align: middle"
+  height="20"></img>
+  version](https://doi.org/10.48550/arXiv.2408.00913) )
+
 * Paper titled "*ReVeal: A physics-informed neural network for
   high-fidelity radio environment mapping*," accepted in [**IEEE
   International Symposium on Dynamic Spectrum Access Networks (IEEE

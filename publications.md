@@ -1,9 +1,19 @@
 
 ### Journals
 
-1. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
-   Novel Space Based Hosting Approach for Ultra Low Latency Web
-   Services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE
+1. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
+   T. Zhang, S. Reddy, W. Xu, A. Atalar, V. Lee, Y.  Chen,
+   E. Gossling, E. Permatasari, C. Somiah, O. Perrin, Z. Meng,
+   R. Afzal, **Sarath Babu**, M. Soliman, A. Hussain, D.  Qiao,
+   M. Zheng, O. Boyraz, Y. Guan, A. Arora, M. Y. Selim, A. Ahmad,
+   M. B. Cohen, M. Luby, R. Chandra, J. Gross, K. Keahey, and
+   H. Zhang, "[*Design and implementation of ARA wireless living lab
+   for rural broadband and
+   applications*](https://doi.org/10.48550/arXiv.2408.00913),"
+   accepted for publication in **Elsevier Computer Networks**, 2025.
+8. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
+   novel space based hosting approach for ultra low latency web
+   services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE
    Access**, vol. 12, pp. 142838-142862, Sep. 2024.
 7. **Sarath Babu**, A. Rajeev, and B. S. Manoj, "[*A medium-term
    disruption tolerant SDN for wireless TCP/IP
