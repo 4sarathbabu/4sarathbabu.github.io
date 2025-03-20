@@ -31,8 +31,14 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*Design and Implementation of ARA Wireless Living Lab
-  for Rural Broadband and Applications*," accepted for publication in
+* Paper titled "*AraRACH: Enhancing NextG random access reliability in
+  programmable wireless living labs*", accepted in [**IEEE
+  International Conference on Network Softwarization (IEEE NetSoft
+  2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest, Hungary,
+  June 2025.
+
+* Paper titled "*Design and implementation of ARA wireless living lab
+  for rural broadband and applications*," accepted for publication in
   [**Elsevier Computer
   Networks**](https://www.sciencedirect.com/journal/computer-networks), 2025. (
   [<img src="images/arxiv.png" style="vertical-align: middle"

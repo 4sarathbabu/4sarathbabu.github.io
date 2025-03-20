@@ -51,16 +51,22 @@
 
 ### Conferences
 
-1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
-   Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A Physics-Informed
-   Neural Network for High-Fidelity Radio Environment
-   Mapping*](https://arxiv.org/abs/2502.19646)", accepted in **IEEE
+1. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
+   F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
+   Enhancing NextG random access reliability in programmable wireless
+   living labs*]()", accepted in **11th IEEE International Conference
+   on Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
+   June 2025.
+23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
+   Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
+   neural network for high-fidelity radio environment
+   mapping*](https://arxiv.org/abs/2502.19646)", accepted in **IEEE
    International Symposium on Dynamic Spectrum Access Networks (IEEE
    DySPAN '25)**, London, UK, May 2025.
 22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
-   Precision Time Synchronization in Rural Wireless Living
-   Lab*](https://doi.org/10.1145/3636534.3697318)", in Proceedings of
+   Precision time synchronization in rural wireless living
+   lab*](https://doi.org/10.1145/3636534.3697318)", in Proceedings of
    the 30th Annual **International Conference on Mobile Computing and
    Networking (ACM MobiCom '24)**, Washington D.C., DC, USA,
    Nov. 2024, pp. 1898–1905.
