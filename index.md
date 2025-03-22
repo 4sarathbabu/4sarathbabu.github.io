@@ -35,7 +35,7 @@ next generation wireless infrastructures.
   programmable wireless living labs*", accepted in [**IEEE
   International Conference on Network Softwarization (IEEE NetSoft
   2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest, Hungary,
-  June 2025.
+  23-27 June, 2025.
 
 * Paper titled "*Design and implementation of ARA wireless living lab
   for rural broadband and applications*," accepted for publication in
@@ -49,6 +49,6 @@ next generation wireless infrastructures.
   high-fidelity radio environment mapping*," accepted in [**IEEE
   International Symposium on Dynamic Spectrum Access Networks (IEEE
   DySPAN '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK,
-  12–15 May 2025. ( [<img src="images/arxiv.png"
+  12–15 May, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/abs/2502.19646) )

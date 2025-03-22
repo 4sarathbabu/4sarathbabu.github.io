@@ -209,9 +209,9 @@
    living lab for rural broadband and
    applications*](https://doi.org/10.48550/arXiv.2408.00913)," **arXiv
    preprint** arXiv:2408.00913v1 (2024).
-5. M. Shahid et al., "[Wireless Spectrum in Rural Farmlands: Status,
-   Challenges and
-   Opportunities](https://doi.org/10.48550/arXiv.2407.04561)," **arXiv
+5. M. Shahid et al., "[Wireless spectrum in rural farmlands: Status,
+   challenges and
+   opportunities](https://doi.org/10.48550/arXiv.2407.04561)," **arXiv
    preprint** arXiv:2407.04561v1 (2024).
 4. D. Dalai, **Sarath Babu**, and B. S. Manoj, "[*Satellite-6G network
    integration roadmap on reference
