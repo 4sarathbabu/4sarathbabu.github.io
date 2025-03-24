@@ -9,8 +9,8 @@
    M. B. Cohen, M. Luby, R. Chandra, J. Gross, K. Keahey, and
    H. Zhang, "[*Design and implementation of ARA wireless living lab
    for rural broadband and
-   applications*](https://doi.org/10.48550/arXiv.2408.00913),"
-   accepted for publication in **Elsevier Computer Networks**, 2025.
+   applications*](https://doi.org/10.1016/j.comnet.2025.111188)," 
+   **Elsevier Computer Networks**, vol. 263, pp. 111188, May 2025.
 8. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE

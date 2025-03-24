@@ -37,13 +37,11 @@ next generation wireless infrastructures.
   2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest, Hungary,
   23-27 June, 2025.
 
-* Paper titled "*Design and implementation of ARA wireless living lab
-  for rural broadband and applications*," accepted for publication in
-  [**Elsevier Computer
-  Networks**](https://www.sciencedirect.com/journal/computer-networks), 2025. (
-  [<img src="images/arxiv.png" style="vertical-align: middle"
-  height="20"></img>
-  version](https://doi.org/10.48550/arXiv.2408.00913) )
+* Paper titled "[*Design and implementation of ARA wireless living lab
+  for rural broadband and
+  applications*](https://doi.org/10.1016/j.comnet.2025.111188),"
+  accepted for publication in [**Elsevier Computer
+  Networks**](https://doi.org/10.1016/j.comnet.2025.111188), May 2025.
 
 * Paper titled "*ReVeal: A physics-informed neural network for
   high-fidelity radio environment mapping*," accepted in [**IEEE
