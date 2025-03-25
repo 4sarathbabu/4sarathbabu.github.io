@@ -35,7 +35,9 @@ next generation wireless infrastructures.
   programmable wireless living labs*", accepted in [**IEEE
   International Conference on Network Softwarization (IEEE NetSoft
   2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest, Hungary,
-  23-27 June, 2025.
+  23-27 June, 2025. ( [<img src="images/arxiv.png"
+  style="vertical-align: middle" height="20"></img>
+  version](https://arxiv.org/pdf/2503.18218) )
 
 * Paper titled "[*Design and implementation of ARA wireless living lab
   for rural broadband and

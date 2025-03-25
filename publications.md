@@ -54,45 +54,49 @@
 1. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
-   living labs*]()", accepted in **11th IEEE International Conference
+   living labs*]()," accepted in **11th IEEE International Conference
    on Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
-   June 2025.
+   Jun. 2025. ( [<img src="images/arxiv.png" style="vertical-align:
+   middle" height="20"></img>
+   version](https://arxiv.org/pdf/2503.18218) )
 23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
    neural network for high-fidelity radio environment
-   mapping*](https://arxiv.org/abs/2502.19646)", accepted in **IEEE
+   mapping*](https://arxiv.org/abs/2502.19646)," accepted in **IEEE
    International Symposium on Dynamic Spectrum Access Networks (IEEE
-   DySPAN '25)**, London, UK, May 2025.
+   DySPAN '25)**, London, UK, May 2025. ( [<img src="images/arxiv.png"
+   style="vertical-align: middle" height="20"></img>
+   version](https://arxiv.org/abs/2502.19646) )
 22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
    Precision time synchronization in rural wireless living
-   lab*](https://doi.org/10.1145/3636534.3697318)", in Proceedings of
+   lab*](https://doi.org/10.1145/3636534.3697318)," in Proceedings of
    the 30th Annual **International Conference on Mobile Computing and
    Networking (ACM MobiCom '24)**, Washington D.C., DC, USA,
    Nov. 2024, pp. 1898–1905.
 21. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    H. Zhang, and D. Qiao, "[*AraSDR: End-to-end, fully-programmable
    living lab for 5G and
-   beyond*](https://doi.org/10.1109/ICC51166.2024.10623061)", in
+   beyond*](https://doi.org/10.1109/ICC51166.2024.10623061)," in
    Proceedings of the **IEEE International Conference on
    Communications (ICC)**, Denver, CO, USA, Jun. 2024, pp. 1758-1763.
 20. E. K. A. Permatasari, E. Gosling, M. Nadim, **Sarath Babu**,
     D. Qiao, H. Zhang, M. Luby, J. W. Byers, L. Minder, and
     P. Aggrawal, "[*Real-time liquid wireless transport for video
     streaming in rural and agricultural
-    applications*](https://doi.org/10.1145/3638036.3640806)", in
+    applications*](https://doi.org/10.1145/3638036.3640806)," in
     Proceedings of the 3rd **ACM Mile High Video (MHV)**, Denver, CO,
     USA, Feb. 2024, pp. 54-60.
 19. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu**, T. Zhang,
     D. Qiao, H. Zhang, and A. Arora, "[*AraHaul: Multi-modal wireless
     x-haul living lab for long-distance, high-capacity
-    communications*](https://doi.org/10.1109/FNWF58287.2023.10520543)",
+    communications*](https://doi.org/10.1109/FNWF58287.2023.10520543),"
     in Proceedings of the 2023 **IEEE Future Networks World Forum
     (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1-6.
 18. T. Zhang, G. Zu, T. U. Islam, E. Gossling, **Sarath Babu**,
     D. Qiao, and H. Zhang, "[*Exploring wireless channels in rural
     areas: A comprehensive measurement
-    study*](https://doi.org/10.1109/FNWF58287.2023.10520408)", in the
+    study*](https://doi.org/10.1109/FNWF58287.2023.10520408)," in the
     Proceedings of the 2023 **IEEE Future Networks World Forum
     (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1-6. [<span
     style="color: red;">Honorable Mention</span>]
@@ -101,14 +105,14 @@
     H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
     M. Selim, and M. B. Cohen, "[*ARA PAWR: Wireless living lab for
     smart and connected rural
-    communities*](https://doi.org/10.1145/3570361.3614068)", in
+    communities*](https://doi.org/10.1145/3570361.3614068)," in
     Proceedings of the 29th Annual **International Conference on
     Mobile Computing and Networking (ACM MobiCom '23)**. ACM, Article
     98, Oct. 2023, pp. 1-3.
 16. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
     Babu**, H. Zhang, and D. Qiao, "[*AraMIMO: Programmable TVWS mMIMO
     living lab for rural
-    wireless*](https://doi.org/10.1145/3615453.3616512)", in
+    wireless*](https://doi.org/10.1145/3615453.3616512)," in
     Proceedings of the 17th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & Characterization (WiNTECH
     '23)**, Oct. 2023, pp. 9–16. [<span style="color: red;">Best Paper
@@ -116,7 +120,7 @@
 15. M. Shahid, **Sarath Babu**, H. Zhang, D. Qiao, Y. Guan,
     J. O. Boateng, T. U. Islam, G. Zu, A. Kamal, and M. Zheng,
     "[*Wireless guard for trustworthy spectrum
-    management*](https://doi.org/10.1145/3556564.3558241)", in
+    management*](https://doi.org/10.1145/3556564.3558241)," in
     Proceedings of the 16th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & CHaracterization (WiNTECH
     '22)**, Oct. 2022, pp. 32-39.
@@ -124,7 +128,7 @@
     J. Tillotson, T. Bargo, L. Long, T. U. Islam, **Sarath Babu**,
     H. Zhang, and F. Halbach, "[*CHI-in-a-Box: Reducing operational
     costs of research
-    testbeds*](https://doi.org/10.1145/3491418.3530768)", in
+    testbeds*](https://doi.org/10.1145/3491418.3530768)," in
     Proceedings of the **ACM Practice and Experience in Advanced
     Research Computing (PEARC)** Conference Series, Jul. 2022.
 13. T. Abhiroop, **Sarath Babu**, and B. S. Manoj, "[*A machine
@@ -183,7 +187,7 @@
    Dec. 2015, pp. 1-7.
 2. A. V. Mamidi, **Sarath Babu**, and B. S. Manoj, "[*Dynamic multi-hop
    switch handoffs in software defined wireless mesh networks*](
-   https://doi.org/10.1109/ANTS.2015.7413638)," in *Proceedings of the **IEEE
+   https://doi.org/10.1109/ANTS.2015.7413638)," in Proceedings of the **IEEE
    International Conference on Advanced Networks and Telecommunications
    Systems (ANTS)**, Dec. 2015, pp. 1-6.
 1. G. Jain, **Sarath Babu**, R. Raj, K. Benson, B. S. Manoj, and
@@ -198,7 +202,7 @@
 
 1. A. D. Dhruva, **Sarath Babu**, A. Chakraborty, and B. S. Manoj,
    "[*Computing platforms for the Internet of
-   Things*](https://doi.org/10.1016/B978-0-323-90386-8.00068-1), In:
+   Things*](https://doi.org/10.1016/B978-0-323-90386-8.00068-1)," In:
    Abraham, Martin A. (eds.) Encyclopedia of Sustainable Technologies,
    2nd Edition, 2024, vol. 3, pp. 780–799. Oxford: Elsevier.
 
@@ -215,8 +219,8 @@
    preprint** arXiv:2407.04561v1 (2024).
 4. D. Dalai, **Sarath Babu**, and B. S. Manoj, "[*Satellite-6G network
    integration roadmap on reference
-   architectures*](https://doi.org/10.36227/techrxiv.20624685.v1)". **TechRxiv. Preprint.**
-   (2022).
+   architectures*](https://doi.org/10.36227/techrxiv.20624685.v1),"
+   **TechRxiv. Preprint.**  (2022).
 3. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S., Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.36227/techrxiv.18666455.v1),"
@@ -253,7 +257,7 @@
 
 1. P. Koshy, A. S. Ananthakrishnan, **Sarath Babu**, and B. S. Manoj,
    "[*IoT Enabled Biomedical Wearable Clothing System for Healthcare
-   Assistance*](), IN 449773, 2023.
+   Assistance*]()," IN 449773, 2023.
 
 
 ### Software Developed
