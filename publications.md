@@ -10,7 +10,8 @@
    H. Zhang, "[*Design and implementation of ARA wireless living lab
    for rural broadband and
    applications*](https://doi.org/10.1016/j.comnet.2025.111188)," 
-   **Elsevier Computer Networks**, vol. 263, pp. 111188, May 2025.
+   **Elsevier Computer Networks**, vol. 263, pp. 111188,
+   May 2025. <!-- <img src="images/pdf1.png" style="vertical-align: -2"> </img><img src="images/bib.png" style="vertical-align: -2"></img> -->
 8. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE

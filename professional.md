@@ -73,6 +73,9 @@
 
 ### As Volunteer
 
+* State Science and Technology Fair of Iowa
+  ([SSTFI](https://sstfi.org/)), 2025, [Served in
+  the Judging Panel], Ames, Iowa, USA.  
 * IEEE Shannon Centennial Workshop on Communications and Information
   Theory (SCWIT) 2016, CDAC, Thiruvananthapuram, India.
 * IEEE Recent Advances in Intelligent Computational Systems (RAICS)
