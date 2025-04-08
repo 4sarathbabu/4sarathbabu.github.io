@@ -42,7 +42,9 @@
 	* [IEEE Transactions on Network and Service
       Management (IEEE TNSM)](https://www.comsoc.org/publications/journals/ieee-tnsm)
     * [IEEE Transactions on Wireless Communications (IEEE TWC)](https://www.comsoc.org/publications/journals/ieee-twc)
-	* [IEEE Transactions on Communications (IEEE TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
+	* [IEEE Transactions on Communications (IEEE
+      TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
+    * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
 	* [IEEE Journal of Selected Areas in Communications
 	  (JSAC)](https://www.comsoc.org/jsac) - Series on Network
