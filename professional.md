@@ -1,6 +1,5 @@
 ### Affiliations
 
-
 * Member, [IEEE](http://www.ieee.org/index.html) [Dec 2021 - Present]
   * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
     [IEEE Computer Society](https://www.computer.org)
@@ -25,7 +24,7 @@
 ### Technical Program Committees (TPCs)
 
 
-* **2025:** [COMSNETS](https://www.comsnets.org/), [IFIP Networking](https://networking.ifip.org/2025/)
+* **2025:** [COMSNETS](https://www.comsnets.org/), [IEEE NFV-SDN](https://nfvsdn2025.ieee-nfvsdn.org/), [IFIP Networking](https://networking.ifip.org/2025/)
 * **2024:** [ACM WiNTECH](https://acm-wintech.github.io/2024/), [COMSNETS](https://www.comsnets.org/archive/2024/) ([Poster
   Session](https://www.comsnets.org/poster_session.html)), [IEEE FNWF](https://fnwf2024.ieee.org/), [IFIP Networking](https://networking.ifip.org/2024/)
 * **2023:** [ACM WiNTECH](https://acm-wintech.github.io/2023/), [COMSNETS](https://www.comsnets.org/archive/2023/) ([TASIR Workshop](https://www.comsnets.org/archive/2023/TASIR_workshop.html) +
@@ -46,6 +45,7 @@
       TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
+    * [IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)](https://ieee-itss.org/pub/t-its/)
 	* [IEEE Journal of Selected Areas in Communications
 	  (JSAC)](https://www.comsoc.org/jsac) - Series on Network
 	  Softwarization & Enablers
@@ -54,6 +54,7 @@
 	* [IEEE Communications Letters (IEEE COMML)](https://www.comsoc.org/publications/journals/ieee-comml)
     * [IEEE Networking Letters (IEEE LNET)](https://www.comsoc.org/publications/journals/ieee-lnet)
 	* [IEEE Systems Journal](https://ieeesystemsjournal.org)
+    * [IEEE Wireless Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
     * [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
 	* [IEEE Access](https://ieeeaccess.ieee.org/)
 	* [ACM Transactions on Asian and Low-Resource Language Information
@@ -62,7 +63,7 @@
       Networks](https://www.sciencedirect.com/journal/computer-networks)
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
-* **Conferences | Workshops (Other than TPCs)**
+* **Conferences | Workshops (In addition to TPCs)**
     * **2025:** [IEEE INFOCOM](https://infocom2025.ieee-infocom.org/)
     * **2024:** [IEEE INFOCOM](https://infocom2024.ieee-infocom.org)
 	* **2023:** [IEEE

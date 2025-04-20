@@ -51,4 +51,4 @@ next generation wireless infrastructures.
   DySPAN '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK,
   12–15 May, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
-  version](https://arxiv.org/abs/2502.19646) )
+  version](https://arxiv.org/pdf/2502.19646) )
