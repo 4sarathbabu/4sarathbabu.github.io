@@ -56,6 +56,7 @@
 	* [IEEE Systems Journal](https://ieeesystemsjournal.org)
     * [IEEE Wireless Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
     * [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
+	* [IEEE Computer Magazine](https://www.computer.org/csdl/magazine/co)
 	* [IEEE Access](https://ieeeaccess.ieee.org/)
 	* [ACM Transactions on Asian and Low-Resource Language Information
       Processing](https://dl.acm.org/journal/tallip)
