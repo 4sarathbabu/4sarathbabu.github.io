@@ -54,6 +54,7 @@
 	* [IEEE Communications Letters (IEEE COMML)](https://www.comsoc.org/publications/journals/ieee-comml)
     * [IEEE Networking Letters (IEEE LNET)](https://www.comsoc.org/publications/journals/ieee-lnet)
 	* [IEEE Systems Journal](https://ieeesystemsjournal.org)
+    * [IEEE Open Journal of Vehicular Technology (IEEE OJVT)](https://vtsociety.org/publication/ieee-ojvt)
     * [IEEE Wireless Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
     * [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
 	* [IEEE Computer Magazine](https://www.computer.org/csdl/magazine/co)
