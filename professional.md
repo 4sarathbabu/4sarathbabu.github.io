@@ -24,7 +24,9 @@
 ### Technical Program Committees (TPCs)
 
 
-* **2025:** [COMSNETS](https://www.comsnets.org/), [IEEE NFV-SDN](https://nfvsdn2025.ieee-nfvsdn.org/), [IFIP Networking](https://networking.ifip.org/2025/)
+* **2025:** [ACM WiNTECH](https://acm-wintech.github.io/2025/),
+  [COMSNETS](https://www.comsnets.org/), [IEEE
+  FNWF](https://fnwf2025.ieee.org/), [IEEE NFV-SDN](https://nfvsdn2025.ieee-nfvsdn.org/), [IFIP Networking](https://networking.ifip.org/2025/)
 * **2024:** [ACM WiNTECH](https://acm-wintech.github.io/2024/), [COMSNETS](https://www.comsnets.org/archive/2024/) ([Poster
   Session](https://www.comsnets.org/poster_session.html)), [IEEE FNWF](https://fnwf2024.ieee.org/), [IFIP Networking](https://networking.ifip.org/2024/)
 * **2023:** [ACM WiNTECH](https://acm-wintech.github.io/2023/), [COMSNETS](https://www.comsnets.org/archive/2023/) ([TASIR Workshop](https://www.comsnets.org/archive/2023/TASIR_workshop.html) +
@@ -43,6 +45,7 @@
     * [IEEE Transactions on Wireless Communications (IEEE TWC)](https://www.comsoc.org/publications/journals/ieee-twc)
 	* [IEEE Transactions on Communications (IEEE
       TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
+    * [IEEE Transactions on Mobile Computing (IEEE TMC)](https://www.computer.org/csdl/journal/tm)
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
     * [IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)](https://ieee-itss.org/pub/t-its/)
