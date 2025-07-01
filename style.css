@@ -41,3 +41,21 @@ a {
     color: #003380;
     text-decoration: none;
 }
+
+.award::before {
+    content: "";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-image: url('images/trophy.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.award {
+    font-weight: bold;
+    color: #990000;
+}

@@ -99,8 +99,8 @@
     areas: A comprehensive measurement
     study*](https://doi.org/10.1109/FNWF58287.2023.10520408)," in the
     Proceedings of the 2023 **IEEE Future Networks World Forum
-    (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1-6. [<span
-    style="color: red;">Honorable Mention</span>]
+    (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1-6. <br>[ <span
+    class="award">Honorable Mention</span> ]
 17. T. U. Islam, J. O. Boateng, G. Zu, M.  Shahid, M. Nadim, W. Xu,
     T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
     H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
@@ -116,8 +116,8 @@
     wireless*](https://doi.org/10.1145/3615453.3616512)," in
     Proceedings of the 17th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & Characterization (WiNTECH
-    '23)**, Oct. 2023, pp. 9–16. [<span style="color: red;">Best Paper
-    Award</span>]
+    '23)**, Oct. 2023, pp. 9–16. [ <span class="award">Best Paper
+    Award</span> ]
 15. M. Shahid, **Sarath Babu**, H. Zhang, D. Qiao, Y. Guan,
     J. O. Boateng, T. U. Islam, G. Zu, A. Kamal, and M. Zheng,
     "[*Wireless guard for trustworthy spectrum

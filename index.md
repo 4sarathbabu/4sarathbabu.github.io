@@ -31,11 +31,11 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*AraRACH: Enhancing NextG random access reliability in
-  programmable wireless living labs*", accepted in [**IEEE
-  International Conference on Network Softwarization (IEEE NetSoft
-  2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest, Hungary,
-  23-27 June, 2025. ( [<img src="images/arxiv.png"
+* [ <span class="award">Best Paper Award</span> ] Paper titled "*AraRACH: Enhancing NextG random
+  access reliability in programmable wireless living labs*", in
+  [**IEEE International Conference on Network Softwarization (IEEE
+  NetSoft 2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest,
+  Hungary, 23-27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )
 
