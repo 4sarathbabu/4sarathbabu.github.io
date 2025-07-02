@@ -53,6 +53,7 @@ Communities</u>**](https://arawireless.org/)
   
 
 ### Awards | Scholarships | Certificates
+* Best Paper Award, **IEEE NetSoft** [May 2024]
 * Best Demo for **Midscale Experimental Research Infrastructure Forum
   2024 (MERIF 24)** [Sep 2024]
 * Honorable Mention for the Paper, **IEEE Future Networks World Forum**

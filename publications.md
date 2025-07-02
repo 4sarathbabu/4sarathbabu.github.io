@@ -199,6 +199,28 @@
    Conference - South Asia Satellite (GHTC- SAS)**, Sep. 2014,
    pp. 147-153.
 
+### Demos | Posters
+
+1. T. U. Islam, M. Nadim, G. Zu, O. J. Perrin, V. Lee, J. O. Boateng,
+   M. Shahid, T. Zhang, S. Reddy, W. Xu, X. Li, A.  Atalar, Sarath
+   Babu, A. Ahmad, M. Soliman, A. Hussain, D. Qiao, M. Zheng, Y. Guan,
+   O. Boyraz, A. Arora, M.  Selim, M. B. Cohen, H. Zhang, "[*ARA PAWR:
+   Enabling wireless experiments with programmable COTS RAN and x-Haul
+   platforms*]()," in Midscale Experimental Research Infrastructure
+   Forum (MERIF ’24), Sep. 2024. [ <span class="award">Best Demo
+   Award</span> ]
+   
+1. T. U. Islam, J. O. Boateng, G. Zu, M. Shahid, M. Nadim, W. Xu,
+   T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, Sarath Babu,
+   H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
+   M. Selim, and M. B. Cohen, "[*ARA PAWR: Wireless living lab for
+   smart and connected rural
+   communities*](https://doi.org/10.1145/3570361.3614068)," in
+   Proceedings of the 29th Annual International Conference on Mobile
+   Computing and Networking (ACM MobiCom ’23). ACM, Article 98,
+   Oct. 2023, pp. 1-3.
+
+
 ### Book Chapters
 
 1. A. D. Dhruva, **Sarath Babu**, A. Chakraborty, and B. S. Manoj,
