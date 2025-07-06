@@ -31,6 +31,12 @@ next generation wireless infrastructures.
 
 ### Recent News
 
+* Poster titled "*Long-Range, High-Capacity FSOC System for Rural
+  Wireless X-Haul Using COTS Transceivers*", accepted in [**51th
+  European Conference on Optical Communication
+  (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
+  September-2 October, 2025.
+
 * [ <span class="award">Best Paper Award</span> ] Paper titled "*AraRACH: Enhancing NextG random
   access reliability in programmable wireless living labs*", in
   [**IEEE International Conference on Network Softwarization (IEEE
