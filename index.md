@@ -31,8 +31,8 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Poster titled "*Long-Range, High-Capacity FSOC System for Rural
-  Wireless X-Haul Using COTS Transceivers*", accepted in [**51th
+* Poster titled "*Long-range, high-capacity FSOC system for rural
+  wireless x-haul using COTS transceivers*", accepted in [**51th
   European Conference on Optical Communication
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
   September-2 October, 2025.

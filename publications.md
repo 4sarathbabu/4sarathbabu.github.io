@@ -59,7 +59,8 @@
    on Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
    Jun. 2025. ( [<img src="images/arxiv.png" style="vertical-align:
    middle" height="20"></img>
-   version](https://arxiv.org/pdf/2503.18218) )
+   version](https://arxiv.org/pdf/2503.18218) ) [ <span
+   class="award">Best Paper Award</span> ]
 23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
    neural network for high-fidelity radio environment
@@ -203,11 +204,10 @@
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
-   "[*Long-Range, High-Capacity FSOC System for Rural Wireless X-Haul
-   Using COTS Transceivers*]()," accepted in 51th European Conference
+   "[*Long-range, high-capacity FSOC system for Rural Wireless x-haul
+   using COTS transceivers*]()," accepted in 51th European Conference
    on Optical Communication (ECOC), Copenhagen, Denmark,
    Sep–Oct. 2025.
-
 2. T. U. Islam, M. Nadim, G. Zu, O. J. Perrin, V. Lee, J. O. Boateng,
    M. Shahid, T. Zhang, S. Reddy, W. Xu, X. Li, A.  Atalar, **Sarath
    Babu**, A. Ahmad, M. Soliman, A. Hussain, D. Qiao, M. Zheng,
@@ -215,8 +215,7 @@
    "[*ARA PAWR: Enabling wireless experiments with programmable COTS
    RAN and x-Haul platforms*]()," in Midscale Experimental Research
    Infrastructure Forum (MERIF ’24), Sep. 2024. [ <span
-   class="award">Best Demo Award</span> ]
-   
+   class="award">Best Demo Award</span> ]   
 1. T. U. Islam, J. O. Boateng, G. Zu, M. Shahid, M. Nadim, W. Xu,
    T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
    H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
