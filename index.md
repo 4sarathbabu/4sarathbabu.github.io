@@ -37,8 +37,10 @@ next generation wireless infrastructures.
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
   September-2 October, 2025.
 
-* [ <span class="award">Best Paper Award</span> ] Paper titled "*AraRACH: Enhancing NextG random
-  access reliability in programmable wireless living labs*", in
+* [ <span class="award">Best Paper Award</span> ] Paper titled
+  "[*AraRACH: Enhancing NextG random access reliability in
+  programmable wireless living
+  labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601)", in
   [**IEEE International Conference on Network Softwarization (IEEE
   NetSoft 2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest,
   Hungary, 23-27 June, 2025. ( [<img src="images/arxiv.png"

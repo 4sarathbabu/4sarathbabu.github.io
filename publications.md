@@ -55,10 +55,11 @@
 1. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
-   living labs*]()," accepted in **11th IEEE International Conference
-   on Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
-   Jun. 2025. ( [<img src="images/arxiv.png" style="vertical-align:
-   middle" height="20"></img>
+   living labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601),"
+   in Proceedings of the **11th IEEE International Conference on
+   Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
+   2025, pp. 362-370. ( [<img src="images/arxiv.png"
+   style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2503.18218) ) [ <span
    class="award">Best Paper Award</span> ]
 23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
