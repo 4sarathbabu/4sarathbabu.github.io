@@ -15,7 +15,7 @@ Platforms for Advanced Wireless Research
 of
 [**Prof.&nbsp;Hongwei&nbsp;Zhang**](https://www.ece.iastate.edu/~hongwei/). 
 
-Prior to joining ISU, I completed my PhD at the [Indian Institute of
+Prior to joining ISU, I completed my Ph.D. at the [Indian Institute of
 Space Science and Technology (IIST), India](https://www.iist.ac.in/),
 in 2021 under the guidance of
 [Prof.&nbsp;B.&nbsp;S.&nbsp;Manoj](https://www.iist.ac.in/avionics/bsmanoj). I
