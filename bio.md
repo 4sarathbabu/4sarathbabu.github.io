@@ -1,6 +1,6 @@
 ### Professional Experience
 
-* **Research Assistant Professor** [Feb 2025 - Present]  
+* **Research Assistant Professor** [Feb 2025 - Current]  
   Department of Electrical and Computer Engineering ([ECpE](https://www.ece.iastate.edu/))  
   Iowa State University ([ISU](https://www.iastate.edu/)), Ames, Iowa, USA
 

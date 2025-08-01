@@ -1,6 +1,6 @@
 ### Affiliations
 
-* Member, [IEEE](http://www.ieee.org/index.html) [Dec 2021 - Present]
+* Member, [IEEE](http://www.ieee.org/index.html) [Dec 2021 - Current]
   * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
     [IEEE Computer Society](https://www.computer.org)
   * **Communities:** [IEEE Future Networks
@@ -10,7 +10,7 @@
     Community](http://smartcities.ieee.org/), [IEEE Sensors
     Council](http://www.ieee-sensors.org/), [IEEE Systems
     Council](http://www.ieeesystemscouncil.org/)
-* Professional member, [ACM](http://www.acm.org) [Dec 2020 - Present]
+* Professional member, [ACM](http://www.acm.org) [Dec 2020 - Current]
 * Graduate student member, [IEEE](http://www.ieee.org/index.html) [Jan
   2014 - Nov 2021]
   * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
@@ -24,8 +24,9 @@
 ### Technical Program Committees (TPCs)
 
 
+* **2026:** [COMSNETS](https://www.comsnets.org/)
 * **2025:** [ACM WiNTECH](https://acm-wintech.github.io/2025/),
-  [COMSNETS](https://www.comsnets.org/), [IEEE
+  [COMSNETS](https://www.comsnets.org/archive/2025/), [IEEE
   FNWF](https://fnwf2025.ieee.org/), [IEEE NFV-SDN](https://nfvsdn2025.ieee-nfvsdn.org/), [IFIP Networking](https://networking.ifip.org/2025/)
 * **2024:** [ACM WiNTECH](https://acm-wintech.github.io/2024/), [COMSNETS](https://www.comsnets.org/archive/2024/) ([Poster
   Session](https://www.comsnets.org/poster_session.html)), [IEEE FNWF](https://fnwf2024.ieee.org/), [IFIP Networking](https://networking.ifip.org/2024/)
@@ -113,7 +114,6 @@
 ### Web Maintenance
 
 * Design, development, and maintenance of [Systems and Networks Lab
-      (SNL)](https://iist-sysnet.github.io/) web-page, IIST<br>[Oct 2017 -
-      May 2021]
+      (SNL)](https://iist-sysnet.github.io/) web-page, IIST [Oct 2017 - May 2021]
 * Maintenance of IIST Systems & Networks Lab Moodle Server [Jan 2015 - May 2021]
 

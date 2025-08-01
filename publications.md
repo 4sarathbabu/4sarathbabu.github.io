@@ -205,7 +205,7 @@
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
-   "[*Long-range, high-capacity FSOC system for Rural Wireless x-haul
+   "[*Long-range, high-capacity FSOC system for rural wireless x-haul
    using COTS transceivers*]()," accepted in 51th European Conference
    on Optical Communication (ECOC), Copenhagen, Denmark,
    Sep–Oct. 2025.
