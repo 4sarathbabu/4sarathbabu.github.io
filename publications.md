@@ -11,7 +11,7 @@
    for rural broadband and
    applications*](https://doi.org/10.1016/j.comnet.2025.111188)," 
    **Elsevier Computer Networks**, vol. 263, pp. 111188,
-   May 2025. <!-- <img src="images/pdf1.png" style="vertical-align: -2"> </img><img src="images/bib.png" style="vertical-align: -2"></img> -->
+   May 2025. 
 8. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE
@@ -52,7 +52,13 @@
 
 ### Conferences
 
-1. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
+1. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
+    "[*Real-World Integration and Evaluation of Open-Source 5G Core
+    with Commercial RAN*]()," accepted for publication in **IEEE
+    Military Communications Conference (IEEE MILCOM 2025)**, Los
+    Angels, CA, USA, 6-10 Oct. 2025.
+24. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
    living labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601),"

@@ -31,6 +31,12 @@ next generation wireless infrastructures.
 
 ### Recent News
 
+* Paper titled "*Real-World Integration and Evaluation of Open-Source
+  5G Core with Commercial RAN*" accepted in [**IEEE Military
+  Communications Conference (IEEE MILCOM
+  2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
+  6-10 October, 2025.
+
 * Poster titled "*Long-range, high-capacity FSOC system for rural
   wireless x-haul using COTS transceivers*", accepted in [**51th
   European Conference on Optical Communication
