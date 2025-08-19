@@ -31,17 +31,17 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*Real-World Integration and Evaluation of Open-Source
-  5G Core with Commercial RAN*" accepted in [**IEEE Military
+* Paper titled "*Real-world integration and evaluation of open-source
+  5G core with commercial RAN*" accepted in [**IEEE Military
   Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
-  6-10 October, 2025.
+  6–10 October, 2025.
 
 * Poster titled "*Long-range, high-capacity FSOC system for rural
   wireless x-haul using COTS transceivers*", accepted in [**51th
   European Conference on Optical Communication
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
-  September-2 October, 2025.
+  September–2 October, 2025.
 
 * [ <span class="award">Best Paper Award</span> ] Paper titled
   "[*AraRACH: Enhancing NextG random access reliability in
@@ -49,7 +49,7 @@ next generation wireless infrastructures.
   labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601)", in
   [**IEEE International Conference on Network Softwarization (IEEE
   NetSoft 2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest,
-  Hungary, 23-27 June, 2025. ( [<img src="images/arxiv.png"
+  Hungary, 23–27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )
 

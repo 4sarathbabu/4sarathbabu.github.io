@@ -42,7 +42,7 @@
 		[**NTIA Innovation Fund (NOFO
 		2)**](https://www.ntia.gov/program/innovation-fund/grant-programs/round-2-2024/program-documentation/nofo-2),
 		(Total Funding: $10,118,112; ISU: $2,400,000), Skylark
-		Wireless (PI) and Iowa State University, [Jan 2025–Dec 2027].
+		Wireless (PI) and Iowa State University, Jan 2025–Dec 2027.
 
 	2. **Site Co-PI,** "[*Acceleration of Compatibility and
 		Commercialization for Open RAN Deployments
@@ -52,13 +52,13 @@
 		(Total Funding: $42,299,693; ISU: $1,000,000), AT&T (PI),
 		Verizon, University of Texas at Dallas, Northeastern
 		University, Iowa State University, Rutgers University,
-		Virginia Tech, NTT DOCOMO, and Reliance Jio, [Jan 2024–Dec
-		2027].
+		Virginia Tech, NTT DOCOMO, and Reliance Jio, Jan 2024–Dec
+		2027.
 
 	3. **Co-PI,** "[*Open RAN Research, Testing, and Integration for
 	   Rural Industries and Communities,*]()" [**NSF
 	   NeTS**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
-	   **&** [**TIP**](https://www.nsf.gov/tip/latest),** (Total
+	   **&** [**TIP**](https://www.nsf.gov/tip/latest), (Total
 	   Funding: $1,400,000), Iowa State University (PI), May 2023–Apr
 	   2025.
 
