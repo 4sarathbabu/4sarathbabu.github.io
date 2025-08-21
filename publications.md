@@ -71,11 +71,10 @@
 23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
    neural network for high-fidelity radio environment
-   mapping*](https://arxiv.org/abs/2502.19646)," accepted in **IEEE
-   International Symposium on Dynamic Spectrum Access Networks (IEEE
-   DySPAN '25)**, London, UK, May 2025. ( [<img src="images/arxiv.png"
-   style="vertical-align: middle" height="20"></img>
-   version](https://arxiv.org/abs/2502.19646) )
+   mapping*](https://doi.org/10.1109/DySPAN64764.2025.11115911)," in
+   Proceedings of the 2025 **IEEE International Symposium on Dynamic
+   Spectrum Access Networks (IEEE DySPAN '25)**, May 2025, London, UK,
+   pp. 1–10.
 22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
    Precision time synchronization in rural wireless living
@@ -209,7 +208,13 @@
 
 ### Demos | Posters
 
-1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
+1. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
+    Real-world integration and evaluation of open-source 5G core with
+    commercial RAN*]()," accepted in **IEEE Military Communications
+    Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
+    Oct. 2025.
+3. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
    "[*Long-range, high-capacity FSOC system for rural wireless x-haul
    using COTS transceivers*]()," accepted in 51th European Conference

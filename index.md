@@ -31,9 +31,9 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*Real-world integration and evaluation of open-source
-  5G core with commercial RAN*" accepted in [**IEEE Military
-  Communications Conference (IEEE MILCOM
+* Paper and demo titled "*Real-world integration and evaluation of
+  open-source 5G core with commercial RAN*" accepted in [**IEEE
+  Military Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
   6–10 October, 2025.
 
@@ -59,10 +59,12 @@ next generation wireless infrastructures.
   accepted for publication in [**Elsevier Computer
   Networks**](https://doi.org/10.1016/j.comnet.2025.111188), May 2025.
 
-* Paper titled "*ReVeal: A physics-informed neural network for
-  high-fidelity radio environment mapping*," accepted in [**IEEE
-  International Symposium on Dynamic Spectrum Access Networks (IEEE
-  DySPAN '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK,
-  12–15 May, 2025. ( [<img src="images/arxiv.png"
-  style="vertical-align: middle" height="20"></img>
+* Paper titled "[*ReVeal: A physics-informed neural network for
+  high-fidelity radio environment
+  mapping*,](https://doi.org/10.1109/DySPAN64764.2025.11115911)"
+  accepted in [**IEEE International Symposium on Dynamic Spectrum
+  Access Networks (IEEE DySPAN
+  '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK, 12–15
+  May, 2025. ( [<img src="images/arxiv.png" style="vertical-align:
+  middle" height="20"></img>
   version](https://arxiv.org/pdf/2502.19646) )
