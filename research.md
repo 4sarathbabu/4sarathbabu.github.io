@@ -99,8 +99,8 @@
 		Data-Intensive Rural
 		Applications,*](https://wici.iastate.edu/rt-lwn/)" [**NSF CNS
 		Core,**](https://www.nsf.gov/funding/opportunities/cns-core-cns-cns-core/505671/157159)
-		(Total Funding: $600,000; ISU: $300,00), Iowa State University
-		(PI), International Computer Science Institute, Boston
+		(Total Funding: $600,000; ISU: $300,000), Iowa State University
+		(PI), International Computer Science Institute, and Boston
 		University, Oct 2022–Sep 2025.
 
 	5. **Research Scientist/Research Assistant Professor,** "[*ARA:
@@ -117,8 +117,9 @@
 		[DIT](https://www.meity.gov.in/), &
 		[IIST,](https://www.iist.ac.in/)** (Total Funding:
 		&#8377;32,00,000), Indian Institute of Space Science and
-		Technology (IIST), University of California Irvine, California
-		Institute of Technology (Caltech), Jun 2013–Jun 2016.
+		Technology (IIST), University of California Irvine, and
+		California Institute of Technology (Caltech), Jun 2013–Jun
+		2016.
 
 	7. **Graduate Student,** "[*MICRONet-Mobile Infrastructure for
 		Coastal Region Offshore Communication & Networks*]()",
@@ -132,6 +133,6 @@
 
 	8. **Graduate Student,** "[*IIST MeshNet: A Programmable Hybrid
        Wireless Mesh Network Testbed,*]()"
-       [**IIST,**](https://www.iist.ac.in/) (Total Funding: &#8377;
-       7,50,000), Indian Institute of Space Science and Technology
-       (PI), Mar 2013–Mar 2016.
+       [**IIST,**](https://www.iist.ac.in/) (Total Funding:
+       &#8377;7,50,000), Indian Institute of Space Science and
+       Technology (PI), Mar 2013–Mar 2016.
