@@ -11,7 +11,9 @@
    for rural broadband and
    applications*](https://doi.org/10.1016/j.comnet.2025.111188)," 
    **Elsevier Computer Networks**, vol. 263, pp. 111188,
-   May 2025. 
+   May 2025. ( [<img src="images/arxiv.png"
+   style="vertical-align: middle" height="20"></img>
+   version](https://arxiv.org/pdf/2408.00913) )
 8. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S. Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.1109/ACCESS.2024.3462252)," **IEEE
@@ -74,7 +76,9 @@
    mapping*](https://doi.org/10.1109/DySPAN64764.2025.11115911)," in
    Proceedings of the 2025 **IEEE International Symposium on Dynamic
    Spectrum Access Networks (IEEE DySPAN '25)**, May 2025, London, UK,
-   pp. 1–10.
+   pp. 1–10. ( [<img src="images/arxiv.png" style="vertical-align:
+   middle" height="20"></img>
+   version](https://arxiv.org/pdf/2502.19646) )
 22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
    Precision time synchronization in rural wireless living

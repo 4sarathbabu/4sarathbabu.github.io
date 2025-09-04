@@ -60,6 +60,7 @@
     * [IEEE Networking Letters (IEEE LNET)](https://www.comsoc.org/publications/journals/ieee-lnet)
 	* [IEEE Systems Journal](https://ieeesystemsjournal.org)
     * [IEEE Open Journal of Vehicular Technology (IEEE OJVT)](https://vtsociety.org/publication/ieee-ojvt)
+	* [IEEE Open Journal of the Communications Society (IEEE OJCOMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms)
     * [IEEE Wireless Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
     * [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
 	* [IEEE Computer Magazine](https://www.computer.org/csdl/magazine/co)
@@ -72,7 +73,8 @@
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
 * **Conferences | Workshops (In addition to TPCs)**
-    * IEEE INFOCOM [ [2025](https://infocom2025.ieee-infocom.org/), 
+    * IEEE INFOCOM [ [2026](https://infocom2026.ieee-infocom.org/),
+      [2025](https://infocom2025.ieee-infocom.org/),
       [2024](https://infocom2024.ieee-infocom.org/) ]
 	* IEEE GLOBECOM [ [2023](https://globecom2023.ieee-globecom.org/) ]
 	* IEEE ICCC [ [2023](https://iccc2023.ieee-iccc.org/) ]
