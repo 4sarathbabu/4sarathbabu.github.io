@@ -57,7 +57,10 @@ next generation wireless infrastructures.
   for rural broadband and
   applications*](https://doi.org/10.1016/j.comnet.2025.111188),"
   accepted for publication in [**Elsevier Computer
-  Networks**](https://doi.org/10.1016/j.comnet.2025.111188), May 2025.
+  Networks**](https://doi.org/10.1016/j.comnet.2025.111188),
+  May 2025. ( [<img src="images/arxiv.png" style="vertical-align:
+  middle" height="20"></img>
+  version](https://arxiv.org/pdf/2408.00913) )
 
 * Paper titled "[*ReVeal: A physics-informed neural network for
   high-fidelity radio environment
