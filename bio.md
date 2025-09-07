@@ -62,6 +62,9 @@ Communities</u>**](https://arawireless.org/)
 * Best Paper Award, **ACM WiNTECH** [ Oct 2023 ]
 * Outstanding Teaching Assistant Award, Department of Avionics, IIST [
   Nov 2019 ]
+* Selected Participant Supported by Travel Grant, **ICTS-Northeastern
+  Discussion Meeting on Games, Epidemics, and Behavior,** Bangalore,
+  India [ Jun 2016 ]
 * IIST scholarship from Department of Space, Government of India [ Feb 2014–Jan 2019 ]
 * MHRD scholarship from Government of India [ Jul 2009–May 2011 ]
 * Graduate Aptitude Test in Engineering (GATE) 2009, MHRD, Government of
