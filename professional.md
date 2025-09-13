@@ -1,24 +1,32 @@
 ### Affiliations
 
-* Member, [IEEE](http://www.ieee.org/index.html) [ Dec 2021–Current ]
-  * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
+* **[Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)**
+  * **Working Groups**
+    * IEEE Future Networks, [International Network Generations Roadmap
+      (INGR)](https://futurenetworks.ieee.org/roadmap), **Satellite**
+      [ Apr 2020–Current ]
+  * **Memberships**
+	* Member, [IEEE](http://www.ieee.org/index.html) [ Dec 2021–Current ]
+	* **Societies:** [IEEE Communications Society](http://www.comsoc.org),
     [IEEE Computer Society](https://www.computer.org)
-  * **Communities:** [IEEE Future Networks
+	* **Communities:** [IEEE Future Networks
     Community](https://futurenetworks.ieee.org/), [IEEE Internet of
     Things Community](http://iot.ieee.org/), [IEEE Software Defined
     Networks Community](https://sdn.ieee.org/), [IEEE Smart Cities
     Community](http://smartcities.ieee.org/), [IEEE Sensors
     Council](http://www.ieee-sensors.org/), [IEEE Systems
     Council](http://www.ieeesystemscouncil.org/)
-* Professional member, [ACM](http://www.acm.org) [ Dec 2020–Current ]
-* Graduate student member, [IEEE](http://www.ieee.org/index.html) [ Jan
-  2014–Nov 2021 ]
-  * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
-  [IEEE Computer Society](https://www.computer.org)
-  *  [IEEE Student Branch](https://www.facebook.com/ieeesbiist/), IIST
-    * Secretary [ Dec 2014–Jan 2018 ]
+	* Graduate student member, [IEEE](http://www.ieee.org/index.html) [ Jan2014–Nov 2021 ]
+	  * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
+		  [IEEE Computer Society](https://www.computer.org)
+	* [IEEE Student Branch](https://www.facebook.com/ieeesbiist/),
+         IIST, Secretary [ Dec 2014–Jan 2018 ]
 	* Executive Committee member [ Feb 2018–Feb 2020 ]
-* Student member, [ACM](http://www.acm.org) [ Mar 2014–Nov 2020 ]
+
+* **[Association of Computing Machinery (ACM)](https://www.acm.org/)**
+  * **Memberships**
+	* Professional member, [ACM](http://www.acm.org) [ Dec 2020–Current ]
+	* Student member, [ACM](http://www.acm.org) [ Mar 2014–Nov 2020 ]
 
   
 ### Technical Program Committees (TPCs)
@@ -107,7 +115,6 @@
 	* AV231 - *Analog Electronic Circuits Lab* [ Aug–Nov 2014, Aug–Nov 2015, Aug–Nov 2016 ]
 	* AV141 - *Basic Electrical and Electronics Engineering Lab* [ Mar–May
       2015 ]
-
 * **Teaching Assistant, Department of Computer Science and Engineering, NIT Calicut**
 	* CS3092 - *Operating Systems Lab* [ Jan–May 2011 ]		
 	* CS6103 - *Software Systems Lab* [ Aug–Dec 2010 ]

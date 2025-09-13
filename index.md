@@ -31,6 +31,13 @@ next generation wireless infrastructures.
 
 ### Recent News
 
+* Paper titled "*AraOptical system and testbed for long-range,
+  high-capacity FSOC in rural wireless x-haul networks*" accepted in
+  21st [**International Conference on emerging Networking EXperiments and
+  Technologies (ACM
+  CoNEXT)**](https://conferences.sigcomm.org/co-next/2025/#!/home),
+  HKUST, Hong Kong, 1–4 December, 2025. 
+
 * Paper and demo titled "*Real-world integration and evaluation of
   open-source 5G core with commercial RAN*" accepted in [**IEEE
   Military Communications Conference (IEEE MILCOM
@@ -62,12 +69,3 @@ next generation wireless infrastructures.
   middle" height="20"></img>
   version](https://arxiv.org/pdf/2408.00913) )
 
-* Paper titled "[*ReVeal: A physics-informed neural network for
-  high-fidelity radio environment
-  mapping*,](https://doi.org/10.1109/DySPAN64764.2025.11115911)"
-  accepted in [**IEEE International Symposium on Dynamic Spectrum
-  Access Networks (IEEE DySPAN
-  '25)**](https://dyspan2025.ieee-dyspan.org/), London, UK, 12–15
-  May, 2025. ( [<img src="images/arxiv.png" style="vertical-align:
-  middle" height="20"></img>
-  version](https://arxiv.org/pdf/2502.19646) )

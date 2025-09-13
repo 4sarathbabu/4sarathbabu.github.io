@@ -54,7 +54,13 @@
 
 ### Conferences
 
-1. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+1. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
+   D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
+   for long-range, high-capacity FSOC in rural wireless x-haul
+   networks*]()," accepted for publication in 21st **International
+   Conference on emerging Networking EXperiments and Technologies (ACM
+   CoNEXT)**, HKUST, Hong Kong, 1–4 December, 2025.
+25. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
     with commercial RAN*]()," accepted for publication in **IEEE
