@@ -31,38 +31,38 @@ next generation wireless infrastructures.
 
 ### Recent News
 
-* Paper titled "*AraOptical system and testbed for long-range,
-  high-capacity FSOC in rural wireless x-haul networks*" accepted in
-  21st [**International Conference on emerging Networking EXperiments and
-  Technologies (ACM
-  CoNEXT)**](https://conferences.sigcomm.org/co-next/2025/#!/home),
-  HKUST, Hong Kong, 1–4 December, 2025. 
+* Paper titled "[*AraOptical system and testbed for long-range,
+  high-capacity FSOC in rural wireless x-haul networks,*]()" accepted
+  in 21th [**International Conference on emerging Networking
+  EXperiments and Technologies (ACM
+  CoNEXT),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
+  HKUST, Hong Kong, 1–4 December, 2025.
 
-* Paper and demo titled "*Real-world integration and evaluation of
-  open-source 5G core with commercial RAN*" accepted in [**IEEE
+* Paper and demo titled "[*Real-world integration and evaluation of
+  open-source 5G core with commercial RAN,*]()" accepted in [**IEEE
   Military Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
   6–10 October, 2025.
 
-* Poster titled "*Long-range, high-capacity FSOC system for rural
-  wireless x-haul using COTS transceivers*", accepted in [**51th
-  European Conference on Optical Communication
+* Poster titled "[*Long-range, high-capacity FSOC system for rural
+  wireless x-haul using COTS transceivers,*]()" accepted in 51th
+  [**European Conference on Optical Communication
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
   September–2 October, 2025.
 
 * [ <span class="award">Best Paper Award</span> ] Paper titled
   "[*AraRACH: Enhancing NextG random access reliability in
   programmable wireless living
-  labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601)", in
+  labs,*](https://doi.org/10.1109/NetSoft64993.2025.11080601)" in
   [**IEEE International Conference on Network Softwarization (IEEE
-  NetSoft 2025)**](https://netsoft2025.ieee-netsoft.org/), Budapest,
+  NetSoft 2025),**](https://netsoft2025.ieee-netsoft.org/) Budapest,
   Hungary, 23–27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )
 
 * Paper titled "[*Design and implementation of ARA wireless living lab
   for rural broadband and
-  applications*](https://doi.org/10.1016/j.comnet.2025.111188),"
+  applications,*](https://doi.org/10.1016/j.comnet.2025.111188)"
   accepted for publication in [**Elsevier Computer
   Networks**](https://doi.org/10.1016/j.comnet.2025.111188),
   May 2025. ( [<img src="images/arxiv.png" style="vertical-align:

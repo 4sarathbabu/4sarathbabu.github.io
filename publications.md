@@ -70,7 +70,7 @@
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
    living labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601),"
-   in Proceedings of the **11th IEEE International Conference on
+   in Proceedings of the 11th **IEEE International Conference on
    Network Softwarization (IEEE NetSoft 2025)**, Budapest, Hungary,
    2025, pp. 362–370. ( [<img src="images/arxiv.png"
    style="vertical-align: middle" height="20"></img>
