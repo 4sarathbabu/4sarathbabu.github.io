@@ -26,7 +26,7 @@ Communities</u>**](https://arawireless.org/)
   *Thesis*: Software Defined Disruption Tolerant Networks
   ( [<img src="images/pdf.png" height=14>
   PDF](uploads/2021/PhD_Thesis_Sarath_Babu.pdf) )  
-  *Advisor*: [Prof. B. S. Manoj](https://www.iist.ac.in/avionics/bsmanoj)  
+  *Advisor*: [Prof. B. S. Manoj](https://www.iist.ac.in/people-faculty-profile/b-s-manoj)  
 
 
 * **Master of Technology (M.Tech.)** in *Computer Science and

@@ -18,11 +18,11 @@ of
 Prior to joining ISU, I completed my Ph.D. at the [Indian Institute of
 Space Science and Technology (IIST), India](https://www.iist.ac.in/),
 in 2021 under the guidance of
-[Prof.&nbsp;B.&nbsp;S.&nbsp;Manoj](https://www.iist.ac.in/avionics/bsmanoj). I
+[Prof.&nbsp;B.&nbsp;S.&nbsp;Manoj](https://www.iist.ac.in/people-faculty-profile/b-s-manoj). I
 obtained my master's and bachelor's degrees from the [National
 Institute of Technology, Calicut (NITC)](http://nitc.ac.in/) and
 [Mahatma Gandhi University (MGU)](http://www.mguniversity.edu/),
-India, respectively. 
+India, respectively.
 
 Broadly, my research interests lie in the design and development of
 next generation wireless infrastructures.
