@@ -59,7 +59,7 @@
    for long-range, high-capacity FSOC in rural wireless x-haul
    networks*]()," accepted for publication in 21st **International
    Conference on emerging Networking EXperiments and Technologies (ACM
-   CoNEXT)**, HKUST, Hong Kong, 1–4 December, 2025.
+   CoNEXT 2025)**, HKUST, Hong Kong, 1–4 December, 2025.
 25. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core

@@ -34,8 +34,8 @@ next generation wireless infrastructures.
 * Paper titled "[*AraOptical system and testbed for long-range,
   high-capacity FSOC in rural wireless x-haul networks,*]()" accepted
   in 21th [**International Conference on emerging Networking
-  EXperiments and Technologies (ACM
-  CoNEXT),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
+  EXperiments and Technologies (ACM CoNEXT
+  2025),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
   HKUST, Hong Kong, 1–4 December, 2025.
 
 * Paper and demo titled "[*Real-world integration and evaluation of
