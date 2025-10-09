@@ -63,7 +63,7 @@ next generation wireless infrastructures.
 * Paper titled "[*Design and implementation of ARA wireless living lab
   for rural broadband and
   applications,*](https://doi.org/10.1016/j.comnet.2025.111188)"
-  accepted for publication in [**Elsevier Computer
+  accepted in [**Elsevier Computer
   Networks**](https://doi.org/10.1016/j.comnet.2025.111188),
   May 2025. ( [<img src="images/arxiv.png" style="vertical-align:
   middle" height="20"></img>

@@ -219,33 +219,60 @@
 ### Demos | Posters
 
 1. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
-    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
-    Real-world integration and evaluation of open-source 5G core with
-    commercial RAN*]()," accepted in **IEEE Military Communications
-    Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
-    Oct. 2025.
-3. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
+   Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
+   Real-world integration and evaluation of open-source 5G core with
+   commercial RAN*]()," accepted in **IEEE Military Communications
+   Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
+   Oct. 2025.
+8. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
    "[*Long-range, high-capacity FSOC system for rural wireless x-haul
-   using COTS transceivers*]()," accepted in 51th European Conference
-   on Optical Communication (ECOC), Copenhagen, Denmark,
+   using COTS transceivers*]()," accepted in 51th **European
+   Conference on Optical Communication (ECOC)**, Copenhagen, Denmark,
    Sep–Oct. 2025.
-2. T. U. Islam, M. Nadim, G. Zu, V. Lee, O. J. Perrin, J. O. Boateng,
+7. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
+   Babu**, A. Ahmed, D. Qiao, A. Arora, and H.  Zhang, "[*Demo:
+   AraSync: Precision time synchronization in rural wireless living
+   lab*]()," in 30th Annual **International Conference on Mobile
+   Computing and Networking (ACM MobiCom ’24)**, Washington, D.C.,
+   USA, Nov. 2024.
+6. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
+   T. Zhang, S. Reddy, W. Xu, A. Atalar, V. Lee, Y. F.  Chen,
+   E. Gosling, E. Permatasari, Z. Meng, **Sarath Babu**, M. Soliman,
+   A. Hussain, D. Qiao, M. Zheng, O. Boyraz, Y.  Guan, A. Arora,
+   M. Selim, A. Ahmad, M. B. Cohen, and H. Zhang, "[*Demo: ARA PAWR
+   Wireless living lab for smart and connected rural
+   communities*](https://doi.org/10.1109/ICNP61940.2024.10858584)," in
+   32nd **IEEE International Conference on Network Protocols (IEEE
+   ICNP 2024)**, Charleroi, Belgium, Oct. 2024, pp. 1–3.
+5. J. O. Boateng, T. Zhang, **Sarath Babu**, and H. Zhang,
+   "[*ARA-enabled end-to-end 5G and Open RAN prototyping using srsRAN
+   and FlexRIC*]()," in **srsRAN Project Fall Workshop**, Arlington,
+   VA, USA, Oct. 2024.
+4. T. U. Islam, M. Nadim, G. Zu, V. Lee, O. J. Perrin, J. O. Boateng,
    M. Shahid, T. Zhang, E. K. A. Permatasari, Z. Meng, **Sarath
    Babu**, D. Qiao, and H. Zhang, "[*ARA PAWR: Enabling wireless
    experiments with programmable COTS RAN and x-Haul platforms*](),"
-   in Midscale Experimental Research Infrastructure Forum (MERIF ’24),
-   Sep. 2024. [ <span
+   in **Midscale Experimental Research Infrastructure Forum (MERIF
+   '24)**, Sep. 2024. [ <span
    class="award">Best Demo Award</span> ]   
-1. T. U. Islam, J. O. Boateng, G. Zu, M. Shahid, M. Nadim, W. Xu,
+3. **Sarath Babu**, T. U. Islam, J. O. Boateng, M. Nadim, T. Zhang,
+   and H. Zhang, "[*ARA PAWR: Wireless living lab for smart and
+   connected rural communities*]()," in IEEE International Conference
+   on Communications (IEEE ICC), Denver, CO, USA, Jun. 2024.
+2. T. U. Islam, J. O. Boateng, G. Zu, M. Shahid, M. Nadim, W. Xu,
    T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
    H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
    M. Selim, and M. B. Cohen, "[*ARA PAWR: Wireless living lab for
    smart and connected rural
    communities*](https://doi.org/10.1145/3570361.3614068)," in
-   Proceedings of the 29th Annual International Conference on Mobile
-   Computing and Networking (ACM MobiCom ’23). ACM, Article 98,
+   Proceedings of the 29th Annual **International Conference on Mobile
+   Computing and Networking (ACM MobiCom '23)**. ACM, Article 98,
    Oct. 2023, pp. 1–3.
+1. J. O. Boateng, T. Zhang, **Sarath Babu**, T. U. Islam, M. Shahid,
+   and H. Zhang, "[*ARA rural wireless living lab and end-to-end OTA
+   containerized OAI 5G-NR support*]()," in Fall 2022 OpenAirInterface
+   North American Workshop, San Diego, CA, USA, Nov. 2022.
 
 
 ### Book Chapters
