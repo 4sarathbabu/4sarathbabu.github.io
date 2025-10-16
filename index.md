@@ -31,6 +31,12 @@ next generation wireless infrastructures.
 
 ### Recent News
 
+* Poster titled "[*Demonstration of a 4.2km MISO free-space optical
+   communication link using COTS SFP+ transceivers*]()," accepted in
+   [**SPIE Photonics
+   West**](https://spie.org/conferences-and-exhibitions/photonics-west),
+   San Francisco, CA, 17–22 Jan. 2026.
+
 * Paper titled "[*AraOptical system and testbed for long-range,
   high-capacity FSOC in rural wireless x-haul networks,*]()" accepted
   in 21th [**International Conference on emerging Networking
@@ -53,19 +59,10 @@ next generation wireless infrastructures.
 * [ <span class="award">Best Paper Award</span> ] Paper titled
   "[*AraRACH: Enhancing NextG random access reliability in
   programmable wireless living
-  labs,*](https://doi.org/10.1109/NetSoft64993.2025.11080601)" in
-  [**IEEE International Conference on Network Softwarization (IEEE
-  NetSoft 2025),**](https://netsoft2025.ieee-netsoft.org/) Budapest,
-  Hungary, 23–27 June, 2025. ( [<img src="images/arxiv.png"
+  labs,*](https://doi.org/10.1109/NetSoft64993.2025.11080601)"
+  accepted in [**IEEE International Conference on Network
+  Softwarization (IEEE NetSoft
+  2025),**](https://netsoft2025.ieee-netsoft.org/) Budapest, Hungary,
+  23–27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )
-
-* Paper titled "[*Design and implementation of ARA wireless living lab
-  for rural broadband and
-  applications,*](https://doi.org/10.1016/j.comnet.2025.111188)"
-  accepted in [**Elsevier Computer
-  Networks**](https://doi.org/10.1016/j.comnet.2025.111188),
-  May 2025. ( [<img src="images/arxiv.png" style="vertical-align:
-  middle" height="20"></img>
-  version](https://arxiv.org/pdf/2408.00913) )
-

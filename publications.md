@@ -218,18 +218,21 @@
 
 ### Demos | Posters
 
-1. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
+   C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
+   and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
+   communication link using COTS SFP+ transceivers*]()," accepted in
+   **SPIE Photonics West**, San Francisco, CA, 17–22 Jan. 2026.
+9. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
    Real-world integration and evaluation of open-source 5G core with
-   commercial RAN*]()," accepted in **IEEE Military Communications
-   Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
-   Oct. 2025.
+   commercial RAN*]()," in **IEEE Military Communications Conference
+   (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10 Oct. 2025.
 8. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
    "[*Long-range, high-capacity FSOC system for rural wireless x-haul
-   using COTS transceivers*]()," accepted in 51th **European
-   Conference on Optical Communication (ECOC)**, Copenhagen, Denmark,
-   Sep–Oct. 2025.
+   using COTS transceivers*]()," in 51th **European Conference on
+   Optical Communication (ECOC)**, Copenhagen, Denmark, Sep–Oct. 2025.
 7. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, and H.  Zhang, "[*Demo:
    AraSync: Precision time synchronization in rural wireless living
