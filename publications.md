@@ -21,26 +21,27 @@
 7. **Sarath Babu**, A. Rajeev, and B. S. Manoj, "[*A medium-term
    disruption tolerant SDN for wireless TCP/IP
    networks*](https://doi.org/10.1109/TNSM.2020.3023889)," **IEEE
-   Transactions on Network and Service Management**, vol. 17, no. 4,
-   pp. 2318–2334, Dec. 2020.
+   Transactions on Network and Service Management (IEEE TNSM)**,
+   vol. 17, no. 4, pp. 2318–2334, Dec. 2020.
 6. A. Chakraborty, **Sarath Babu**, and B. S. Manoj, "[*On achieving
    capacity-enhanced small-world
    networks*](https://doi.org/10.1016/j.physa.2020.124729)," **Physica A:
    Statistical Mechanics and its Applications**, vol. 556, p. 124729,
    Oct. 2020.
-5. **Sarath Babu** and B. S. Manoj, "[*Toward a type-based analysis of road
-   networks*](https://dl.acm.org/doi/10.1145/3397579)," **ACM Transactions
-   on Spatial Algorithms and Systems**, vol. 6, no. 4, pp. 28:1–28:45,
-   Aug. 2020.
+5. **Sarath Babu** and B. S. Manoj, "[*Toward a type-based analysis of
+   road networks*](https://dl.acm.org/doi/10.1145/3397579)," **ACM
+   Transactions on Spatial Algorithms and Systems (ACM TSAS)**,
+   vol. 6, no. 4, pp. 28:1–28:45, Aug. 2020.
 4. P. Koshy, **Sarath Babu**, and B. S. Manoj, "[*Sliding window blockchain
    architecture for Internet of
    Things*](https://doi.org/10.1109/JIOT.2020.2967119)," **IEEE Internet of
    Things Journal**, vol. 7, no. 4, pp. 3338–3348, Apr. 2020.
-3. **Sarath Babu**, P. V. Mithun, and B. S. Manoj, "[*A novel framework for
-   resource discovery and self-configuration in software defined wireless
-   mesh networks*](https://doi.org/10.1109/TNSM.2019.2922107)," **IEEE
-   Transactions on Network and Service Management**, vol. 17, no. 1,
-   pp. 132–146, Mar. 2020.
+3. **Sarath Babu**, P. V. Mithun, and B. S. Manoj, "[*A novel
+   framework for resource discovery and self-configuration in software
+   defined wireless mesh
+   networks*](https://doi.org/10.1109/TNSM.2019.2922107)," **IEEE
+   Transactions on Network and Service Management (IEEE TNSM)**,
+   vol. 17, no. 1, pp. 132–146, Mar. 2020.
 2. N. Anand, **Sarath Babu**, and B. S. Manoj, "[*On detecting compromised
    controller in software defined
    networks*](https://doi.org/10.1016/j.comnet.2018.03.021)," **Elsevier
