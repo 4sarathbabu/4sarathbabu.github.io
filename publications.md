@@ -58,15 +58,18 @@
 1. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
    D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
    for long-range, high-capacity FSOC in rural wireless x-haul
-   networks*]()," accepted for publication in 21st **International
-   Conference on emerging Networking EXperiments and Technologies (ACM
-   CoNEXT 2025)**, HKUST, Hong Kong, 1–4 December, 2025.
+   networks*](https://doi.org/10.1145/3768986)," in Proceedings of the
+   **ACM Networking,** 21st **International Conference on emerging
+   Networking EXperiments and Technologies (ACM CoNEXT 2025)**,
+   vol. 3, no. CoNEXT4, HKUST, Hong Kong, Nov. 2025, pp. 39:1–39:21.
 25. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
-    with commercial RAN*]()," accepted for publication in **IEEE
-    Military Communications Conference (IEEE MILCOM 2025)**, Los
-    Angels, CA, USA, 6–10 Oct. 2025.
+    with commercial
+    RAN*](https://arawireless.org/wp-content/uploads/2025/10/Real-World-Integration-and-Evaluation-of-Open-Source-5G-Core-with-Commercial-RAN.pdf),"
+    accepted for publication in **IEEE Military Communications
+    Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
+    Oct. 2025.
 24. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless

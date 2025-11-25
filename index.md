@@ -38,15 +38,17 @@ next generation wireless infrastructures.
    San Francisco, CA, 17–22 Jan. 2026.
 
 * Paper titled "[*AraOptical system and testbed for long-range,
-  high-capacity FSOC in rural wireless x-haul networks,*]()" accepted
-  in 21th [**International Conference on emerging Networking
-  EXperiments and Technologies (ACM CoNEXT
+  high-capacity FSOC in rural wireless x-haul
+  networks,*](https://doi.org/10.1145/3768986)" accepted in 21th
+  [**International Conference on emerging Networking EXperiments and
+  Technologies (ACM CoNEXT
   2025),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
   HKUST, Hong Kong, 1–4 December, 2025.
 
 * Paper and demo titled "[*Real-world integration and evaluation of
-  open-source 5G core with commercial RAN,*]()" accepted in [**IEEE
-  Military Communications Conference (IEEE MILCOM
+  open-source 5G core with commercial
+  RAN,*](https://arawireless.org/wp-content/uploads/2025/10/Real-World-Integration-and-Evaluation-of-Open-Source-5G-Core-with-Commercial-RAN.pdf)"
+  accepted in [**IEEE Military Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
   6–10 October, 2025.
 
