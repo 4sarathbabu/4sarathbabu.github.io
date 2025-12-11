@@ -31,6 +31,9 @@
   
 ### Technical Program Committees (TPCs)
 
+* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
+  [2025](https://networking.ifip.org/2025/),
+  [2024](https://networking.ifip.org/2024/) ]
 * COMSNETS [ [2026](https://www.comsnets.org/),
   [2025](https://www.comsnets.org/archive/2025/),
   [2024](https://www.comsnets.org/archive/2024/),
@@ -40,8 +43,6 @@
   [2024](https://acm-wintech.github.io/2024/),
   [2023](https://acm-wintech.github.io/2023/),
   [2022](https://acm-wintech.github.io/2022/) ]
-* IFIP Networking [ [2025](https://networking.ifip.org/2025/),
-  [2024](https://networking.ifip.org/2024/) ]
 * IEEE FNWF [ [2025](https://fnwf2025.ieee.org/),
   [2024](https://fnwf2024.ieee.org/),
   [2023](https://fnwf2023.ieee.org/) ]
@@ -59,6 +60,7 @@
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
     * [IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)](https://ieee-itss.org/pub/t-its/)
+	* [IEEE Transactions on Big Data (IEEE TBD)](https://www.computer.org/csdl/journal/bd)
 	* [IEEE Journal of Selected Areas in Communications
 	  (JSAC)](https://www.comsoc.org/jsac) - Series on Network
 	  Softwarization & Enablers

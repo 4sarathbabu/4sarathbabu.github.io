@@ -53,8 +53,9 @@ next generation wireless infrastructures.
   6–10 October, 2025.
 
 * Poster titled "[*Long-range, high-capacity FSOC system for rural
-  wireless x-haul using COTS transceivers,*]()" accepted in 51th
-  [**European Conference on Optical Communication
+  wireless x-haul using COTS
+  transceivers,*](https://doi.org/10.1109/ECOC66593.2025.11263248)"
+  accepted in 51th [**European Conference on Optical Communication
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
   September–2 October, 2025.
 
