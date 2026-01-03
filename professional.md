@@ -59,6 +59,8 @@
     * [IEEE Transactions on Mobile Computing (IEEE TMC)](https://www.computer.org/csdl/journal/tm)
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
+    * [IEEE Transactions on Vehicular Technology (IEEE TVT)](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
+	* [IEEE Transactions on Industrial Informatics (IEEE TII)](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)
     * [IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)](https://ieee-itss.org/pub/t-its/)
 	* [IEEE Transactions on Big Data (IEEE TBD)](https://www.computer.org/csdl/journal/bd)
 	* [IEEE Journal of Selected Areas in Communications

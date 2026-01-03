@@ -47,7 +47,7 @@ next generation wireless infrastructures.
 
 * Paper and demo titled "[*Real-world integration and evaluation of
   open-source 5G core with commercial
-  RAN,*](https://arawireless.org/wp-content/uploads/2025/10/Real-World-Integration-and-Evaluation-of-Open-Source-5G-Core-with-Commercial-RAN.pdf)"
+  RAN,*](https://doi.org/10.1109/MILCOM64451.2025.11309851)"
   accepted in [**IEEE Military Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
   6–10 October, 2025.

@@ -66,10 +66,9 @@
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
     with commercial
-    RAN*](https://arawireless.org/wp-content/uploads/2025/10/Real-World-Integration-and-Evaluation-of-Open-Source-5G-Core-with-Commercial-RAN.pdf),"
-    accepted for publication in **IEEE Military Communications
-    Conference (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10
-    Oct. 2025.
+    RAN*](https://doi.org/10.1109/MILCOM64451.2025.11309851)," in
+    Proceedings of the **IEEE Military Communications Conference (IEEE
+    MILCOM 2025)**, Los Angels, CA, USA, Oct. 2025, pp. 1296–1301.
 24. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
@@ -230,8 +229,10 @@
 9. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
    Real-world integration and evaluation of open-source 5G core with
-   commercial RAN*]()," in **IEEE Military Communications Conference
-   (IEEE MILCOM 2025)**, Los Angels, CA, USA, 6–10 Oct. 2025.
+   commercial
+   RAN*](https://doi.org/10.1109/MILCOM64451.2025.11310344)," in
+   Proceedings of the **IEEE Military Communications Conference (IEEE
+   MILCOM 2025)**, Los Angels, CA, USA, Oct. 2025, pp. 881–882.
 8. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
    "[*Long-range, high-capacity FSOC system for rural wireless x-haul
