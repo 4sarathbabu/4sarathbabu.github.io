@@ -297,7 +297,12 @@
    
 ### arXiv/TechRxiv Preprints
 
-1. T. U. Islam et al., "[*Design and implementation of ARA wireless
+1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, Sarath
+   Babu, Y. Guan, Z. Zhu, and A. Ahmad, "[ReVeal-MT: A
+   physics-informed neural network for multi-transmitter radio
+   environment mapping](https://doi.org/10.48550/arXiv.2512.04100),"
+   arXiv preprint arXiv:2512.04100v1, (2025).
+6. T. U. Islam et al., "[*Design and implementation of ARA wireless
    living lab for rural broadband and
    applications*](https://doi.org/10.48550/arXiv.2408.00913)," **arXiv
    preprint** arXiv:2408.00913v1 (2024).

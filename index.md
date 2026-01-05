@@ -45,6 +45,11 @@ next generation wireless infrastructures.
   2025),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
   HKUST, Hong Kong, 1–4 December, 2025.
 
+* Paper titled "[*ReVeal-MT: A physics-informed neural network for
+  multi-transmitter radio environment
+  mapping*](https://doi.org/10.48550/arXiv.2512.04100)," is now
+  available in arXiv.
+
 * Paper and demo titled "[*Real-world integration and evaluation of
   open-source 5G core with commercial
   RAN,*](https://doi.org/10.1109/MILCOM64451.2025.11309851)"
