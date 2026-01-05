@@ -298,34 +298,34 @@
 ### arXiv/TechRxiv Preprints
 
 1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, Sarath
-   Babu, Y. Guan, Z. Zhu, and A. Ahmad, "[ReVeal-MT: A
+   Babu, Y. Guan, Z. Zhu, and A. Ahmad, "[*ReVeal-MT: A
    physics-informed neural network for multi-transmitter radio
-   environment mapping](https://doi.org/10.48550/arXiv.2512.04100),"
-   arXiv preprint arXiv:2512.04100v1, (2025).
+   environment mapping*](https://doi.org/10.48550/arXiv.2512.04100),"
+   arXiv preprint arXiv:2512.04100v1, Nov. 2025.
 6. T. U. Islam et al., "[*Design and implementation of ARA wireless
    living lab for rural broadband and
    applications*](https://doi.org/10.48550/arXiv.2408.00913)," **arXiv
-   preprint** arXiv:2408.00913v1 (2024).
+   preprint** arXiv:2408.00913v1, Aug. 2024.
 5. M. Shahid et al., "[Wireless spectrum in rural farmlands: Status,
    challenges and
    opportunities](https://doi.org/10.48550/arXiv.2407.04561)," **arXiv
-   preprint** arXiv:2407.04561v1 (2024).
+   preprint** arXiv:2407.04561v1, Jul. 2024.
 4. D. Dalai, **Sarath Babu**, and B. S. Manoj, "[*Satellite-6G network
    integration roadmap on reference
    architectures*](https://doi.org/10.36227/techrxiv.20624685.v1),"
-   **TechRxiv. Preprint.**  (2022).
+   **TechRxiv preprint,** Aug. 2022.
 3. D. Dalai, **Sarath Babu**, B. S. Vineeth, and B. S., Manoj, "[*A
    novel space based hosting approach for ultra low latency web
    services*](https://doi.org/10.36227/techrxiv.18666455.v1),"
-   **TechRxiv. Preprint.** (2022).
+   **TechRxiv preprint,** Feb. 2022.
 2. D. D. Anantha, **Sarath Babu**, A. Chakraborty, and B. S.
    Manoj, "[*Computing boards for Internet of Things: A comparative
    survey*](https://doi.org/10.36227/techrxiv.18517235.v1),"
-   **TechRxiv. Preprint.** (2022).
+   **TechRxiv preprint,** Jan. 2022.
 1. **Sarath Babu**, G. Jain, and B. S. Manoj, "[*Urban delay tolerant
    network simulator (UDTNSim v0. 1)*](
    http://arxiv.org/abs/1709.05645)," **arXiv preprint**
-   arXiv:1709.05645 (2017).
+   arXiv:1709.05645, Sep. 2017.
 
 
 ### Technical Reports
