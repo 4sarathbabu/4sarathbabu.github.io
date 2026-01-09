@@ -10,7 +10,7 @@
    H. Zhang, "[*Design and implementation of ARA wireless living lab
    for rural broadband and
    applications*](https://doi.org/10.1016/j.comnet.2025.111188)," 
-   **Elsevier Computer Networks**, vol. 263, pp. 111188,
+   **Elsevier Computer Networks**, vol. 263, p. 111188,
    May 2025. ( [<img src="images/arxiv.png"
    style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2408.00913) )
