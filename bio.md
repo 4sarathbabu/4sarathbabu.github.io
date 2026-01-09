@@ -34,7 +34,7 @@ Communities</u>**](https://arawireless.org/)
   National Institute of Technology ([NITC](http://nitc.ac.in)), Calicut,
   India  
   *Masters thesis*: A Usage Control Based Model for Multi-domain Environments with Distributed Attributes  
-  *Advisor*: [Prof. Priya Chandran](http://people.cse.nitc.ac.in/priya/)  
+  *Advisor*: [Prof. Priya Chandran](https://nitc.ac.in/department/computer-science-amp-engineering/faculty-and-staff/faculty/7ccd0aa7-bf15-4b99-ade1-ec1de32ac7f3)  
 
 * **Bachelor of Technology (B.Tech.)** in *Information Technology* [
   Aug 2005–Aug 2009 ]  
