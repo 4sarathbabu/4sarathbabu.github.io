@@ -55,19 +55,20 @@
 		Virginia Tech, NTT DOCOMO, and Reliance Jio, Jan 2024–Dec
 		2027.
 
-	3. **Co-PI,** "[*Open RAN Research, Testing, and Integration for
+	3. **Co-PI,** "[*ARA Launchpad: Open Wireless Platforms, Data and
+		Co-Prototyping for Integrative Research and Community
+		Building,*](https://arawireless.org/)" [**NSF
+		NeTS,**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
+		(Total Funding: $784,000), Iowa State University (PI), Oct
+		2023–May 2026.
+
+	4. **Co-PI,** "[*Open RAN Research, Testing, and Integration for
 	   Rural Industries and Communities,*]()" [**NSF
 	   NeTS**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
 	   **&** [**TIP**](https://www.nsf.gov/tip/latest), (Total
 	   Funding: $1,400,000), Iowa State University (PI), May 2023–Apr
 	   2025.
 
-	4. **Co-PI,** "[*ARA Launchpad: Open Wireless Platforms, Data and
-		Co-Prototyping for Integrative Research and Community
-		Building,*](https://arawireless.org/)" [**NSF
-		NeTS,**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
-		(Total Funding: $784,000), Iowa State University (PI), Oct
-		2023–May 2026.
 
 * **As Senior Personnel | Other Roles**
 
@@ -111,7 +112,11 @@
 		University of California Irvine, Ohio State University, and
 		International Computer Science Institute, Jun 2021–May 2026.
 
-	6. **Graduate Student,** "[*Indo-US Collaborative Research on
+	6. **Graduate Student,** "[*Research and Development of an
+		Integrated Enterprise Network Security System,*]()" **[IIST]()
+		& [ISRO](https://www.isro.gov.in/)**, May 2018–May 2020.
+
+	7. **Graduate Student,** "[*Indo-US Collaborative Research on
 		Pervasive Computing for Disaster Response,*]()"
 		**[NSF,](https://www.nsf.gov/)
 		[DIT](https://www.meity.gov.in/), &
@@ -121,7 +126,7 @@
 		California Institute of Technology (Caltech), Jun 2013–Jun
 		2016.
 
-	7. **Graduate Student,** "[*MICRONet-Mobile Infrastructure for
+	8. **Graduate Student,** "[*MICRONet-Mobile Infrastructure for
 		Coastal Region Offshore Communication & Networks*]()",
 		**[IIST](https://www.iist.ac.in/),
 		[ISRO-HQ](https://www.isro.gov.in/), &
@@ -131,7 +136,7 @@
 		Information Technology and Management-Kerala, Feb 2014–Jun
 		2016.
 
-	8. **Graduate Student,** "[*IIST MeshNet: A Programmable Hybrid
+	9. **Graduate Student,** "[*IIST MeshNet: A Programmable Hybrid
        Wireless Mesh Network Testbed,*]()"
        [**IIST,**](https://www.iist.ac.in/) (Total Funding:
        &#8377;7,50,000), Indian Institute of Space Science and
