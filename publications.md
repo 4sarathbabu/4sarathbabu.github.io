@@ -355,8 +355,12 @@
 
 ### Software Developed
 
-
-1. **OpenFlow Software Switch with Controlled Buffering:** Enables an
+1. **AraSoft:** Software Control Framework for ARA Wireless Living Lab
+   Objective: Design and develop a scalable and robust software
+   control framework for the ARA Wireless Living Lab that enables
+   advanced, reproducible wireless experimentation across
+   heterogeneous compute, storage, wireless, and sensing platforms.
+3. **OpenFlow Software Switch with Controlled Buffering:** Enables an
    SDN switch for controlled buffering of packets to handle link
    disruptions in software defined wireless environments.
 2. **Software Defined Optimized Link State Routing (SD-OLSR)
