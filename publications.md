@@ -226,14 +226,14 @@
    and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
    communication link using COTS SFP+ transceivers*]()," accepted in
    **SPIE Photonics West**, San Francisco, CA, 17–22 Jan. 2026.
-9. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+10. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
    Real-world integration and evaluation of open-source 5G core with
    commercial
    RAN*](https://doi.org/10.1109/MILCOM64451.2025.11310344)," in
    Proceedings of the **IEEE Military Communications Conference (IEEE
    MILCOM 2025)**, Los Angels, CA, USA, Oct. 2025, pp. 881–882.
-8. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
+9. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
    M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
    "[*Long-range, high-capacity FSOC system for rural wireless x-haul
    using COTS
@@ -241,6 +241,11 @@
    in Proceedings of the 51th **European Conference on Optical
    Communication (ECOC)**, Copenhagen, Denmark, Sep–Oct. 2025,
    pp. 1–4.
+8. M. Kandes, **Sarath Babu**, Z. Meng, and H. Zhang, "[*ARA
+   distributed inference experiments: Flying HTCondor over a field of
+   wireless
+   dreams,*](https://agenda.hep.wisc.edu/event/2297/contributions/33889/)"
+   **Throughput Computing 2025, HTC25,** Madison, WI, USA, Jun. 2025
 7. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
    Babu**, A. Ahmed, D. Qiao, A. Arora, and H.  Zhang, "[*Demo:
    AraSync: Precision time synchronization in rural wireless living
