@@ -48,7 +48,9 @@ next generation wireless infrastructures.
 * Paper titled "[*ReVeal-MT: A physics-informed neural network for
   multi-transmitter radio environment
   mapping*](https://doi.org/10.48550/arXiv.2512.04100)," is now
-  available in arXiv.
+  available in [<img src="images/arxiv.png" style="vertical-align:
+  middle"
+  height="20"></img>](https://doi.org/10.48550/arXiv.2512.04100).
 
 * Paper and demo titled "[*Real-world integration and evaluation of
   open-source 5G core with commercial
