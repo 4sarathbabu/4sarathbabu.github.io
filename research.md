@@ -1,35 +1,38 @@
 ### Research Focus & Interests
 
-* **Distributed Systems, Testbeds, and Network Measurement:** Design,
-  development, and deployment of scalable, resilient, and secure
+* **Distributed Systems, Testbeds, and Network Measurement:** Design
+  and experimental evaluation of scalable, resilient, and secure
   distributed computing and communication systems across heterogeneous
-  compute, storage, and wireless platforms, including building
-  prototypes and testbeds, and performing real-world network
-  measurements for evaluating and optimizing system performance,
-  reliability, fault-tolerance, and security.
+  cloud, edge, and wireless platforms. This includes building
+  large-scale prototypes and testbeds and conducting real-world
+  network measurements to analyze performance, reliability, fault
+  tolerance, and security.
+  
+* **Next-Generation Wireless Networks:** Experimental design and
+  deployment of real-world wireless platforms for 5G-and-beyond
+  systems, Open Radio Access Networks (Open RAN), wireless mesh
+  networks, and satellite-integrated architectures.
 
-* **Next Generation Wireless Networks:** Experimental design,
-  evaluation, and deployment of real-world wireless and distributed
-  system testbeds for 5G and beyond, and Open Radio Access Networks
-  (Open RAN), wireless mesh networks, and satellite networks.
+* **Software-Defined Wireless Networks and Internet of Things (IoT):**
+  Modeling and implementation of SDN-based approaches in wireless and
+  IoT systems, including mesh, delay/disruption-tolerant, and sensor
+  networks, along with lightweight frameworks (e.g.,
+  blockchain-enabled IoT solutions) to support emerging applications.
 
-* **Software Defined Wireless Networks and Internet of Things (IoT):**
-  Modeling and implementation of Software Defined Networking
-  (SDN)-based approaches in wireless systems (including wireless mesh
-  networks, delay/disruption tolerant networks, and sensor networks)
-  and building lightweight solutions (such as blockchain-based
-  frameworks for IoT) to support emerging applications.
+* **Complex Network Analysis for Applied Systems:** Application of
+  complex network modeling and analysis to practical systems such as
+  road networks and intelligent transportation systems, enabling the
+  development of mobility models, routing strategies, and security
+  mechanisms.
 
-* **Complex Network Analysis for Applied Systems:** Applying complex
-  network tools to analyze practical systems such as road networks and
-  intelligent transportation systems, enabling the design and
-  development of mobility models, routing protocols, and security
-  frameworks.
-
-* **Systems Security:** Analysis of security threats and attacks on
-  Software Defined Networking (SDN) architectures, and the design and
-  implementation of practical defense mechanisms to ensure reliability
-  and resilience.
+* **Systems Security:** Security analysis of distributed and
+  software-defined systems, including threat modeling and attack
+  characterization in SDN architectures, and the design of practical
+  defense mechanisms for improved resilience. My work explores secure
+  control architectures, attack-resilient protocols, and lightweight
+  cryptography-enabled frameworks (e.g., blockchain-assisted
+  mechanisms) suitable for resource-constrained and large-scale
+  distributed environments.
 
 
 ### Research Projects Involved

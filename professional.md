@@ -109,9 +109,17 @@
   ([COMSNETS](https://www.comsnets.org/)) 2015, Bangalore, India.
 
 
-### Teaching Assistantship 
+### Teaching | Mentoring
 
-* **Teaching Assistant, Department of Avionics, IIST**
+* **[Mentoring] Department of Electrical and Computer Engineering, Iowa State University**
+    * HON 2900 - First-Year Honors Mentor Program (Research) [Spring
+      2026]
+	* CprE/EE/SE 4910 - Senior Design I [Spring 2025, 2026]
+	* CprE/EE/SE 4920 - Senior Design II [Fall 2025, 2026]
+	* NSF REU - Research Experiences for Undergraduates (17 Students)
+      [Jan 2022–May 2025]
+
+* **[Teaching Assistant] Department of Avionics, IIST**
 	* AV484 - *Wireless Mesh Networks* [ Aug–Nov 2014, Aug–Nov 2015,
       Aug–Dec 2016, Aug–Nov 2018, <br>Aug–Nov 2019 ]
 	* AV321 - *Computer Networks* [ Jan–May 2018 ]
@@ -121,7 +129,9 @@
 	* AV231 - *Analog Electronic Circuits Lab* [ Aug–Nov 2014, Aug–Nov 2015, Aug–Nov 2016 ]
 	* AV141 - *Basic Electrical and Electronics Engineering Lab* [ Mar–May
       2015 ]
-* **Teaching Assistant, Department of Computer Science and Engineering, NIT Calicut**
+
+* **[Teaching Assistant] Department of Computer Science and
+  Engineering, NIT Calicut**
 	* CS3092 - *Operating Systems Lab* [ Jan–May 2011 ]		
 	* CS6103 - *Software Systems Lab* [ Aug–Dec 2010 ]
 
