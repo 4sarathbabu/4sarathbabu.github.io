@@ -26,6 +26,18 @@
 * **[Association of Computing Machinery (ACM)](https://www.acm.org/)**
   * **Memberships**
 	* Professional member, [ACM](http://www.acm.org) [ Dec 2020–Current ]
+	  * **Special Interest Groups (SIGs)**:
+        [SIGCOMM](https://www.sigcomm.org/),
+        [SIGMOBILE](https://www.sigmobile.org/),
+        [SIGMETRICS](https://www.sigmetrics.org/),
+        [SIGOPS](https://www.sigops.org/),
+        [SIGSIM](https://sigsim.acm.org/)
+	  * **Emerging Interest Groups (EIGs)**: [Reproducibility and
+        Replicability](https://reproducibility.acm.org/), [Trustworthy
+        and Responsible
+        Systems](https://www.acm.org/special-interest-groups/eigs),
+        [Digital
+        Transformation](https://www.acm.org/special-interest-groups/eigs)
 	* Student member, [ACM](http://www.acm.org) [ Mar 2014–Nov 2020 ]
 
   
