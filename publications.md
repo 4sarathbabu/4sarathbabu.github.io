@@ -1,7 +1,14 @@
 
 ### Journals
 
-1. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
+1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
+   C. J. Margison, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and
+   O. Boyraz, "[*AraOptical Testbed: Design, Field Trials, and Channel
+   Analysis of Long-range FSOC System with COTS
+   Transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
+   accepted for publication in **IEEE/Optica Journal of Lightwave
+   Technology (IEEE JLT)**, Feb. 2026.
+9. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
    T. Zhang, S. Reddy, W. Xu, A. Atalar, V. Lee, Y.  Chen,
    E. Gossling, E. Permatasari, C. Somiah, O. Perrin, Z. Meng,
    R. Afzal, **Sarath Babu**, M. Soliman, A. Hussain, D.  Qiao,
