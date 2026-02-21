@@ -45,7 +45,7 @@ spanning cloud, edge, and wireless platforms.
    communication link using COTS SFP+ transceivers*]()," accepted in
    [**SPIE Photonics
    West**](https://spie.org/conferences-and-exhibitions/photonics-west),
-   San Francisco, CA, 17–22 Jan. 2026.
+   San Francisco, CA, 17&ndash;22 Jan. 2026.
 
 * Paper titled "[*AraOptical system and testbed for long-range,
   high-capacity FSOC in rural wireless x-haul
@@ -53,7 +53,7 @@ spanning cloud, edge, and wireless platforms.
   [**International Conference on emerging Networking EXperiments and
   Technologies (ACM CoNEXT
   2025),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
-  HKUST, Hong Kong, 1–4 December, 2025.
+  HKUST, Hong Kong, 1&ndash;4 December, 2025.
 
 * Paper titled "[*ReVeal-MT: A physics-informed neural network for
   multi-transmitter radio environment
@@ -67,14 +67,14 @@ spanning cloud, edge, and wireless platforms.
   RAN,*](https://doi.org/10.1109/MILCOM64451.2025.11309851)"
   accepted in [**IEEE Military Communications Conference (IEEE MILCOM
   2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
-  6–10 October, 2025.
+  6&ndash;10 October, 2025.
 
 * Poster titled "[*Long-range, high-capacity FSOC system for rural
   wireless x-haul using COTS
   transceivers,*](https://doi.org/10.1109/ECOC66593.2025.11263248)"
   accepted in 51th [**European Conference on Optical Communication
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
-  September–2 October, 2025.
+  September&ndash;2 October, 2025.
 
 * [ <span class="award">Best Paper Award</span> ] Paper titled
   "[*AraRACH: Enhancing NextG random access reliability in
@@ -83,6 +83,6 @@ spanning cloud, edge, and wireless platforms.
   accepted in [**IEEE International Conference on Network
   Softwarization (IEEE NetSoft
   2025),**](https://netsoft2025.ieee-netsoft.org/) Budapest, Hungary,
-  23–27 June, 2025. ( [<img src="images/arxiv.png"
+  23&ndash;27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )

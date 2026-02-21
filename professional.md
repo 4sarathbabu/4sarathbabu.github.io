@@ -4,9 +4,9 @@
   * **Working Groups**
     * IEEE Future Networks, [International Network Generations Roadmap
       (INGR)](https://futurenetworks.ieee.org/roadmap), **Satellite**
-      [ Apr 2020–Current ]
+      [ Apr 2020&ndash;Current ]
   * **Memberships**
-	* Member, [IEEE](http://www.ieee.org/index.html) [ Dec 2021–Current ]
+	* Member, [IEEE](http://www.ieee.org/index.html) [ Dec 2021&ndash;Current ]
 	* **Societies:** [IEEE Communications Society](http://www.comsoc.org),
     [IEEE Computer Society](https://www.computer.org)
 	* **Communities:** [IEEE Future Networks
@@ -16,29 +16,30 @@
     Community](http://smartcities.ieee.org/), [IEEE Sensors
     Council](http://www.ieee-sensors.org/), [IEEE Systems
     Council](http://www.ieeesystemscouncil.org/)
-	* Graduate student member, [IEEE](http://www.ieee.org/index.html) [ Jan2014–Nov 2021 ]
+	* Graduate student member, [IEEE](http://www.ieee.org/index.html) [ Jan2014&ndash;Nov 2021 ]
 	  * **Societies:** [IEEE Communications Society](http://www.comsoc.org),
 		  [IEEE Computer Society](https://www.computer.org)
 	* [IEEE Student Branch](https://www.facebook.com/ieeesbiist/),
-         IIST, Secretary [ Dec 2014–Jan 2018 ]
-	* Executive Committee member [ Feb 2018–Feb 2020 ]
+         IIST, Secretary [ Dec 2014&ndash;Jan 2018 ]
+	* Executive Committee member [ Feb 2018&ndash;Feb 2020 ]
 
 * **[Association of Computing Machinery (ACM)](https://www.acm.org/)**
   * **Memberships**
-	* Professional member, [ACM](http://www.acm.org) [ Dec 2020–Current ]
+	* Professional member, [ACM](http://www.acm.org) [ Dec 2020&ndash;Current ]
 	  * **Special Interest Groups (SIGs)**:
         [SIGCOMM](https://www.sigcomm.org/),
         [SIGMOBILE](https://www.sigmobile.org/),
         [SIGMETRICS](https://www.sigmetrics.org/),
         [SIGOPS](https://www.sigops.org/),
-        [SIGSIM](https://sigsim.acm.org/)
+        [SIGSIM](https://sigsim.acm.org/) [ Mar 2026&ndash;Current ]
 	  * **Emerging Interest Groups (EIGs)**: [Reproducibility and
         Replicability](https://reproducibility.acm.org/), [Trustworthy
         and Responsible
         Systems](https://www.acm.org/special-interest-groups/eigs),
         [Digital
         Transformation](https://www.acm.org/special-interest-groups/eigs)
-	* Student member, [ACM](http://www.acm.org) [ Mar 2014–Nov 2020 ]
+        [ Mar 2026&ndash;Current ]
+	* Student member, [ACM](http://www.acm.org) [ Mar 2014&ndash;Nov 2020 ]
 
   
 ### Technical Program Committees (TPCs)
@@ -112,47 +113,49 @@
 
 * State Science and Technology Fair of Iowa
   ([SSTFI](https://sstfi.org/)), 2025, [Served in
-  the Judging Panel], Ames, Iowa, USA.  
+  the Judging Panel], Ames, Iowa, USA. [ Mar 2025 ]  
 * IEEE Shannon Centennial Workshop on Communications and Information
-  Theory (SCWIT) 2016, CDAC, Thiruvananthapuram, India.
+  Theory (SCWIT) 2016, CDAC, Thiruvananthapuram, India. [ Dec 2016 ]
 * IEEE Recent Advances in Intelligent Computational Systems (RAICS)
-  2015, Organized by IEEE Kerala Section, Thiruvananthapuram, India.
+  2015, Organized by IEEE Kerala Section, Thiruvananthapuram, India. [
+  Dec 2015 ]
 * 7th International Conference on COMmunication Systems & NETworkS
-  ([COMSNETS](https://www.comsnets.org/)) 2015, Bangalore, India.
+  ([COMSNETS](https://www.comsnets.org/)) 2015, Bangalore, India. [
+  Jan 2015 ]
 
 
 ### Teaching | Mentoring
 
 * **[Mentoring] Department of Electrical and Computer Engineering, Iowa State University**
-    * HON 2900 - First-Year Honors Mentor Program (Research) [Spring
-      2026]
-	* CprE/EE/SE 4910 - Senior Design I [Spring 2025, 2026]
-	* CprE/EE/SE 4920 - Senior Design II [Fall 2025, 2026]
-	* NSF REU - Research Experiences for Undergraduates (17 Students)
-      [Jan 2022–May 2025]
+    * HON 2900&mdash;*First-Year Honors Mentor Program (Research)* [
+      Spring 2026 ]
+	* CprE/EE/SE 4910&mdash;*Senior Design I* [ Spring 2025, 2026 ]
+	* CprE/EE/SE 4920&mdash;*Senior Design II* [ Fall 2025, 2026 ]
+	* NSF REU&mdash;*Research Experiences for Undergraduates* (17
+      Students) [ Jan 2022&ndash;May 2025 ]
 
 * **[Teaching Assistant] Department of Avionics, IIST**
-	* AV484 - *Wireless Mesh Networks* [ Aug–Nov 2014, Aug–Nov 2015,
-      Aug–Dec 2016, Aug–Nov 2018, <br>Aug–Nov 2019 ]
-	* AV321 - *Computer Networks* [ Jan–May 2018 ]
-	* AV341 - *Computer Networks Lab* [ Jan– May 2015, Jan–May
-      2016, Jan–May 2017, Jan–May 2018 ]
-	* AV482 - *Data Structures and DBMS* [ Aug–Nov 2017 ]
-	* AV231 - *Analog Electronic Circuits Lab* [ Aug–Nov 2014, Aug–Nov 2015, Aug–Nov 2016 ]
-	* AV141 - *Basic Electrical and Electronics Engineering Lab* [ Mar–May
-      2015 ]
+	* AV484&mdash;*Wireless Mesh Networks* [ Aug&ndash;Nov 2014, Aug&ndash;Nov 2015,
+      Aug–Dec 2016, Aug–Nov 2018, <br>Aug&ndash;Nov 2019 ]
+	* AV321&mdash;*Computer Networks* [ Jan&ndash;May 2018 ]
+	* AV341&mdash;*Computer Networks Lab* [ Jan&ndash;May 2015, Jan&ndash;May
+      2016, Jan&ndash;May 2017, Jan&ndash;May 2018 ]
+	* AV482&mdash;*Data Structures and DBMS* [ Aug&ndash;Nov 2017 ]
+	* AV231&mdash;*Analog Electronic Circuits Lab* [ Aug&ndash;Nov 2014, Aug&ndash;Nov 2015, Aug&ndash;Nov 2016 ]
+	* AV141&mdash;*Basic Electrical and Electronics Engineering Lab* [
+      Mar&ndash;May 2015 ]
 
 * **[Teaching Assistant] Department of Computer Science and
   Engineering, NIT Calicut**
-	* CS3092 - *Operating Systems Lab* [ Jan–May 2011 ]		
-	* CS6103 - *Software Systems Lab* [ Aug–Dec 2010 ]
+	* CS3092&mdash;*Operating Systems Lab* [ Jan&ndash;May 2011 ]		
+	* CS6103&mdash;*Software Systems Lab* [ Aug&ndash;Dec 2010 ]
 
 	  
 ### Web Maintenance
 
 * Design, development, and maintenance of [Systems and Networks Lab
       (SNL)](https://iist-sysnet.github.io/) web-page, IIST [ Oct
-      2017–May 2021 ]
+      2017&ndash;May 2021 ]
 * Maintenance of IIST Systems & Networks Lab Moodle Server [ Jan
-  2015–May 2021 ]
+  2015&ndash;May 2021 ]
 

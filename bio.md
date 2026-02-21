@@ -1,26 +1,26 @@
 ### Professional Experience
 
-* **Research Assistant Professor** [ Feb 2025–Current ]  
+* **Research Assistant Professor** [ Feb 2025&ndash;Current ]  
   Department of Electrical and Computer Engineering ([ECpE](https://www.ece.iastate.edu/))  
   Iowa State University ([ISU](https://www.iastate.edu/)), Ames, Iowa, USA
 
-* **Research Scientist II** [ Oct 2021–Feb 2025 ]  
+* **Research Scientist II** [ Oct 2021&ndash;Feb 2025 ]  
   Department of Electrical and Computer Engineering ([ECpE](https://www.ece.iastate.edu/))  
   Iowa State University ([ISU](https://www.iastate.edu/)), Ames, Iowa, USA  
-  *Domain*: [**<u>ARA: Wireless Living Lab for Smart and Connected Rural
-Communities</u>**](https://arawireless.org/)
+  *Domain*: [**<u>ARA: Wireless Living Lab for Smart and Connected
+Rural Communities</u>**](https://arawireless.org/)
 
-* **Graduate Teaching Assistant** [ Feb 2014–May 2021 ]  
+* **Graduate Teaching Assistant** [ Feb 2014&ndash;May 2021 ]  
   Department of Avionics, Indian Institute of Space Science and Technology (IIST)  
   Thiruvananthapuram, Kerala, India
 
-* **Graduate Teaching Assistant** [ Jul 2009–May 2011 ]  
+* **Graduate Teaching Assistant** [ Jul 2009&ndash;May 2011 ]  
   Department of Computer Science and Engineering, National Institute of Technology, Calicut  
   Calicut, Kerala, India
 
 
 ### Education
-* **Doctor of Philosophy (Ph.D.)** [ Feb 2014–May 2021 ]<br>
+* **Doctor of Philosophy (Ph.D.)** [ Feb 2014&ndash;May 2021 ]<br>
   Indian Institute of Space Science and Technology
   ([IIST](https://www.iist.ac.in)), Thiruvananthapuram, India  
   *Thesis*: Software Defined Disruption Tolerant Networks
@@ -30,27 +30,30 @@ Communities</u>**](https://arawireless.org/)
 
 
 * **Master of Technology (M.Tech.)** in *Computer Science and
-  Engineering (Information Security)* [ Jul 2009–May 2011 ]  
-  National Institute of Technology ([NITC](http://nitc.ac.in)), Calicut,
+  Engineering (Information Security)* [ Jul 2009&ndash;May 2011 ]  
+  National Institute of Technology ([NITC](http://nitc.ac.in)),
+  Calicut,
   India  
   *Masters thesis*: A Usage Control Based Model for Multi-domain Environments with Distributed Attributes  
   *Advisor*: [Prof. Priya Chandran](https://nitc.ac.in/department/computer-science-amp-engineering/faculty-and-staff/faculty/7ccd0aa7-bf15-4b99-ade1-ec1de32ac7f3)  
 
 * **Bachelor of Technology (B.Tech.)** in *Information Technology* [
-  Aug 2005–Aug 2009 ]  
-  Mahatma Gandhi University ([MGU](http://www.mguniversity.edu)), Kottayam,
+  Aug 2005&ndash;Aug 2009 ]  
+  Mahatma Gandhi University ([MGU](http://www.mguniversity.edu)),
+  Kottayam,
   India  
   *Project*: Remote System Access through Universal Serial Bus
 
-* **Higher Secondary Examination (HSE)** in *Computer Science* [ Jul 2003–Mar 2005 ]  
+* **Higher Secondary Examination (HSE)** in *Computer Science* [ Jul 2003&ndash;Mar 2005 ]  
   Board of Higher Secondary Examination, Kerala  
   Brahmanandodayam Higher Secondary School, Kalady, Ernakulam, India
   
 * **Technical High School Leaving Certificate (THSLC)** in
   *Electronics* Trade
-  [ Jun 2000–Mar 2003 ]  
+  [ Jun 2000&ndash;Mar 2003 ]  
   Board of Public Examinations, Kerala  
-  Model Technical Higher Secondary School, Kaprassery, Ernakulam, India
+  Model Technical Higher Secondary School, Kaprassery, Ernakulam,
+  India
   
 
 ### Awards | Scholarships | Certificates
