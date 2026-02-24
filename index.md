@@ -33,9 +33,9 @@ spanning cloud, edge, and wireless platforms.
 
 ### Recent News
 
-* Paper titled "[*AraOptical Testbed: Design, Field Trials, and
-   Channel Analysis of Long-range FSOC System with COTS
-   Transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
+* Paper titled "[*AraOptical testbed: Design, field trials, and
+   channel analysis of long-range FSOC system with COTS
+   transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
    accepted for publication in [**IEEE/Optica Journal of Lightwave
    Technology (IEEE
    JLT)**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/),

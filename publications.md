@@ -3,9 +3,9 @@
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and
-   O. Boyraz, "[*AraOptical Testbed: Design, Field Trials, and Channel
-   Analysis of Long-range FSOC System with COTS
-   Transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
+   O. Boyraz, "[*AraOptical testbed: Design, field trials, and channel
+   analysis of long-range FSOC system with COTS
+   transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
    accepted for publication in **IEEE/Optica Journal of Lightwave
    Technology (IEEE JLT)**, Feb. 2026.
 9. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
