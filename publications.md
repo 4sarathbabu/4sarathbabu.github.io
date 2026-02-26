@@ -5,7 +5,7 @@
    C. J. Margison, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and
    O. Boyraz, "[*AraOptical testbed: Design, field trials, and channel
    analysis of long-range FSOC system with COTS
-   transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
+   transceivers*](https://doi.org/10.1109/JLT.2026.3667493),"
    accepted for publication in **IEEE/Optica Journal of Lightwave
    Technology (IEEE JLT)**, Feb. 2026.
 9. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,

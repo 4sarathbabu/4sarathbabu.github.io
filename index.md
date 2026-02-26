@@ -35,7 +35,7 @@ spanning cloud, edge, and wireless platforms.
 
 * Paper titled "[*AraOptical testbed: Design, field trials, and
    channel analysis of long-range FSOC system with COTS
-   transceivers*](https://par.nsf.gov/servlets/purl/10662879),"
+   transceivers*](https://doi.org/10.1109/JLT.2026.3667493),"
    accepted for publication in [**IEEE/Optica Journal of Lightwave
    Technology (IEEE
    JLT)**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/),
@@ -46,6 +46,13 @@ spanning cloud, edge, and wireless platforms.
    [**SPIE Photonics
    West**](https://spie.org/conferences-and-exhibitions/photonics-west),
    San Francisco, CA, 17&ndash;22 Jan. 2026.
+
+* System Demo: "[*ARA-to-ICICLE: Remote Data Sourcing for Agricultural AI
+  Processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)."
+  ( [<img src="images/video.png"
+  style="vertical-align: middle"
+  height="25"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
+  )
 
 * Paper titled "[*AraOptical system and testbed for long-range,
   high-capacity FSOC in rural wireless x-haul
