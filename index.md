@@ -39,16 +39,17 @@ spanning cloud, edge, and wireless platforms.
    accepted for publication in [**IEEE/Optica Journal of Lightwave
    Technology (IEEE
    JLT)**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/),
-   Feb. 2026.
+   February 2026.
 
 * Poster titled "[*Demonstration of a 4.2km MISO free-space optical
    communication link using COTS SFP+ transceivers*]()," accepted in
    [**SPIE Photonics
    West**](https://spie.org/conferences-and-exhibitions/photonics-west),
-   San Francisco, CA, 17&ndash;22 Jan. 2026.
+   San Francisco, CA, 17&ndash;22 January 2026.
 
 * System Demo: "[*ARA-to-ICICLE: Remote Data Sourcing for Agricultural AI
-  Processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)."
+  Processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)," 
+  December 2025.
   ( [<img src="images/video.png"
   style="vertical-align: middle"
   height="25"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
