@@ -65,7 +65,14 @@
 
 ### Conferences
 
-1. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
+1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
+   Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
+   R. Chandra, and H. Zhang, "[*Revisiting TVWS for Rural Broadband:
+   Policy Insights from Nationwide Availability Analysis and ARA Field
+   Validation*]()", accepted for publication in Proceedings of the
+   2026 **IEEE International Symposium on Dynamic Spectrum Access
+   Networks (IEEE DySPAN '26)**, May 2026, Washington D.C., USA.
+26. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
    D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
    for long-range, high-capacity FSOC in rural wireless x-haul
    networks*](https://doi.org/10.1145/3768986)," in Proceedings of the
