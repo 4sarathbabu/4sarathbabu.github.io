@@ -67,9 +67,9 @@
 
 1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
-   R. Chandra, and H. Zhang, "[*Revisiting TVWS for Rural Broadband:
-   Policy Insights from Nationwide Availability Analysis and ARA Field
-   Validation*]()", accepted for publication in Proceedings of the
+   R. Chandra, and H. Zhang, "[*Revisiting TVWS for rural broadband:
+   Policy insights from nationwide availability analysis and ARA field
+   validation*]()", accepted for publication in Proceedings of the
    2026 **IEEE International Symposium on Dynamic Spectrum Access
    Networks (IEEE DySPAN '26)**, May 2026, Washington D.C., USA.
 26. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
