@@ -12,7 +12,7 @@
 
 <a id="talks"></a>
 
-### Talks
+### <i class="bi bi-link-45deg"></i> Talks
 
 * "**Real-World Experimental Testbed for 5G and Beyond Communication
   Systems**," *IEEE Student Branch, IIST,* October 2024.
@@ -27,7 +27,7 @@
 
 <a id="workshops"></a>
 
-### Workshops
+### <i class="bi bi-link-45deg"></i> Workshops
 
 * "**Programming in Python**," *IEEE Student Branch*, IIST,
  August 2019. (**Slides**:
@@ -45,7 +45,7 @@
 
 <a id="tutorials"></a>
 
-### Tutorials
+### <i class="bi bi-link-45deg"></i> Tutorials
 
 * "**Introduction to ARA Wireless Living Lab for Smart and Connected
   Rural Communities**," *Midscale Experimental Research Infrastructure
@@ -61,7 +61,7 @@
 
 <a id="articles"></a>
 
-### Articles 
+### <i class="bi bi-link-45deg"></i> Articles 
 
 * [A Need-to-Know for Researchers](posts/2016/p1_research_tools.html) (2016)
 * [Gnuplot + LaTeX: The Ultimate Plotting
