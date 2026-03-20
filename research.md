@@ -1,4 +1,16 @@
-### Research Focus & Interests
+## Research
+
+&emsp; [<i class="bi bi-link-45deg"></i> Research Focus & Interests](#research-focus)  
+&emsp; [<i class="bi bi-link-45deg"></i> Research Projects Involved](#research-projects)  
+&emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> As PIs & Co-PIs](#research-projects-pi)  
+&emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> As Senior Personnel &
+Other Roles](#research-projects-other)  
+
+---
+
+
+<a id="research-focus"></a>
+### <i class="bi bi-link-45deg"></i> Research Focus & Interests
 
 * **Distributed Systems, Testbeds, and Network Measurement:** Design
   and experimental evaluation of scalable, resilient, and secure
@@ -34,10 +46,14 @@
   mechanisms) suitable for resource-constrained and large-scale
   distributed environments.
 
+---
 
-### Research Projects Involved
+<a id="research-projects"></a>
+### <i class="bi bi-link-45deg"></i> Research Projects Involved
 
-* **As Principle Investigator | Co-Principal Investigator**
+<a id="research-projects-pi"></a>
+
+* <i class="bi bi-link-45deg"></i> **As Principle Investigator | Co-Principal Investigator**
 
 	1. **Site Co-PI,** "[*ArMORED: Architecture for massive-MIMO Open
 		RAN Energy-efficient
@@ -73,8 +89,9 @@
 	   Funding: $1,400,000), Iowa State University (PI), May
 	   2023&ndash;Apr 2025.
 
+<a id="research-projects-other"></a>
 
-* **As Senior Personnel | Other Roles**
+* <i class="bi bi-link-45deg"></i>  **As Senior Personnel | Other Roles**
 
 	1. **Research Scientist/Research Assistant Professor,**
 		"[*Ara4Rural: ARA Infrastructure and Community Building for

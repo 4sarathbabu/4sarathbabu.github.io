@@ -1,5 +1,21 @@
+## Publications
 
-### Journals
+&emsp; [<i class="bi bi-link-45deg"></i> Journals](#journals)  
+&emsp; [<i class="bi bi-link-45deg"></i> Conferences](#conferences)  
+&emsp; [<i class="bi bi-link-45deg"></i> Demos & Posters](#demos)  
+&emsp; [<i class="bi bi-link-45deg"></i> Book
+Chapters](#book-chapters)  
+&emsp; [<i class="bi bi-link-45deg"></i> arXiv/TechRxiv
+Preprints](#preprints)  
+&emsp; [<i class="bi bi-link-45deg"></i> Technical
+Reports](#tech-reports)  
+&emsp; [<i class="bi bi-link-45deg"></i> Patents](#patents)  
+&emsp; [<i class="bi bi-link-45deg"></i> Software](#software)
+
+---
+
+<a id="journals"></a>
+### <i class="bi bi-link-45deg"></i>Journals 
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and
@@ -62,8 +78,10 @@
    **Elsevier Optical Fiber Technology**, vol. 41, pp. 139&ndash;154,
    Mar. 2018.
 
+---
 
-### Conferences
+<a id="conferences"></a>
+###<i class="bi bi-link-45deg"></i> Conferences
 
 1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
@@ -246,7 +264,10 @@
    Conference - South Asia Satellite (GHTC-SAS)**, Sep. 2014,
    pp. 147&ndash;153.
 
-### Demos | Posters
+---
+
+<a id="demos"></a>
+###<i class="bi bi-link-45deg"></i>  Demos | Posters
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
@@ -317,8 +338,10 @@
    containerized OAI 5G-NR support*]()," in Fall 2022 OpenAirInterface
    North American Workshop, San Diego, CA, USA, Nov. 2022.
 
+---
 
-### Book Chapters
+<a id="book-chapters"></a>
+###<i class="bi bi-link-45deg"></i>  Book Chapters
 
 1. A. D. Dhruva, **Sarath Babu**, A. Chakraborty, and B. S. Manoj,
    "[*Computing platforms for the Internet of
@@ -326,8 +349,10 @@
    Abraham, Martin A. (eds.) Encyclopedia of Sustainable Technologies,
    2nd Edition, 2024, vol. 3, pp. 780&ndash;799. Oxford: Elsevier.
 
-   
-### arXiv/TechRxiv Preprints
+---
+
+<a id="preprints"></a>
+###<i class="bi bi-link-45deg"></i>  arXiv/TechRxiv Preprints
 
 1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, Sarath
    Babu, Y. Guan, Z. Zhu, and A. Ahmad, "[*ReVeal-MT: A
@@ -359,8 +384,11 @@
    http://arxiv.org/abs/1709.05645)," **arXiv preprint**
    arXiv:1709.05645, Sep. 2017.
 
+---
 
-### Technical Reports
+<a id="tech-reports"></a>
+
+###<i class="bi bi-link-45deg"></i>  Technical Reports
 
 1. S. Kota, G. Giambene, et al.,
    "[*Satellite*](https://doi.org/10.1109/FNWF58287.2023.10520529),"
@@ -377,15 +405,19 @@
    Space Science and Technology, Tech. Rep., 09 2017,
    IIST-SNL-101-2017-09-21.
 
+---
 
-### Patents
+<a id="patents"></a>
+###<i class="bi bi-link-45deg"></i>  Patents
 
 1. P. Koshy, A. S. Ananthakrishnan, **Sarath Babu**, and B. S. Manoj,
    "[*IoT Enabled Biomedical Wearable Clothing System for Healthcare
    Assistance*]()," IN 449773, 2023.
 
+---
 
-### Software Developed
+<a id="software"></a>
+###<i class="bi bi-link-45deg"></i>  Software Developed
 
 1. **AraSoft:** Software Control Framework for ARA Wireless Living Lab
    Objective: Design and develop a scalable and robust software

@@ -1,4 +1,14 @@
-### Professional Experience
+## Biography
+
+&emsp; [<i class="bi bi-link-45deg"></i> Professional Experience](#experience)  
+&emsp; [<i class="bi bi-link-45deg"></i> Education](#education)  
+&emsp; [<i class="bi bi-link-45deg"></i> Awards & Recognitions](#awards)  
+
+---
+
+
+<a id="experience"></a>
+### <i class="bi bi-link-45deg"></i> Professional Experience 
 
 * **Research Assistant Professor** [ Feb 2025&ndash;Current ]  
   Department of Electrical and Computer Engineering ([ECpE](https://www.ece.iastate.edu/))  
@@ -18,8 +28,10 @@ Rural Communities</u>**](https://arawireless.org/)
   Department of Computer Science and Engineering, National Institute of Technology, Calicut  
   Calicut, Kerala, India
 
+---
 
-### Education
+<a id="education"></a>
+### <i class="bi bi-link-45deg"></i> Education
 * **Doctor of Philosophy (Ph.D.)** [ Feb 2014&ndash;May 2021 ]<br>
   Indian Institute of Space Science and Technology
   ([IIST](https://www.iist.ac.in)), Thiruvananthapuram, India  
@@ -55,8 +67,10 @@ Rural Communities</u>**](https://arawireless.org/)
   Model Technical Higher Secondary School, Kaprassery, Ernakulam,
   India
   
+---
 
-### Awards | Scholarships | Certificates
+<a id="awards"></a>
+### <i class="bi bi-link-45deg"></i> Awards & Recognitions
 * Best Paper Award, **IEEE NetSoft** [ Jun 2025 ]
 * Best Demo for **Midscale Experimental Research Infrastructure Forum
   2024 (MERIF 24)** [ Sep 2024 ]

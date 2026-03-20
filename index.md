@@ -29,7 +29,7 @@ evaluation of next-generation distributed cyberinfrastructures
 spanning cloud, edge, and wireless platforms.
 
 
-<br>
+---
 
 ### Recent News
 
@@ -54,8 +54,8 @@ spanning cloud, edge, and wireless platforms.
    West**](https://spie.org/conferences-and-exhibitions/photonics-west),
    San Francisco, CA, 17&ndash;22 January 2026.
 
-* System Demo: "[*ARA-to-ICICLE: Remote Data Sourcing for Agricultural AI
-  Processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)," 
+* System Demo: "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
+  processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)," 
   December 2025.
   ( [<img src="images/video.png"
   style="vertical-align: middle"
