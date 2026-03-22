@@ -1,7 +1,7 @@
 <div style="width: 350px; height: 350px; float: right" data-wordart-src="https://cdn.wordart.com/json/5obx8d1g974x" data-wordart-show-attribution></div>
 
 
-## Miscellaneous Activities
+## <i class="bi bi-list"></i> Miscellaneous Activities
 
 &emsp; [<i class="bi bi-link-45deg"></i> Talks](#talks)  
 &emsp; [<i class="bi bi-link-45deg"></i> Workshops](#workshops)  

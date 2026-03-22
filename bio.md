@@ -1,4 +1,4 @@
-## Biography
+## <i class="bi bi-list"></i> Biography
 
 &emsp; [<i class="bi bi-link-45deg"></i> Professional Experience](#experience)  
 &emsp; [<i class="bi bi-link-45deg"></i> Education](#education)  
@@ -71,21 +71,29 @@ Rural Communities</u>**](https://arawireless.org/)
 
 <a id="awards"></a>
 ### <i class="bi bi-link-45deg"></i> Awards & Recognitions
-* Best Paper Award, **IEEE NetSoft** [ Jun 2025 ]
-* Best Demo for **Midscale Experimental Research Infrastructure Forum
-  2024 (MERIF 24)** [ Sep 2024 ]
-* Honorable Mention for the Paper, **IEEE Future Networks World Forum**
-  [ Nov 2023 ]
-* Best Paper Award, **ACM WiNTECH** [ Oct 2023 ]
-* Outstanding Teaching Assistant Award, Department of Avionics, IIST [
-  Nov 2019 ]
-* Selected Participant Supported by Travel Grant, **ICTS-Northeastern
-  Discussion Meeting on Games, Epidemics, and Behavior,** Bangalore,
-  India [ Jun 2016 ]
-* IIST scholarship from Department of Space, Government of India [ Feb 2014–Jan 2019 ]
-* MHRD scholarship from Government of India [ Jul 2009–May 2011 ]
-* Graduate Aptitude Test in Engineering (GATE) 2009, MHRD, Government of
-India, Percentile: 96.84 [ Mar 2009 ]
-* Completed Infosys Campus Connect Program [ Sep 2009 ]
-* Red Hat Certificate on Linux 4.0 Essentials, Linux 4.0 System
+* **Best Paper Award** [ Jun 2025 ]
+  * IEEE International Conference on Network Softwarization ([**IEEE
+    NetSoft &rsquo;25**](https://netsoft2025.ieee-netsoft.org/))
+* **Best Demo Award** [ Sep 2024 ]
+  * Midscale Experimental Research Infrastructure Forum ([**MERIF &rsquo;24**](https://merif.renci.org/)) 
+* **Honorable Mention** for the Paper [ Nov 2023 ]
+  * IEEE Future Networks World Forum ([**IEEE FNWF &rsquo;23**](https://fnwf2023.ieee.org/)) 
+* **Best Paper Award**  [ Oct 2023 ]
+  * ACM Workshop on Wireless Network Testbeds, Experimental evaluation
+    & Characterization ([**ACM WiNTECH &rsquo;23**](https://acm-wintech.github.io/2023/))
+* **Outstanding Teaching Assistant Award** [ Nov 2019 ]
+  * Department of Avionics, IIST
+*  **Selected Participant Supported by Travel Grant** [ Jun 2016 ]
+  * [ICTS-Northeastern Discussion Meeting on Games, Epidemics, and Behavior,](https://www.icts.res.in/discussion-meeting/geb2016) Bangalore,
+  India
+* **Ph.D. Scholarship** [ Feb 2014–Jan 2019 ]
+  * Department of Space, Government of India
+* **Master's Scholarship** [ Jul 2009–May 2011 ]
+  * Ministry of Human Resource Development (MHRD), Government of India
+* **Graduate Aptitude Test in Engineering (GATE &rsquo;09)** [ Mar 2009 ]
+  * Ministry of Human Resource Development (MHRD), Government of India, Percentile: 96.84 
+* **Campus Connect Program** [ Sep 2009 ]
+  * Infosys Ltd. 
+* **Certification on Linux 4.0**, Linux Essentials, Linux 4.0 System
   Administration, Network and Security Administration  [ Apr 2007 ]
+  * Red Hat, Inc.

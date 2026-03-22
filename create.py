@@ -10,7 +10,7 @@ def main(filename):
         md_data = fp_in.read()
 
     # Convert markdown to html
-    html_data = mk.markdown(md_data)
+    html_data = mk.markdown(md_data, extras=['markdown-in-html'])
 
     with open(f'{filename[:-2]}html', 'w') as fp_out:
         with open('header.htm') as fp_in:

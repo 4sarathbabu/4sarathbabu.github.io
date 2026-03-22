@@ -1,4 +1,4 @@
-## Teaching & Mentoring
+## <i class="bi bi-list"></i> Teaching & Mentoring
 
 &emsp; [<i class="bi bi-link-45deg"></i> Mentoring](#mentoring)  
 &emsp; [<i class="bi bi-link-45deg"></i> Teaching](#teaching)  
@@ -32,6 +32,7 @@
 	* AV141&mdash;*Basic Electrical and Electronics Engineering Lab* [
       Mar&ndash;May 2015 ]
 
-* **Department of Computer Science and Engineering, NIT Calicut**
+* **Department of Computer Science and Engineering, National Institute
+  of Technology Calicut**
 	* CS3092&mdash;*Operating Systems Lab* [ Jan&ndash;May 2011 ]		
 	* CS6103&mdash;*Software Systems Lab* [ Aug&ndash;Dec 2010 ]

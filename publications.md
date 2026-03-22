@@ -1,4 +1,4 @@
-## Publications
+## <i class="bi bi-list"></i> Publications
 
 &emsp; [<i class="bi bi-link-45deg"></i> Journals](#journals)  
 &emsp; [<i class="bi bi-link-45deg"></i> Conferences](#conferences)  
@@ -15,7 +15,7 @@ Reports](#tech-reports)
 ---
 
 <a id="journals"></a>
-### <i class="bi bi-link-45deg"></i>Journals 
+### <i class="bi bi-link-45deg"></i> Journals 
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and
@@ -115,7 +115,7 @@ Reports](#tech-reports)
    2025, pp. 362&ndash;370. ( [<img src="images/arxiv.png"
    style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2503.18218) ) [ <span
-   class="award">Best Paper Award</span> ]
+   class="award">🏆 Best Paper Award</span> ]
 23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
    neural network for high-fidelity radio environment
@@ -158,7 +158,7 @@ Reports](#tech-reports)
     study*](https://doi.org/10.1109/FNWF58287.2023.10520408)," in the
     Proceedings of the 2023 **IEEE Future Networks World Forum
     (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1&ndash;6. <br>[
-    <span class="award">Honorable Mention</span> ]
+    <span class="award">🏆 Honorable Mention</span> ]
 17. T. U. Islam, J. O. Boateng, G. Zu, M.  Shahid, M. Nadim, W. Xu,
     T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
     H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
@@ -174,7 +174,7 @@ Reports](#tech-reports)
     wireless*](https://doi.org/10.1145/3615453.3616512)," in
     Proceedings of the 17th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & Characterization (WiNTECH
-    '23)**, Oct. 2023, pp. 9&ndash;16. [ <span class="award">Best
+    '23)**, Oct. 2023, pp. 9&ndash;16. [ <span class="award">🏆 Best
     Paper Award</span> ]
 15. M. Shahid, **Sarath Babu**, H. Zhang, D. Qiao, Y. Guan,
     J. O. Boateng, T. U. Islam, G. Zu, A. Kamal, and M. Zheng,
@@ -267,7 +267,7 @@ Reports](#tech-reports)
 ---
 
 <a id="demos"></a>
-###<i class="bi bi-link-45deg"></i>  Demos | Posters
+###<i class="bi bi-link-45deg"></i>  Demos & Posters
 
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
@@ -319,7 +319,7 @@ Reports](#tech-reports)
    experiments with programmable COTS RAN and x-Haul platforms*](),"
    in **Midscale Experimental Research Infrastructure Forum (MERIF
    '24)**, Sep. 2024. [ <span
-   class="award">Best Demo Award</span> ]   
+   class="award">🏆 Best Demo Award</span> ]   
 3. **Sarath Babu**, T. U. Islam, J. O. Boateng, M. Nadim, T. Zhang,
    and H. Zhang, "[*ARA PAWR: Wireless living lab for smart and
    connected rural communities*]()," in IEEE International Conference

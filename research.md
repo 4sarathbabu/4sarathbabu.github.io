@@ -1,4 +1,4 @@
-## Research
+## <i class="bi bi-list"></i> Research
 
 &emsp; [<i class="bi bi-link-45deg"></i> Research Focus & Interests](#research-focus)  
 &emsp; [<i class="bi bi-link-45deg"></i> Research Projects Involved](#research-projects)  

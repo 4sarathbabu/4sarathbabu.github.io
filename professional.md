@@ -1,4 +1,4 @@
-## Professional Affiliations & Services
+## <i class="bi bi-list"></i> Professional Affiliations & Services
 
 &emsp; [<i class="bi bi-link-45deg"></i> Professional
 Affiliations](#affiliations)  

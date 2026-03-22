@@ -31,7 +31,7 @@ spanning cloud, edge, and wireless platforms.
 
 ---
 
-### Recent News
+### <i class="bi bi-newspaper"></i> Recent News
 
 * The paper titled "[*Revisiting TVWS for rural broadband: Policy
    insights from nationwide availability analysis and ARA field
@@ -59,7 +59,7 @@ spanning cloud, edge, and wireless platforms.
   December 2025.
   ( [<img src="images/video.png"
   style="vertical-align: middle"
-  height="25"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
+  height="22"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
   )
 
 * Paper titled "[*AraOptical system and testbed for long-range,
@@ -91,7 +91,7 @@ spanning cloud, edge, and wireless platforms.
   (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
   September&ndash;2 October, 2025.
 
-* [ <span class="award">Best Paper Award</span> ] Paper titled
+* [ <span class="award">🏆 Best Paper Award</span> ] Paper titled
   "[*AraRACH: Enhancing NextG random access reliability in
   programmable wireless living
   labs,*](https://doi.org/10.1109/NetSoft64993.2025.11080601)"
@@ -101,3 +101,4 @@ spanning cloud, edge, and wireless platforms.
   23&ndash;27 June, 2025. ( [<img src="images/arxiv.png"
   style="vertical-align: middle" height="20"></img>
   version](https://arxiv.org/pdf/2503.18218) )
+
