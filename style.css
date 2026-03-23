@@ -51,9 +51,15 @@ hr {
 }
 
 a {
-    /* color: #003380; */
-    color: #004d99;
-    text-decoration: none;
+  color: #004d99;
+  text-decoration: none;
+  padding: 1px 0px;
+  border-radius: 3px;
+  transition: background 0.25s;
+}
+
+a:hover {
+  background: #E6F1FB;
 }
 
 .award {
