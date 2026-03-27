@@ -7,6 +7,8 @@ IEEE](#affiliation-ieee)
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> ACM](#affiliation-acm)  
 &emsp; [<i class="bi bi-link-45deg"></i> Conference
 Services](#conference-services)  
+&emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> Organizing 
+Committees](#conference-ocs)  
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> Technical Program
 Committees (TPCs)](#conference-tpcs)  
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> Conference Reviews](#conference-reviews)  
@@ -73,6 +75,11 @@ Services](#journal-services)
 <a id="conference-services"></a>
 
 ### <i class="bi bi-link-45deg"></i> Conference Services
+
+<a id="conference-ocs"></a>
+
+* <i class="bi bi-link-45deg"></i> **Organizing Committees**
+	* Student Travel Grant Chair, [IEEE MASS 2026](https://mass-conf.github.io/2026/index.html)
   
 <a id="conference-tpcs"></a>
 
