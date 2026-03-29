@@ -90,7 +90,7 @@ Reports](#tech-reports)
    validation*]()," accepted for publication in Proceedings of the
    2026 **IEEE International Symposium on Dynamic Spectrum Access
    Networks (IEEE DySPAN '26)**, May 2026, Washington D.C., USA.
-26. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
+25. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
    D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
    for long-range, high-capacity FSOC in rural wireless x-haul
    networks*](https://doi.org/10.1145/3768986)," in Proceedings of the
@@ -98,7 +98,7 @@ Reports](#tech-reports)
    Networking EXperiments and Technologies (ACM CoNEXT 2025)**,
    vol. 3, no. CoNEXT4, HKUST, Hong Kong, Nov. 2025,
    pp. 39:1&ndash;39:21.
-25. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+24. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
     with commercial
@@ -106,7 +106,7 @@ Reports](#tech-reports)
     Proceedings of the **IEEE Military Communications Conference (IEEE
     MILCOM 2025)**, Los Angels, CA, USA, Oct. 2025,
     pp. 1296&ndash;1301.
-24. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
+23. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
    living labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601),"
@@ -116,7 +116,7 @@ Reports](#tech-reports)
    style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2503.18218) ) [ <span
    class="award">🏆 Best Paper Award</span> ]
-23. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
+22. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
    Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
    neural network for high-fidelity radio environment
    mapping*](https://doi.org/10.1109/DySPAN64764.2025.11115911)," in
@@ -125,49 +125,40 @@ Reports](#tech-reports)
    pp. 1&ndash;10. ( [<img src="images/arxiv.png"
    style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2502.19646) )
-22. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal,
+21. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal,
    **Sarath Babu**, A. Ahmed, D. Qiao, A. Arora, H. Zhang, "[*AraSync:
    Precision time synchronization in rural wireless living
    lab*](https://doi.org/10.1145/3636534.3697318)," in Proceedings of
    the 30th Annual **International Conference on Mobile Computing and
    Networking (ACM MobiCom '24)**, Washington D.C., DC, USA,
    Nov. 2024, pp. 1898&ndash;1905.
-21. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
+20. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    H. Zhang, and D. Qiao, "[*AraSDR: End-to-end, fully-programmable
    living lab for 5G and
    beyond*](https://doi.org/10.1109/ICC51166.2024.10623061)," in
    Proceedings of the **IEEE International Conference on
    Communications (ICC)**, Denver, CO, USA, Jun. 2024,
    pp. 1758&ndash;1763.
-20. E. K. A. Permatasari, E. Gosling, M. Nadim, **Sarath Babu**,
+19. E. K. A. Permatasari, E. Gosling, M. Nadim, **Sarath Babu**,
     D. Qiao, H. Zhang, M. Luby, J. W. Byers, L. Minder, and
     P. Aggrawal, "[*Real-time liquid wireless transport for video
     streaming in rural and agricultural
     applications*](https://doi.org/10.1145/3638036.3640806)," in
     Proceedings of the 3rd **ACM Mile High Video (MHV)**, Denver, CO,
     USA, Feb. 2024, pp. 54&ndash;60.
-19. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu**, T. Zhang,
+18. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu**, T. Zhang,
     D. Qiao, H. Zhang, and A. Arora, "[*AraHaul: Multi-modal wireless
     x-haul living lab for long-distance, high-capacity
     communications*](https://doi.org/10.1109/FNWF58287.2023.10520543),"
     in Proceedings of the 2023 **IEEE Future Networks World Forum
     (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1&ndash;6.
-18. T. Zhang, G. Zu, T. U. Islam, E. Gossling, **Sarath Babu**,
+17. T. Zhang, G. Zu, T. U. Islam, E. Gossling, **Sarath Babu**,
     D. Qiao, and H. Zhang, "[*Exploring wireless channels in rural
     areas: A comprehensive measurement
     study*](https://doi.org/10.1109/FNWF58287.2023.10520408)," in the
     Proceedings of the 2023 **IEEE Future Networks World Forum
     (FNWF)**, Baltimore, MD, USA, Nov. 2023, pp. 1&ndash;6. <br>[
     <span class="award">🏆 Honorable Mention</span> ]
-17. T. U. Islam, J. O. Boateng, G. Zu, M.  Shahid, M. Nadim, W. Xu,
-    T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
-    H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
-    M. Selim, and M. B. Cohen, "[*ARA PAWR: Wireless living lab for
-    smart and connected rural
-    communities*](https://doi.org/10.1145/3570361.3614068)," in
-    Proceedings of the 29th Annual **International Conference on
-    Mobile Computing and Networking (ACM MobiCom '23)**. ACM, Article
-    98, Oct. 2023, pp. 1&ndash;3.
 16. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
     Babu**, H. Zhang, and D. Qiao, "[*AraMIMO: Programmable TVWS mMIMO
     living lab for rural
