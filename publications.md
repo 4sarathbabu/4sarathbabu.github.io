@@ -385,12 +385,12 @@ Reports](#tech-reports)
    "[*Satellite*](https://doi.org/10.1109/FNWF58287.2023.10520529),"
    IEEE INGR International Network Generations Roadmap, 2023 Edition,
    2023 IEEE Future Networks World Forum (FNWF), Baltimore, MD, USA,
-   2023, pp. 1&ndash;195.
+   Nov. 2023, pp. 1&ndash;195.
 2. S. Kota, G. Giambene, et al.,
    "[*Satellite*](https://doi.org/10.1109/FNWF55208.2022.00141)," IEEE
    INGR International Network Generations Roadmap, 2022 Edition, 2022
    IEEE Future Networks World Forum (FNWF), Montreal, QC, Canada,
-   2022, pp. 1&ndash;182.
+   Oct. 2022, pp. 1&ndash;182.
 3. A. Chakraborty, **Sarath Babu**, and B. S. Manoj, "[*On achieving
    capacity-enhanced small-world networks*]()," Indian Institute of
    Space Science and Technology, Tech. Rep., 09 2017,
