@@ -89,7 +89,7 @@ Reports](#tech-reports)
    Policy insights from nationwide availability analysis and ARA field
    validation*]()," accepted for publication in Proceedings of the
    2026 **IEEE International Symposium on Dynamic Spectrum Access
-   Networks (IEEE DySPAN '26)**, May 2026, Washington D.C., USA.
+   Networks (IEEE DySPAN '26)**, Washington D.C., USA, May 2026.
 25. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
    D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
    for long-range, high-capacity FSOC in rural wireless x-haul
@@ -165,95 +165,97 @@ Reports](#tech-reports)
     wireless*](https://doi.org/10.1145/3615453.3616512)," in
     Proceedings of the 17th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & Characterization (WiNTECH
-    '23)**, Oct. 2023, pp. 9&ndash;16. [ <span class="award">🏆 Best
-    Paper Award</span> ]
+    '23)**, Madrid, Spain, Oct. 2023, pp. 9&ndash;16. [ <span
+    class="award">🏆 Best Paper Award</span> ]
 15. M. Shahid, **Sarath Babu**, H. Zhang, D. Qiao, Y. Guan,
     J. O. Boateng, T. U. Islam, G. Zu, A. Kamal, and M. Zheng,
     "[*Wireless guard for trustworthy spectrum
     management*](https://doi.org/10.1145/3556564.3558241)," in
     Proceedings of the 16th **ACM Workshop on Wireless Network
     Testbeds, Experimental evaluation & CHaracterization (WiNTECH
-    '22)**, Oct. 2022, pp. 32&ndash;39.
+    '22)**, Sydney, NSW, Australia, Oct. 2022, pp. 32&ndash;39.
 14. K. Keahey, J. Anderson, M. Sherman, C. Hammock, Z. Zhen,
     J. Tillotson, T. Bargo, L. Long, T. U. Islam, **Sarath Babu**,
     H. Zhang, and F. Halbach, "[*CHI-in-a-Box: Reducing operational
     costs of research
     testbeds*](https://doi.org/10.1145/3491418.3530768)," in
     Proceedings of the **ACM Practice and Experience in Advanced
-    Research Computing (PEARC)** Conference Series, Jul. 2022,
-    pp. 1&ndash;8.
+    Research Computing (PEARC)** Conference Series, Boston, MA, USA,
+    Jul. 2022, pp. 1&ndash;8.
 13. T. Abhiroop, **Sarath Babu**, and B. S. Manoj, "[*A machine
     learning consensus based light-weight blockchain architecture for
     Internet of
     Things*](https://doi.org/10.1109/COMSNETS53615.2022.9668487)," in
     Proceedings of 14th **International Conference on COMmunication
-    Systems & NETworkS (COMSNETS)**, Jan. 2022, pp. 1&ndash;6.
+    Systems & NETworkS (COMSNETS)**, Bangalore, India, Jan. 2022,
+    pp. 1&ndash;6.
 12. A. Salas, **Sarath Babu**, and B. S. Manoj, "[*A light-weight
     delay tolerant networking framework for resource-constrained
     environments*](https://doi.org/10.1109/NCC52529.2021.9530075)," in
     Proceedings of the **National Conference on Communications
-    (NCC)**, Jul. 2021, pp. 1&ndash;6.
+    (NCC)**, Kanpur, India, Jul. 2021, pp. 1&ndash;6.
 11. **Sarath Babu**, Indranil Ghosh, and B. S. Manoj, "[*Effort: A new
     metric for roadside unit placement in 5G enabled vehicular
     networks*](https://doi.org/10.1109/5GWF49715.2020.9221228)," in
-    Proceedings of the 3rd **IEEE 5G World Forum (5GWF)**, Sep. 2020,
-    pp. 263&ndash;268.
+    Proceedings of the 3rd **IEEE 5G World Forum (5GWF)**, Bangalore,
+    India, Sep. 2020, pp. 263&ndash;268.
 10. D. Dalai, **Sarath Babu**, and B. S. Manoj, "[*On using edge
     servers in 5G satellite
     networks*](https://doi.org/10.1109/5GWF49715.2020.9221366)," in
-    Proceedings of the 3rd **IEEE 5G World Forum (5GWF)**, Sep. 2020,
-    pp. 553&ndash;558.
+    Proceedings of the 3rd **IEEE 5G World Forum (5GWF)**, Bangalore,
+    India, Sep. 2020, pp. 553&ndash;558.
 9. Suraj R., **Sarath Babu**, D. Dalai, and B. S. Manoj, "[*DebriNet:
    An opportunistic software defined networking framework over PSLV
    debris*](https://doi.org/10.1109/ANTS47819.2019.9118082)," in
    Proceedings of the **IEEE International Conference on Advanced
-   Networks and Telecommunications Systems (ANTS)**, Dec. 2019,
-   pp. 1&ndash;6.
+   Networks and Telecommunications Systems (ANTS)**, Goa, India,
+   Dec. 2019, pp. 1&ndash;6.
 8. **Sarath Babu**, P. Rathod, and B. S. Manoj, "[*On optimizing
    information gathering in shanty town emergency
    response*](https://doi.org/10.1109/TENCON.2019.8929340)," in
-   Proceedings of the **IEEE Region 10 Conference (TENCON)**,
-   Oct. 2019, pp. 129&ndash;134.
+   Proceedings of the **IEEE Region 10 Conference (TENCON)**, Kochi,
+   India, Oct. 2019, pp. 129&ndash;134.
 7. T. Abhiroop, **Sarath Babu**, and B. S. Manoj, "[*A machine
    learning approach for detecting DoS attacks in SDN
    switches*](https://doi.org/10.1109/NCC.2018.8600196)," in
    Proceedings of the 24th **National Conference on Communications
-   (NCC)**, Feb. 2018, pp. 1&ndash;6.
+   (NCC)**, Hyderabad, India, Feb. 2018, pp. 1&ndash;6.
 6. P. V. Mithun, **Sarath Babu**, and B. S. Manoj, "[*On resolving
    network view inconsistencies in SDN control
    plane*](https://doi.org/10.1109/ANTS.2017.8384108)," in Proceedings
    of the **IEEE International Conference on Advanced Networks and
-   Telecommunications Systems (ANTS)**, Dec. 2017, pp. 1&ndash;6.
+   Telecommunications Systems (ANTS)**, Bhubaneswar, India, Dec. 2017,
+   pp. 1&ndash;6.
 5. G. Gupta, **Sarath Babu**, and B. S. Manoj, "[*Dual-mode TCP: An
    alternative approach for delay tolerant
    networks*](https://doi.org/10.1109/NCC.2017.8077040)," in
    Proceedings of the 23rd **National Conference on Communications
-   (NCC)**, Mar. 2017, pp. 1&ndash;6.
+   (NCC)**, Chennai, India, Mar. 2017, pp. 1&ndash;6.
 4. **Sarath Babu** and B. S. Manoj, "[*On the topology of Indian and
    Western road networks*](
    https://doi.org/10.1109/COMSNETS.2016.7440027)," in Proceedings of
    the 8th **International Conference on Communication Systems and
-   Networks (COMSNETS)**, Jan. 2016, pp. 1&ndash;6.
+   Networks (COMSNETS)**, Bangalore, India, Jan. 2016, pp. 1&ndash;6.
 3. R. Raj, **Sarath Babu**, K. Benson, G. Jain, B. S. Manoj, and
    N. Venkatasubramanian, "[*Efficient path rescheduling of
    heterogeneous mobile data collectors for dynamic events in shanty
    town emergency response*](
    https://doi.org/10.1109/GLOCOM.2015.7417610)," in Proceedings of
-   the **IEEE Global Communications Conference (GLOBECOM)**,
-   Dec. 2015, pp. 1&ndash;7.
+   the **IEEE Global Communications Conference (GLOBECOM)**, San
+   Diego, CA, USA, Dec. 2015, pp. 1&ndash;7.
 2. A. V. Mamidi, **Sarath Babu**, and B. S. Manoj, "[*Dynamic
    multi-hop switch handoffs in software defined wireless mesh
    networks*]( https://doi.org/10.1109/ANTS.2015.7413638)," in
    Proceedings of the **IEEE International Conference on Advanced
-   Networks and Telecommunications Systems (ANTS)**, Dec. 2015,
-   pp. 1&ndash;6.
+   Networks and Telecommunications Systems (ANTS)**, Kolkata, India,
+   Dec. 2015, pp. 1&ndash;6.
 1. G. Jain, **Sarath Babu**, R. Raj, K. Benson, B. S. Manoj, and
    N. Venkatasubramanian, "[*On disaster information gathering in a
    complex shanty town
    terrain*](https://doi.org/10.1109/GHTC-SAS.2014.6967574)," in
    Proceedings of the **IEEE Global Humanitarian Technology
-   Conference - South Asia Satellite (GHTC-SAS)**, Sep. 2014,
-   pp. 147&ndash;153.
+   Conference - South Asia Satellite (GHTC-SAS)**, Trivandrum, India,
+   Sep. 2014, pp. 147&ndash;153.
 
 ---
 
@@ -309,7 +311,7 @@ Reports](#tech-reports)
    Babu**, D. Qiao, and H. Zhang, "[*ARA PAWR: Enabling wireless
    experiments with programmable COTS RAN and x-Haul platforms*](),"
    in **Midscale Experimental Research Infrastructure Forum (MERIF
-   '24)**, Sep. 2024. [ <span
+   '24)**, Kansas City, MO, USA, Sep. 2024. [ <span
    class="award">🏆 Best Demo Award</span> ]   
 3. **Sarath Babu**, T. U. Islam, J. O. Boateng, M. Nadim, T. Zhang,
    and H. Zhang, "[*ARA PAWR: Wireless living lab for smart and
@@ -323,7 +325,7 @@ Reports](#tech-reports)
    communities*](https://doi.org/10.1145/3570361.3614068)," in
    Proceedings of the 29th Annual **International Conference on Mobile
    Computing and Networking (ACM MobiCom '23)**. ACM, Article 98,
-   Oct. 2023, pp. 1&ndash;3.
+   Madrid, Spain, Oct. 2023, pp. 1&ndash;3.
 1. J. O. Boateng, T. Zhang, **Sarath Babu**, T. U. Islam, M. Shahid,
    and H. Zhang, "[*ARA rural wireless living lab and end-to-end OTA
    containerized OAI 5G-NR support*]()," in Fall 2022 OpenAirInterface
