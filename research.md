@@ -136,7 +136,10 @@ Other Roles](#research-projects-other)
 
 	6. **Graduate Student,** "[*Research and Development of an
 		Integrated Enterprise Network Security System,*]()" **[IIST]()
-		& [ISRO](https://www.isro.gov.in/)**, May 2018&ndash;May 2020.
+		& [ISRO](https://www.isro.gov.in/)**, (Total Funding:
+		&#8377;16,40,000), Indian Institute of Space Science and
+		Technology (IIST) and Vikram Sarabhai Space Centre (VSSC), Jul
+		2014&ndash;Mar 2019.
 
 	7. **Graduate Student,** "[*Indo-US Collaborative Research on
 		Pervasive Computing for Disaster Response,*]()"

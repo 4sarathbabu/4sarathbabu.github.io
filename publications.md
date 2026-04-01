@@ -130,7 +130,7 @@ Reports](#tech-reports)
    Precision time synchronization in rural wireless living
    lab*](https://doi.org/10.1145/3636534.3697318)," in Proceedings of
    the 30th Annual **International Conference on Mobile Computing and
-   Networking (ACM MobiCom '24)**, Washington D.C., DC, USA,
+   Networking (ACM MobiCom '24)**, Washington D.C., USA,
    Nov. 2024, pp. 1898&ndash;1905.
 20. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    H. Zhang, and D. Qiao, "[*AraSDR: End-to-end, fully-programmable
@@ -265,8 +265,10 @@ Reports](#tech-reports)
 1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
    and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
-   communication link using COTS SFP+ transceivers*]()," accepted in
-   **SPIE Photonics West**, San Francisco, CA, 17&ndash;22 Jan. 2026.
+   communication link using COTS SFP+
+   transceivers*](https://doi.org/10.1117/12.3089075)," in Proceedings
+   of SPIE 13885, Free-Space Laser Communications XXXVIII, 138851O,
+   Mar. 2026.
 10. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
    Real-world integration and evaluation of open-source 5G core with

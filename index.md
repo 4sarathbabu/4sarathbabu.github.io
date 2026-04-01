@@ -49,7 +49,8 @@ spanning cloud, edge, and wireless platforms.
    February 2026.
 
 * Poster titled "[*Demonstration of a 4.2km MISO free-space optical
-   communication link using COTS SFP+ transceivers*]()," accepted in
+   communication link using COTS SFP+
+   transceivers*](https://doi.org/10.1117/12.3089075)," accepted in
    [**SPIE Photonics
    West**](https://spie.org/conferences-and-exhibitions/photonics-west),
    San Francisco, CA, 17&ndash;22 January 2026.
