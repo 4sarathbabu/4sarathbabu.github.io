@@ -74,13 +74,23 @@ Rural Communities</u>**](https://arawireless.org/)
 * **Best Paper Award** [ Jun 2025 ]
   * IEEE International Conference on Network Softwarization ([**IEEE
     NetSoft &rsquo;25**](https://netsoft2025.ieee-netsoft.org/))
+  * Paper: "[*AraRACH: Enhancing NextG random access reliability in
+   programmable wireless living
+   labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601)"
 * **Best Demo Award** [ Sep 2024 ]
   * Midscale Experimental Research Infrastructure Forum ([**MERIF &rsquo;24**](https://merif.renci.org/)) 
 * **Honorable Mention** for the Paper [ Nov 2023 ]
-  * IEEE Future Networks World Forum ([**IEEE FNWF &rsquo;23**](https://fnwf2023.ieee.org/)) 
+  * IEEE Future Networks World Forum ([**IEEE FNWF
+    &rsquo;23**](https://fnwf2023.ieee.org/)) 
+  * Paper: "[*Exploring wireless channels in rural areas: A
+    comprehensive measurement
+    study*](https://doi.org/10.1109/FNWF58287.2023.10520408)"
 * **Best Paper Award**  [ Oct 2023 ]
   * ACM Workshop on Wireless Network Testbeds, Experimental evaluation
-    & Characterization ([**ACM WiNTECH &rsquo;23**](https://acm-wintech.github.io/2023/))
+    & Characterization ([**ACM WiNTECH
+    &rsquo;23**](https://acm-wintech.github.io/2023/))
+  * Paper: "[*AraMIMO: Programmable TVWS mMIMO living lab for rural
+    wireless*](https://doi.org/10.1145/3615453.3616512)"
 * **Outstanding Teaching Assistant Award** [ Nov 2019 ]
   * Department of Avionics, IIST
 *  **Selected Participant Supported by Travel Grant** [ Jun 2016 ]

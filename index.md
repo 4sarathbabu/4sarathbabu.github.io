@@ -37,7 +37,7 @@ spanning cloud, edge, and wireless platforms.
    insights from nationwide availability analysis and ARA field
    validation*]()," accepted for publication in Proceedings of the
    2026 [**IEEE International Symposium on Dynamic Spectrum Access
-   Networks (IEEE DySPAN '26)**](https://dyspan2026.ieee-dyspan.org/),
+   Networks (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/)
    May 2026, Washington D.C., USA.
 
 * Paper titled "[*AraOptical testbed: Design, field trials, and
@@ -45,14 +45,14 @@ spanning cloud, edge, and wireless platforms.
    transceivers*](https://doi.org/10.1109/JLT.2026.3667493),"
    accepted for publication in [**IEEE/Optica Journal of Lightwave
    Technology (IEEE
-   JLT)**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/),
+   JLT),**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/)
    February 2026.
 
 * Poster titled "[*Demonstration of a 4.2km MISO free-space optical
    communication link using COTS SFP+
    transceivers*](https://doi.org/10.1117/12.3089075)," accepted in
    [**SPIE Photonics
-   West**](https://spie.org/conferences-and-exhibitions/photonics-west),
+   West,**](https://spie.org/conferences-and-exhibitions/photonics-west)
    San Francisco, CA, 17&ndash;22 January 2026.
 
 * System Demo: "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
@@ -82,14 +82,14 @@ spanning cloud, edge, and wireless platforms.
   open-source 5G core with commercial
   RAN,*](https://doi.org/10.1109/MILCOM64451.2025.11309851)"
   accepted in [**IEEE Military Communications Conference (IEEE MILCOM
-  2025)**](https://milcom2025.ieee-milcom.org/), Los Angeles, CA, USA,
+  2025),**](https://milcom2025.ieee-milcom.org/) Los Angeles, CA, USA,
   6&ndash;10 October, 2025.
 
 * Poster titled "[*Long-range, high-capacity FSOC system for rural
   wireless x-haul using COTS
   transceivers,*](https://doi.org/10.1109/ECOC66593.2025.11263248)"
   accepted in 51th [**European Conference on Optical Communication
-  (ECOC)**](https://ecoc2025.org/), Copenhagen, Denmark, 28
+  (ECOC),**](https://ecoc2025.org/) Copenhagen, Denmark, 28
   September&ndash;2 October, 2025.
 
 * [ <span class="award">🏆 Best Paper Award</span> ] Paper titled
