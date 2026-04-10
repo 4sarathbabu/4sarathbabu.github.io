@@ -33,6 +33,12 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
+* "[*Demo: Experimental validation of limitations in TVWS spectrum
+  sharing via the ARA wireless living lab*]()," accepted in 2026
+  [**IEEE International Symposium on Dynamic Spectrum Access Networks
+  (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
+  Washington D.C., USA.
+
 * The paper titled "[*Revisiting TVWS for rural broadband: Policy
    insights from nationwide availability analysis and ARA field
    validation*]()," accepted for publication in Proceedings of the

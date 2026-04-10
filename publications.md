@@ -89,7 +89,7 @@ Reports](#tech-reports)
    Policy insights from nationwide availability analysis and ARA field
    validation*]()," accepted for publication in Proceedings of the
    2026 **IEEE International Symposium on Dynamic Spectrum Access
-   Networks (IEEE DySPAN '26),** Washington D.C., USA, May 2026.
+   Networks (IEEE DySPAN '26),** Washington, D.C., USA, May 2026.
 25. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
    D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
    for long-range, high-capacity FSOC in rural wireless x-haul
@@ -262,7 +262,14 @@ Reports](#tech-reports)
 <a id="demos"></a>
 ###<i class="bi bi-link-45deg"></i>  Demos & Posters
 
-1. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
+1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
+   Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
+   R. Chandra, and H. Zhang, "[*Demo: Experimental validation of
+   limitations in TVWS spectrum sharing via the ARA wireless living
+   lab*]()," accepted in 2026 **IEEE International Symposium on
+   Dynamic Spectrum Access Networks (IEEE DySPAN '26),** Washington, 
+   D.C., USA, May 2026.
+11. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
    and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
    communication link using COTS SFP+
