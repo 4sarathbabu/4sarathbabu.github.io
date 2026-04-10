@@ -2,12 +2,20 @@
 
 import markdown2 as mk
 import glob
+import re
+
+
+def process_accents(md_data):
+    return re.sub(r'==(.+?)==', r'<span class="blit">\1</span>', md_data, flags=re.DOTALL)
 
 
 def main(filename):
     # Read markdown data
     with open(f'{filename}') as fp_in:
         md_data = fp_in.read()
+
+    # Process accents before markdown conversion
+    md_data = process_accents(md_data)
 
     # Convert markdown to html
     html_data = mk.markdown(md_data, extras=['markdown-in-html'])
@@ -21,8 +29,8 @@ def main(filename):
         dir_count = filename.count('/') - 1
         if dir_count:
             header_data = header_data.replace('./', '../' * dir_count)
-        if filename == './misc.md':
-            header_data += '<script src="https://cdn.wordart.com/wordart.min.js" async defer></script>\n'
+        # if filename == './misc.md':
+        #     header_data += '<script src="https://cdn.wordart.com/wordart.min.js" async defer></script>\n'
 
         # Writing html header
         fp_out.write(header_data)

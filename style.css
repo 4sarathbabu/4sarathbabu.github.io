@@ -62,6 +62,11 @@ a:hover {
   background: #E6F1FB;
 }
 
+.blit {
+  color: #004d99;
+  font-style: italic;
+}
+
 .award {
     font-weight: bold;
     color: #990000;

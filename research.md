@@ -82,8 +82,8 @@ Other Roles](#research-projects-other)
 		(Total Funding: $784,000), Iowa State University (PI), Oct
 		2023&ndash;May 2026.
 
-	4. **Co-PI,** "[*Open RAN Research, Testing, and Integration for
-	   Rural Industries and Communities,*]()" [**NSF
+	4. **Co-PI,** "==Open RAN Research, Testing, and Integration for
+	   Rural Industries and Communities,==" [**NSF
 	   NeTS**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
 	   **&** [**TIP**](https://www.nsf.gov/tip/latest), (Total
 	   Funding: $1,400,000), Iowa State University (PI), May
@@ -134,15 +134,15 @@ Other Roles](#research-projects-other)
 		International Computer Science Institute, Jun 2021&ndash;May
 		2026.
 
-	6. **Graduate Student,** "[*Research and Development of an
-		Integrated Enterprise Network Security System,*]()" **[IIST]()
-		& [ISRO](https://www.isro.gov.in/)**, (Total Funding:
+	6. **Graduate Student,** "==Research and Development of an
+		Integrated Enterprise Network Security System,==" **[IIST]() &
+		[ISRO](https://www.isro.gov.in/)**, (Total Funding:
 		&#8377;16,40,000), Indian Institute of Space Science and
 		Technology (IIST) and Vikram Sarabhai Space Centre (VSSC), Jul
 		2014&ndash;Mar 2019.
 
-	7. **Graduate Student,** "[*Indo-US Collaborative Research on
-		Pervasive Computing for Disaster Response,*]()"
+	7. **Graduate Student,** "==Indo-US Collaborative Research on
+		Pervasive Computing for Disaster Response,=="
 		**[NSF,](https://www.nsf.gov/)
 		[DIT](https://www.meity.gov.in/), &
 		[IIST,](https://www.iist.ac.in/)** (Total Funding:
@@ -151,8 +151,8 @@ Other Roles](#research-projects-other)
 		California Institute of Technology (Caltech), Jun
 		2013&ndash;Jun 2016.
 
-	8. **Graduate Student,** "[*MICRONet-Mobile Infrastructure for
-		Coastal Region Offshore Communication & Networks*]()",
+	8. **Graduate Student,** "==MICRONet-Mobile Infrastructure for
+		Coastal Region Offshore Communication & Networks,=="
 		**[IIST](https://www.iist.ac.in/),
 		[ISRO-HQ](https://www.isro.gov.in/), &
 		[ITRA/DIT](https://dic.gov.in/dic_journey/itra-it-research-academy/)**,
@@ -161,8 +161,8 @@ Other Roles](#research-projects-other)
 		Information Technology and Management-Kerala, Feb
 		2014&ndash;Jun 2016.
 
-	9. **Graduate Student,** "[*IIST MeshNet: A Programmable Hybrid
-       Wireless Mesh Network Testbed,*]()"
+	9. **Graduate Student,** "==IIST MeshNet: A Programmable Hybrid
+       Wireless Mesh Network Testbed,=="
        [**IIST,**](https://www.iist.ac.in/) (Total Funding:
        &#8377;7,50,000), Indian Institute of Space Science and
        Technology (PI), Mar 2013&ndash;Mar 2016.

@@ -130,7 +130,7 @@ Reports](#tech-reports)
    Precision time synchronization in rural wireless living
    lab*](https://doi.org/10.1145/3636534.3697318)," in Proceedings of
    the 30th Annual **International Conference on Mobile Computing and
-   Networking (ACM MobiCom '24),** Washington D.C., USA,
+   Networking (ACM MobiCom '24),** Washington, D.C., USA,
    Nov. 2024, pp. 1898&ndash;1905.
 20. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    H. Zhang, and D. Qiao, "[*AraSDR: End-to-end, fully-programmable
@@ -264,11 +264,11 @@ Reports](#tech-reports)
 
 1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
-   R. Chandra, and H. Zhang, "[*Demo: Experimental validation of
+   R. Chandra, and H. Zhang, "==Demo: Experimental validation of
    limitations in TVWS spectrum sharing via the ARA wireless living
-   lab*]()," accepted in 2026 **IEEE International Symposium on
-   Dynamic Spectrum Access Networks (IEEE DySPAN '26),** Washington, 
-   D.C., USA, May 2026.
+   lab,==" accepted in 2026 **IEEE International Symposium on Dynamic
+   Spectrum Access Networks (IEEE DySPAN '26),** Washington, D.C.,
+   USA, May 2026.
 11. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
    and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
@@ -297,9 +297,9 @@ Reports](#tech-reports)
    dreams,*](https://agenda.hep.wisc.edu/event/2297/contributions/33889/)"
    **Throughput Computing 2025, HTC25,** Madison, WI, USA, Jun. 2025
 7. M. Nadim, T. Islam, S. Reddy, T. Zhang, Z. Meng, R. Afzal, **Sarath
-   Babu**, A. Ahmed, D. Qiao, A. Arora, and H.  Zhang, "[*Demo:
+   Babu**, A. Ahmed, D. Qiao, A. Arora, and H.  Zhang, "==Demo:
    AraSync: Precision time synchronization in rural wireless living
-   lab*]()," in 30th Annual **International Conference on Mobile
+   lab,==" in 30th Annual **International Conference on Mobile
    Computing and Networking (ACM MobiCom ’24),** Washington, D.C.,
    USA, Nov. 2024.
 6. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
@@ -312,21 +312,20 @@ Reports](#tech-reports)
    32nd **IEEE International Conference on Network Protocols (IEEE
    ICNP 2024),** Charleroi, Belgium, Oct. 2024, pp. 1&ndash;3.
 5. J. O. Boateng, T. Zhang, **Sarath Babu**, and H. Zhang,
-   "[*ARA-enabled end-to-end 5G and Open RAN prototyping using srsRAN
-   and FlexRIC*]()," in **srsRAN Project Fall Workshop,** Arlington,
-   VA, USA, Oct. 2024.
+   "==ARA-enabled end-to-end 5G and Open RAN prototyping using srsRAN
+   and FlexRIC,==" in **srsRAN Project Fall Workshop,** Arlington, VA,
+   USA, Oct. 2024.
 4. T. U. Islam, M. Nadim, G. Zu, V. Lee, O. J. Perrin, J. O. Boateng,
    M. Shahid, T. Zhang, E. K. A. Permatasari, Z. Meng, **Sarath
-   Babu**, D. Qiao, and H. Zhang, "[*ARA PAWR: Enabling wireless
-   experiments with programmable COTS RAN and x-Haul platforms*](),"
-   in **Midscale Experimental Research Infrastructure Forum (MERIF
+   Babu**, D. Qiao, and H. Zhang, "==ARA PAWR: Enabling wireless
+   experiments with programmable COTS RAN and x-Haul platforms,==" in
+   **Midscale Experimental Research Infrastructure Forum (MERIF
    '24),** Kansas City, MO, USA, Sep. 2024. [ <span
    class="award">🏆 Best Demo Award</span> ]   
 3. **Sarath Babu**, T. U. Islam, J. O. Boateng, M. Nadim, T. Zhang,
-   and H. Zhang, "[*ARA PAWR: Wireless living lab for smart and
-   connected rural communities*]()," in **IEEE International
-   Conference on Communications (IEEE ICC),** Denver, CO, USA,
-   Jun. 2024.
+   and H. Zhang, "==ARA PAWR: Wireless living lab for smart and
+   connected rural communities,==" in **IEEE International Conference
+   on Communications (IEEE ICC),** Denver, CO, USA, Jun. 2024.
 2. T. U. Islam, J. O. Boateng, G. Zu, M. Shahid, M. Nadim, W. Xu,
    T. Zhang, S. Reddy, X. Li, A. Atalar, Y. Chen, **Sarath Babu**,
    H. Zhang, D. Qiao, M. Zheng, Y. Guan, O. Boyraz, A. Arora,
@@ -337,10 +336,9 @@ Reports](#tech-reports)
    Computing and Networking (ACM MobiCom '23).** ACM, Article 98,
    Madrid, Spain, Oct. 2023, pp. 1&ndash;3.
 1. J. O. Boateng, T. Zhang, **Sarath Babu**, T. U. Islam, M. Shahid,
-   and H. Zhang, "[*ARA rural wireless living lab and end-to-end OTA
-   containerized OAI 5G-NR support*]()," in Fall 2022
-   **OpenAirInterface North American Workshop,** San Diego, CA, USA,
-   Nov. 2022.
+   and H. Zhang, "==ARA rural wireless living lab and end-to-end OTA
+   containerized OAI 5G-NR support,==" in Fall 2022 **OpenAirInterface
+   North American Workshop,** San Diego, CA, USA, Nov. 2022.
 
 ---
 
@@ -416,8 +414,8 @@ Reports](#tech-reports)
 ###<i class="bi bi-link-45deg"></i>  Patents
 
 1. P. Koshy, A. S. Ananthakrishnan, **Sarath Babu**, and B. S. Manoj,
-   "[*IoT Enabled Biomedical Wearable Clothing System for Healthcare
-   Assistance*]()," **IN 449773,** 2023.
+   "==IoT Enabled Biomedical Wearable Clothing System for Healthcare
+   Assistance,==" **IN 449773,** 2023.
 
 ---
 
