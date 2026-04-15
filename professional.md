@@ -156,6 +156,7 @@ Services](#journal-services)
       Processing](https://dl.acm.org/journal/tallip)
 	* [Elsevier Computer
       Networks](https://www.sciencedirect.com/journal/computer-networks)
+	* [Elsevier Journal of Open Innovation: Technology, Market, and Complexity](https://www.sciencedirect.com/journal/journal-of-open-innovation-technology-market-and-complexity)
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
 ---

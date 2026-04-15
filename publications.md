@@ -437,6 +437,6 @@ Reports](#tech-reports)
 1. [**Urban Delay Tolerant Network Simulator
    (UDTNSim)**](https://github.com/4sarathbabu/UDTNSim)**:** Helps in
    designing and developing mobility models and routing protocols for
-   ad~hoc vehicular networks in real-world road network environments
+   ad-hoc vehicular networks in real-world road network environments
    and analyze the performance.
 
