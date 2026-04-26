@@ -91,7 +91,8 @@ Services](#journal-services)
 		[2025](https://www.comsnets.org/archive/2025/),
 		[2024](https://www.comsnets.org/archive/2024/),
 		[2023](https://www.comsnets.org/archive/2023/) ]
-	* IEEE NFV-SDN [ [2025](https://nfvsdn2025.ieee-nfvsdn.org/) ]
+	* IEEE NFV-SDN [ [2026](https://nfvsdn2026.ieee-nfvsdn.org/),
+      [2025](https://nfvsdn2025.ieee-nfvsdn.org/) ]
 	* ACM WiNTECH [ [2025](https://acm-wintech.github.io/2025/),
 		[2024](https://acm-wintech.github.io/2024/),
 		[2023](https://acm-wintech.github.io/2023/),
@@ -150,12 +151,15 @@ Services](#journal-services)
 	* [IEEE Computer Magazine](https://www.computer.org/csdl/magazine/co)
     * [IEEE Communications Standards
       Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
-    * [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
+    * [IEEE Network
+      Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
+	* [IEEE Internet of Things Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine)
 	* [IEEE Access](https://ieeeaccess.ieee.org/)
 	* [ACM Transactions on Asian and Low-Resource Language Information
       Processing](https://dl.acm.org/journal/tallip)
 	* [Elsevier Computer
       Networks](https://www.sciencedirect.com/journal/computer-networks)
+    * [Elsevier Ad Hoc Networks](https://www.sciencedirect.com/journal/ad-hoc-networks)
 	* [Elsevier Journal of Open Innovation: Technology, Market, and Complexity](https://www.sciencedirect.com/journal/journal-of-open-innovation-technology-market-and-complexity)
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
@@ -166,8 +170,8 @@ Services](#journal-services)
 ### <i class="bi bi-link-45deg"></i> Volunteering Services
 
 * State Science and Technology Fair of Iowa
-  ([SSTFI](https://sstfi.org/)), 2025, [Served in
-  the Judging Panel], Ames, Iowa, USA. [ Mar 2025 ]  
+  ([SSTFI](https://sstfi.org/)), [Served in
+  the Judging Panel], Ames, Iowa, USA. [ 2026, 2025 ]  
 * IEEE Shannon Centennial Workshop on Communications and Information
   Theory (SCWIT) 2016, CDAC, Thiruvananthapuram, India. [ Dec 2016 ]
 * IEEE Recent Advances in Intelligent Computational Systems (RAICS)
