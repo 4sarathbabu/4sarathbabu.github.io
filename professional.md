@@ -84,15 +84,16 @@ Services](#journal-services)
 <a id="conference-tpcs"></a>
 
 * <i class="bi bi-link-45deg"></i> **Technical Program Committees (TPCs)**
-	* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
-		[2025](https://networking.ifip.org/2025/),
-		[2024](https://networking.ifip.org/2024/) ]
-	* COMSNETS [ [2026](https://www.comsnets.org/),
+	* COMSNETS [ [2027](https://www.comsnets.org), 
+		[2026](https://www.comsnets.org/2026/),
 		[2025](https://www.comsnets.org/archive/2025/),
 		[2024](https://www.comsnets.org/archive/2024/),
 		[2023](https://www.comsnets.org/archive/2023/) ]
 	* IEEE NFV-SDN [ [2026](https://nfvsdn2026.ieee-nfvsdn.org/),
       [2025](https://nfvsdn2025.ieee-nfvsdn.org/) ]
+	* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
+		[2025](https://networking.ifip.org/2025/),
+		[2024](https://networking.ifip.org/2024/) ]
 	* ACM WiNTECH [ [2025](https://acm-wintech.github.io/2025/),
 		[2024](https://acm-wintech.github.io/2024/),
 		[2023](https://acm-wintech.github.io/2023/),
