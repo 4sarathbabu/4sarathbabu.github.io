@@ -53,7 +53,8 @@ Other Roles](#research-projects-other)
 
 <a id="research-projects-pi"></a>
 
-* <i class="bi bi-link-45deg"></i> **As Principle Investigator | Co-Principal Investigator**
+* <i class="bi bi-link-45deg"></i> **As Principal Investigator (PI) |
+  Co-Principal Investigator (Co-PI)**
 
 	1. **Site Co-PI,** "[*ArMORED: Architecture for massive-MIMO Open
 		RAN Energy-efficient

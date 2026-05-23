@@ -89,15 +89,16 @@ Services](#journal-services)
 		[2025](https://www.comsnets.org/archive/2025/),
 		[2024](https://www.comsnets.org/archive/2024/),
 		[2023](https://www.comsnets.org/archive/2023/) ]
+	* ACM WiNTECH [ [2026](https://acm-wintech.github.io/2026/),
+	    [2025](https://acm-wintech.github.io/2025/),
+		[2024](https://acm-wintech.github.io/2024/),
+		[2023](https://acm-wintech.github.io/2023/),
+		[2022](https://acm-wintech.github.io/2022/) ]
 	* IEEE NFV-SDN [ [2026](https://nfvsdn2026.ieee-nfvsdn.org/),
       [2025](https://nfvsdn2025.ieee-nfvsdn.org/) ]
 	* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
 		[2025](https://networking.ifip.org/2025/),
 		[2024](https://networking.ifip.org/2024/) ]
-	* ACM WiNTECH [ [2025](https://acm-wintech.github.io/2025/),
-		[2024](https://acm-wintech.github.io/2024/),
-		[2023](https://acm-wintech.github.io/2023/),
-		[2022](https://acm-wintech.github.io/2022/) ]
 	* IEEE FNWF [ [2025](https://fnwf2025.ieee.org/),
 		[2024](https://fnwf2024.ieee.org/),
 		[2023](https://fnwf2023.ieee.org/) ]
