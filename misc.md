@@ -17,7 +17,7 @@
 * "==Real-World Experimental Testbed for 5G and Beyond Communication
   Systems,==" **IEEE Student Branch, IIST,** Oct. 2024.
 * "==WiCI & ARA: Advancing Frontiers of Wireless Innovation in Rural
-  Broadband==" **Friday Activities at Noon (FAN)**, Iowa State
+  Broadband,==" **Friday Activities at Noon (FAN)**, Iowa State
   University, Mar. 2022.
 * "==Type-based Analysis of Road Networks,==" **Avionics PhD Talk
   Series,** Department of Avionics and **IEEE Student Branch, IIST,**
