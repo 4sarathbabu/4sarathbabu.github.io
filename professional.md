@@ -164,7 +164,7 @@ Services](#journal-services)
     * [Elsevier Ad Hoc Networks](https://www.sciencedirect.com/journal/ad-hoc-networks)
 	* [Elsevier Journal of Open Innovation: Technology, Market, and
       Complexity](https://www.sciencedirect.com/journal/journal-of-open-innovation-technology-market-and-complexity)
-	* [Elsevier Rural Studies](https://www.sciencedirect.com/journal/journal-of-rural-studies)
+	* [Elsevier Journal of Rural Studies](https://www.sciencedirect.com/journal/journal-of-rural-studies)
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
 ---
