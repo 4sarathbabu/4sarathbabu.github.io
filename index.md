@@ -1,4 +1,4 @@
-### About Me
+### <i class="bi bi-person-lines-fill"></i> About Me
 
 
 <img class="shaded-image" src="images/sarath.jpeg" width="190" hspace="10pt" style="float:left">

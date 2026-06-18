@@ -26,7 +26,7 @@ Services](#journal-services)
 
 <a id="affiliation-ieee"></a>
 
-* <i class="bi bi-link-45deg"></i> **[Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)**
+* **[Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)**
   * **Working Groups**
     * IEEE Future Networks, [International Network Generations Roadmap
       (INGR)](https://futurenetworks.ieee.org/roadmap), **Satellite**
@@ -52,7 +52,7 @@ Services](#journal-services)
 
 <a id="affiliation-acm"></a>
 
-* <i class="bi bi-link-45deg"></i> **[Association of Computing Machinery (ACM)](https://www.acm.org/)**
+* **[Association of Computing Machinery (ACM)](https://www.acm.org/)**
   * **Memberships**
 	* Professional member, [ACM](http://www.acm.org) [ Dec 2020&ndash;Current ]
 	  * **Special Interest Groups (SIGs)**:
@@ -78,12 +78,12 @@ Services](#journal-services)
 
 <a id="conference-ocs"></a>
 
-* <i class="bi bi-link-45deg"></i> **Organizing Committees**
+* **Organizing Committees**
 	* Student Travel Grant Chair, [IEEE MASS 2026](https://mass-conf.github.io/2026/index.html)
   
 <a id="conference-tpcs"></a>
 
-* <i class="bi bi-link-45deg"></i> **Technical Program Committees (TPCs)**
+* **Technical Program Committees (TPCs)**
 	* COMSNETS [ [2027](https://www.comsnets.org), 
 		[2026](https://www.comsnets.org/2026/),
 		[2025](https://www.comsnets.org/archive/2025/),
@@ -106,7 +106,7 @@ Services](#journal-services)
 
 <a id="conference-reviews"></a>
 
-* <i class="bi bi-link-45deg"></i> **Conference Reviews (In addition
+* **Conference Reviews (In addition
   to TPCs)**
     * IEEE INFOCOM [ [2026](https://infocom2026.ieee-infocom.org/),
       [2025](https://infocom2025.ieee-infocom.org/),
@@ -125,7 +125,7 @@ Services](#journal-services)
 
 <a id="journal-reviews"></a>
 
-* <i class="bi bi-link-45deg"></i> **Journals Reviews**
+* **Journals Reviews**
 	* [IEEE Transactions on Network and Service
       Management (IEEE TNSM)](https://www.comsoc.org/publications/journals/ieee-tnsm)
     * [IEEE Transactions on Wireless Communications (IEEE TWC)](https://www.comsoc.org/publications/journals/ieee-twc)
@@ -171,7 +171,7 @@ Services](#journal-services)
 
 <a id="volunteering-services"></a>
 
-### <i class="bi bi-link-45deg"></i> Volunteering Services
+### Volunteering Services
 
 * State Science and Technology Fair of Iowa
   ([SSTFI](https://sstfi.org/)), [Served in
@@ -189,7 +189,7 @@ Services](#journal-services)
 ---
 <a id="web-maintenance"></a>
 
-### <i class="bi bi-link-45deg"></i> Web Maintenance
+### Web Maintenance
 
 * Design, development, and maintenance of [Systems and Networks Lab
       (SNL)](https://iist-sysnet.github.io/) web-page, IIST [ Oct

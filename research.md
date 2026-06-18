@@ -53,7 +53,7 @@ Other Roles](#research-projects-other)
 
 <a id="research-projects-pi"></a>
 
-* <i class="bi bi-link-45deg"></i> **As Principal Investigator (PI) |
+* **As Principal Investigator (PI) |
   Co-Principal Investigator (Co-PI)**
 
 	1. **Site Co-PI,** "[*ArMORED: Architecture for massive-MIMO Open
@@ -92,7 +92,7 @@ Other Roles](#research-projects-other)
 
 <a id="research-projects-other"></a>
 
-* <i class="bi bi-link-45deg"></i>  **As Senior Personnel | Other Roles**
+* **As Senior Personnel | Other Roles**
 
 	1. **Research Scientist/Research Assistant Professor,**
 		"[*Ara4Rural: ARA Infrastructure and Community Building for
