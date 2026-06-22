@@ -155,6 +155,7 @@ Services](#journal-services)
       Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
     * [IEEE Network
       Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
+	* [IEEE Aerospace and Electronic Systems Magazine (IEEE AESM)](https://ieee-aess.org/publications/systems-magazine)
 	* [IEEE Internet of Things Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine)
 	* [IEEE Access](https://ieeeaccess.ieee.org/)
 	* [ACM Transactions on Asian and Low-Resource Language Information
