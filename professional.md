@@ -99,6 +99,7 @@ Services](#journal-services)
 	* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
 		[2025](https://networking.ifip.org/2025/),
 		[2024](https://networking.ifip.org/2024/) ]
+	* NextGCom [ [2026](https://nextgcom.net/) ]
 	* IEEE FNWF [ [2025](https://fnwf2025.ieee.org/),
 		[2024](https://fnwf2024.ieee.org/),
 		[2023](https://fnwf2023.ieee.org/) ]
