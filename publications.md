@@ -446,11 +446,16 @@ Reports](#tech-reports)
 <a id="datasets"></a>
 ###<i class="bi bi-link-45deg"></i>  Datasets
 
-1. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
+1. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu,** T. Zhang,
+   D. Qiao, H. Zhang, A. Arora, "[*AraHaul Outdoor Wireless Backhaul
+   Link Performance with Weather
+   Measurements*](https://dx.doi.org/10.21227/6ncx-rs20)", **IEEE
+   DataPort,** Jun. 2026.
+2. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
    Babu,** D. Qiao, H. Zhang, "[*AraMIMO: TV white space mMIMO
    experimental
-   measurements*](https://ieee-dataport.org/documents/aramimo-tv-white-space-mmimo-experimental-measurements)",
-   **IEEE DataPort,** Jun. 2026.
+   measurements*](https://dx.doi.org/10.21227/0y0j-g926)", **IEEE
+   DataPort,** Jun. 2026.
 1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu,** D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, H Zhang, "[*TVWS spectrum
    availability*](https://dx.doi.org/10.21227/wcpx-9623)", **IEEE
