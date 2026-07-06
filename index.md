@@ -39,12 +39,13 @@ spanning cloud, edge, and wireless platforms.
   (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
   Washington, D.C., USA.
 
-* The paper titled "==Revisiting TVWS for rural broadband: Policy
+* The paper titled "[*Revisiting TVWS for rural broadband: Policy
    insights from nationwide availability analysis and ARA field
-   validation,==" accepted for publication in Proceedings of the 2026
-   [**IEEE International Symposium on Dynamic Spectrum Access Networks
-   (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May
-   2026, Washington, D.C., USA.
+   validation,*](https://doi.org/10.1109/DySPAN69846.2026.11571151)"
+   accepted for publication in Proceedings of the 2026 [**IEEE
+   International Symposium on Dynamic Spectrum Access Networks (IEEE
+   DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
+   Washington, D.C., USA.
 
 * Paper titled "[*AraOptical testbed: Design, field trials, and
    channel analysis of long-range FSOC system with COTS
