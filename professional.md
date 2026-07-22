@@ -132,6 +132,7 @@ Services](#journal-services)
     * [IEEE Transactions on Wireless Communications (IEEE TWC)](https://www.comsoc.org/publications/journals/ieee-twc)
 	* [IEEE Transactions on Communications (IEEE
       TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
+	* [IEEE/ACM Transactions on Networking (IEEE/ACM TON,  IEEE TNET)](https://www.comsoc.org/publications/journals/ieee-tnet)
     * [IEEE Transactions on Mobile Computing (IEEE TMC)](https://www.computer.org/csdl/journal/tm)
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
