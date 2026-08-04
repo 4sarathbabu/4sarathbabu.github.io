@@ -119,8 +119,8 @@ Reports](#tech-reports)
    version](https://arxiv.org/pdf/2503.18218) ) [ <span
    class="award">🏆 Best Paper Award</span> ]
 22. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
-   Babu**, Y. Guan, Z. Zhu, A. Ahmad "[*ReVeal: A physics-informed
-   neural network for high-fidelity radio environment
+   Babu**, Y. Guan, Z. Zhu, and A. Ahmad, "[*ReVeal: A
+   physics-informed neural network for high-fidelity radio environment
    mapping*](https://doi.org/10.1109/DySPAN64764.2025.11115911)," in
    Proceedings of the 2025 **IEEE International Symposium on Dynamic
    Spectrum Access Networks (IEEE DySPAN '25),** May 2025, London, UK,
@@ -447,17 +447,22 @@ Reports](#tech-reports)
 <a id="datasets"></a>
 ###<i class="bi bi-link-45deg"></i>  Datasets
 
-1. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu,** T. Zhang,
+1. M. Shahid, G. Zu, V. Lee, K. Das, H. Ushaq, H. Zhang, J. Song,
+   D. Qiao, **Sarath Babu,** Y. Guan, Z. Zhu, and A. Ahmad, "[*ARA
+   COTS 5G NR Spatio-Temporal RSRP Measurement
+   Dataset*](https://dx.doi.org/10.21227/7np5-4e05)," **IEEE
+   DataPort,** Aug. 2026.
+3. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu,** T. Zhang,
    D. Qiao, H. Zhang, and A. Arora, "[*AraHaul Outdoor Wireless
    Backhaul Link Performance with Weather
-   Measurements*](https://dx.doi.org/10.21227/6ncx-rs20)", **IEEE
+   Measurements*](https://dx.doi.org/10.21227/6ncx-rs20)," **IEEE
    DataPort,** Jun. 2026.
 2. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
    Babu,** D. Qiao, and H. Zhang, "[*AraMIMO: TV white space mMIMO
    experimental
-   measurements*](https://dx.doi.org/10.21227/0y0j-g926)", **IEEE
+   measurements*](https://dx.doi.org/10.21227/0y0j-g926)," **IEEE
    DataPort,** Jun. 2026.
 1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu,** D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, and H. Zhang, "[*TVWS spectrum
-   availability*](https://dx.doi.org/10.21227/wcpx-9623)", **IEEE
+   availability*](https://dx.doi.org/10.21227/wcpx-9623)," **IEEE
    DataPort,** May 2026.
