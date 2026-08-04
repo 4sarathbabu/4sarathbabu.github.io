@@ -449,13 +449,13 @@ Reports](#tech-reports)
 
 1. M. Shahid, G. Zu, V. Lee, K. Das, H. Ushaq, H. Zhang, J. Song,
    D. Qiao, **Sarath Babu,** Y. Guan, Z. Zhu, and A. Ahmad, "[*ARA
-   COTS 5G NR Spatio-Temporal RSRP Measurement
-   Dataset*](https://dx.doi.org/10.21227/7np5-4e05)," **IEEE
+   COTS 5G NR spatio-temporal RSRP measurement
+   dataset*](https://dx.doi.org/10.21227/7np5-4e05)," **IEEE
    DataPort,** Aug. 2026.
 3. G. Zu, M. Nadim, S. Reddy, T. U. Islam, **Sarath Babu,** T. Zhang,
-   D. Qiao, H. Zhang, and A. Arora, "[*AraHaul Outdoor Wireless
-   Backhaul Link Performance with Weather
-   Measurements*](https://dx.doi.org/10.21227/6ncx-rs20)," **IEEE
+   D. Qiao, H. Zhang, and A. Arora, "[*AraHaul outdoor wireless
+   backhaul link performance with weather
+   measurements*](https://dx.doi.org/10.21227/6ncx-rs20)," **IEEE
    DataPort,** Jun. 2026.
 2. T. U. Islam, T. Zhang, J. O. Boateng, E. Gossling, G. Zu, **Sarath
    Babu,** D. Qiao, and H. Zhang, "[*AraMIMO: TV white space mMIMO
