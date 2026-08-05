@@ -76,19 +76,21 @@ Other Roles](#research-projects-other)
 		Virginia Tech, NTT DOCOMO, and Reliance Jio, Jan
 		2024&ndash;Dec 2027.
 
-	3. **Co-PI,** "[*ARA Launchpad: Open Wireless Platforms, Data and
+	3. **Co-PI,** "==Open RAN Research, Testing, and Integration for
+	   Rural Industries and Communities,==" [**NSF
+	   NeTS**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
+	   **&** [**TIP**](https://www.nsf.gov/tip/latest), (Total
+	   Funding: $1,400,000), Iowa State University (PI), May
+	   2023&ndash;Nov 2026.
+
+
+	4. **Co-PI,** "[*ARA Launchpad: Open Wireless Platforms, Data and
 		Co-Prototyping for Integrative Research and Community
 		Building,*](https://arawireless.org/)" [**NSF
 		NeTS,**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
 		(Total Funding: $784,000), Iowa State University (PI), Oct
 		2023&ndash;May 2026.
 
-	4. **Co-PI,** "==Open RAN Research, Testing, and Integration for
-	   Rural Industries and Communities,==" [**NSF
-	   NeTS**](https://www.nsf.gov/funding/opportunities/nets-networking-technology-systems)
-	   **&** [**TIP**](https://www.nsf.gov/tip/latest), (Total
-	   Funding: $1,400,000), Iowa State University (PI), May
-	   2023&ndash;Apr 2025.
 
 <a id="research-projects-other"></a>
 
