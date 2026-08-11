@@ -99,10 +99,11 @@ Services](#journal-services)
 	* IFIP Networking [ [2026](https://networking.ifip.org/2026/), 
 		[2025](https://networking.ifip.org/2025/),
 		[2024](https://networking.ifip.org/2024/) ]
-	* NextGCom [ [2026](https://nextgcom.net/) ]
-	* IEEE FNWF [ [2025](https://fnwf2025.ieee.org/),
+	* IEEE FNWF [ [2026](https://fnwf2026.ieee.org/), 
+		[2025](https://fnwf2025.ieee.org/),
 		[2024](https://fnwf2024.ieee.org/),
 		[2023](https://fnwf2023.ieee.org/) ]
+	* NextGCom [ [2026](https://nextgcom.net/) ]
 	* [IEEE RAICS](https://www.raics2025.org/) [ 2015 ]
 
 <a id="conference-reviews"></a>
@@ -134,6 +135,7 @@ Services](#journal-services)
       TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom)
 	* [IEEE/ACM Transactions on Networking (IEEE/ACM TON,  IEEE TNET)](https://www.comsoc.org/publications/journals/ieee-tnet)
     * [IEEE Transactions on Mobile Computing (IEEE TMC)](https://www.computer.org/csdl/journal/tm)
+    * [IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)](https://www.comsoc.org/publications/journals/ieee-transactions-cognitive-communications-and-networking)
     * [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse)
 	* [IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)](https://ieee-aess.org/publications/taes)
     * [IEEE Transactions on Vehicular Technology (IEEE TVT)](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
