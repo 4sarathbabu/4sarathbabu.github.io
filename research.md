@@ -70,15 +70,15 @@ Other Roles](#research-projects-other)
 		(ACCoRD),*](https://www.ntia.gov/press-release/2024/biden-harris-administration-awards-42m-wireless-innovation)"
 		[**NTIA Innovation
 		Fund,**](https://www.ntia.gov/press-release/2024/biden-harris-administration-awards-42m-wireless-innovation)
-		(Total Funding: $42,299,693, ISU Share: $1,000,000), AT&T
-		(PI), Verizon, University of Texas at Dallas, Northeastern
-		University, Iowa State University, Rutgers University,
-		Virginia Tech, NTT DOCOMO, and Reliance Jio, Jan
-		2024&ndash;Dec 2027.
+		(Total Funding: $42,299,693, ISU Share: $500,000 + Equipment
+		of $500,000+ value), AT&T (PI), Verizon, University of Texas
+		at Dallas, Northeastern University, Iowa State University,
+		Rutgers University, Virginia Tech, NTT DOCOMO, and Reliance
+		Jio, Jan 2024&ndash;Dec 2027.
 
 	3. **Co-PI,** "==Conference: AgWireless 2026: Accelerating
-       Concerted 6G, AgTech and Multi-Use Innovation,==" [**NSF
-       TIP**](https://www.nsf.gov/tip/latest), (Total Funding:
+       Concerted 6G, AgTech and Multi-Use Innovation,=="
+       [**NSF**](https://www.nsf.gov), (Total Funding:
        $200,000), Iowa State University (PI), Aug 2026&ndash;Jan 2027.
 
 	2. **Co-PI,** "==Open RAN Research, Testing, and Integration for

@@ -80,6 +80,9 @@ Services](#journal-services)
 
 * **Organizing Committees**
 	* Student Travel Grant Chair, [IEEE MASS 2026](https://mass-conf.github.io/2026/index.html)
+    * Co-PI & Organizer, [AgWireless
+      2026,](https://arawireless.org/agwireless26/) Accelerating
+      Concerted 6G, AgTech and Multi-Use Innovation [ [2026](https://arawireless.org/agwireless26/) ]
   
 <a id="conference-tpcs"></a>
 
