@@ -65,7 +65,7 @@ Other Roles](#research-projects-other)
 		Wireless (PI) and Iowa State University, Jan 2025&ndash;Dec
 		2027.
 
-	4. **Site Co-PI,** "[*Acceleration of Compatibility and
+	5. **Site Co-PI,** "[*Acceleration of Compatibility and
 		Commercialization for Open RAN Deployments
 		(ACCoRD),*](https://www.ntia.gov/press-release/2024/biden-harris-administration-awards-42m-wireless-innovation)"
 		[**NTIA Innovation
@@ -75,6 +75,11 @@ Other Roles](#research-projects-other)
 		at Dallas, Northeastern University, Iowa State University,
 		Rutgers University, Virginia Tech, NTT DOCOMO, and Reliance
 		Jio, Jan 2024&ndash;Dec 2027.
+
+	4. **Co-PI,** "[*AraOps: ARA Infrastructure Operation
+       and User Support,*](https://arawireless.org/)
+       [**NSF,**](https://www.nsf.gov/) (Total Funding: $412,581),
+       Iowa State University (PI), Dec 2026&ndash;Nov 2027.
 
 	3. **Co-PI,** "==Conference: AgWireless 2026: Accelerating
        Concerted 6G, AgTech and Multi-Use Innovation,=="
@@ -88,7 +93,6 @@ Other Roles](#research-projects-other)
 	   Funding: $1,400,000), Iowa State University (PI), May
 	   2023&ndash;Nov 2026.
 
-
 	1. **Co-PI,** "[*ARA Launchpad: Open Wireless Platforms, Data and
 		Co-Prototyping for Integrative Research and Community
 		Building,*](https://arawireless.org/)" [**NSF
@@ -101,12 +105,8 @@ Other Roles](#research-projects-other)
 
 * **As Senior Personnel | Other Roles**
 
-	1. **Senior Personnel,** "[*AraOps: ARA Infrastructure Operation
-       and User Support,*](https://arawireless.org/)
-       [**NSF,**](https://www.nsf.gov/) (Total Funding: $412,581),
-       Iowa State University (PI), Dec 2026&ndash;Nov 2027.
 
-	9. **Research Scientist/Research Assistant Professor,**
+	1. **Research Scientist/Research Assistant Professor,**
 		"[*Ara4Rural: ARA Infrastructure and Community Building for
 		Rural Wireless Applications,*](https://arawireless.org/)
 		[**NSF
