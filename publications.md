@@ -25,6 +25,12 @@ Reports](#tech-reports)
    transceivers*](https://doi.org/10.1109/JLT.2026.3667493)," in
    **IEEE/Optica Journal of Lightwave Technology (IEEE JLT),**
    vol. 44, no. 10, pp. 3931&ndash;3938, May 2026.
+10. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
+   D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
+   for long-range, high-capacity FSOC in rural wireless x-haul
+   networks*](https://doi.org/10.1145/3768986)," in Proceedings of the
+   **ACM on Networking,** vol. 3, no. **CoNEXT4,**
+   pp. 39:1&ndash;39:21, Nov. 2025.
 9. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
    T. Zhang, S. Reddy, W. Xu, A. Atalar, V. Lee, Y.  Chen,
    E. Gossling, E. Permatasari, C. Somiah, O. Perrin, Z. Meng,
@@ -92,14 +98,6 @@ Reports](#tech-reports)
    in Proceedings of the 2026 **IEEE International Symposium on
    Dynamic Spectrum Access Networks (IEEE DySPAN '26),** May 2026,
    Washington, D.C., USA, pp. 1&ndash;9.
-25. M. Nadim, X. Li, S. Reddy, **Sarath Babu**, A. Ahmad, O. Boyraz,
-   D. Qiao, A. Arora, and H. Zhang, "[*AraOptical system and testbed
-   for long-range, high-capacity FSOC in rural wireless x-haul
-   networks*](https://doi.org/10.1145/3768986)," in Proceedings of the
-   **ACM Networking,** 21st **International Conference on emerging
-   Networking EXperiments and Technologies (ACM CoNEXT 2025),**
-   vol. 3, no. CoNEXT4, HKUST, Hong Kong, Nov. 2025,
-   pp. 39:1&ndash;39:21.
 24. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
