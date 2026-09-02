@@ -47,6 +47,12 @@
 
 ### <i class="bi bi-link-45deg"></i> Tutorials
 
+* "==ARA User Training,==" **AraFest/AgWireless (ARA Annual Event),**
+  Ames, IA, USA, [ [Aug&ndash;Sep
+  2026](https://arawireless.org/agwireless26/), [Sep
+  2025](https://arawireless.org/arafest25/), [Aug 
+  2024](https://arawireless.org/arafest24/), [Sep 
+  2023](https://arawireless.org/2023-public-launch/#program) ].
 * "==Introduction to ARA Wireless Living Lab for Smart and Connected
   Rural Communities,==" **Midscale Experimental Research
   Infrastructure Forum (MERIF '24),** Kansas City, MO, USA, Sep. 2024.
