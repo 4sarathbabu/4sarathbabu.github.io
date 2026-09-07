@@ -10,8 +10,9 @@ Preprints](#preprints)
 &emsp; [<i class="bi bi-link-45deg"></i> Technical
 Reports](#tech-reports)  
 &emsp; [<i class="bi bi-link-45deg"></i> Patents](#patents)  
-&emsp; [<i class="bi bi-link-45deg"></i> Software](#software)  
-&emsp; [<i class="bi bi-link-45deg"></i> Datasets](#datasets)
+&emsp; [<i class="bi bi-link-45deg"></i> Datasets](#datasets)  
+&emsp; [<i class="bi bi-link-45deg"></i> Software](#software)
+
 
 ---
 
