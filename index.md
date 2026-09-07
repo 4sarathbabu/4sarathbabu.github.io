@@ -33,13 +33,19 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
+* Paper titled "[*Towards federated, green, and resilient 6G
+   non-terrestrial networks*](https://arxiv.org/abs/2609.05184)," is
+   now available in [<img src="images/arxiv.png"
+   style="vertical-align: middle"
+   height="20"></img>](https://arxiv.org/abs/2609.05184).
+
 * "==Demo: Experimental validation of limitations in TVWS spectrum
   sharing via the ARA wireless living lab,==" accepted in 2026
   [**IEEE International Symposium on Dynamic Spectrum Access Networks
   (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
   Washington, D.C., USA.
 
-* The paper titled "[*Revisiting TVWS for rural broadband: Policy
+*  Paper titled "[*Revisiting TVWS for rural broadband: Policy
    insights from nationwide availability analysis and ARA field
    validation,*](https://doi.org/10.1109/DySPAN69846.2026.11571151)"
    accepted for publication in Proceedings of the 2026 [**IEEE

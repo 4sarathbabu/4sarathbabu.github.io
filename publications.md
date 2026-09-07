@@ -357,17 +357,32 @@ Reports](#tech-reports)
 <a id="preprints"></a>
 ###<i class="bi bi-link-45deg"></i>  arXiv/TechRxiv Preprints
 
-1. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, Sarath
-   Babu, Y. Guan, Z. Zhu, and A. Ahmad, "[*ReVeal-MT: A
+1. **Sarath Babu,** V. Baños-Gonzalez, M. Cordina, D. Dalai, T. de
+   Cola, F. Davoli, E. V. Depasquale, A. Dutta, H. ElBakoury,
+   M. A. Enright, G. Giambene, S. Goswami, R. Gupta, W. Jaafar,
+   E. Hammad, B. S. Manoj, T. Li, M. M. H. Roth, P. Saxena,
+   P. Scanlan, Z. Sun, D. Tarchi, S. Zammit, "[*Towards federated,
+   green, and resilient 6G non-terrestrial
+   networks*](https://arxiv.org/abs/2609.05184)," **arXiv** preprint
+   arXiv:2609.05184v1, Sep. 2026.
+7. M. Shahid, K. Das, H. Ushaq, H. Zhang, J. Song, D. Qiao, **Sarath
+   Babu,** Y. Guan, Z. Zhu, and A. Ahmad, "[*ReVeal-MT: A
    physics-informed neural network for multi-transmitter radio
    environment mapping*](https://doi.org/10.48550/arXiv.2512.04100),"
    **arXiv** preprint arXiv:2512.04100v1, Nov. 2025.
-6. T. U. Islam et al., "[*Design and implementation of ARA wireless
-   living lab for rural broadband and
+6. T. U. Islam, J. O. Boateng, M. Nadim, G. Zu, M. Shahid, X. Li,
+   T. Zhang, S. Reddy, W. Xu, A. Atalar, V. Lee, Y. F. Chen, E.
+   Gossling, E. Permatasari, C. Somiah, O. Perrin, Z. Meng, R. Afzal,
+   **Sarath Babu,** M. Soliman, A. Hussain, D. Qiao, M.  Zheng,
+   O. Boyraz, Y. Guan, A. Arora, M. Y. Selim, M. B. Cohen, M. Luby,
+   R. Chandra, J. Gross, K. Keahey, and H. Zhang, "[*Design and
+   implementation of ARA wireless living lab for rural broadband and
    applications*](https://doi.org/10.48550/arXiv.2408.00913)," **arXiv
    preprint** arXiv:2408.00913v1, Aug. 2024.
-5. M. Shahid et al., "[Wireless spectrum in rural farmlands: Status,
-   challenges and
+5. M. Shahid, K. Das, T. U. Islam, C. Somiah, D. Qiao, A. Ahmad,
+   J. Song, Z. Zhu, **Sarath Babu,** Y. Guan, T. Chakraborty, S.  Jog,
+   R. Chandra, and H. Zhang, "[Wireless spectrum in rural farmlands:
+   Status, challenges and
    opportunities](https://doi.org/10.48550/arXiv.2407.04561)," **arXiv
    preprint** arXiv:2407.04561v1, Jul. 2024.
 4. D. Dalai, **Sarath Babu**, and B. S. Manoj, "[*Satellite-6G network
@@ -419,29 +434,6 @@ Reports](#tech-reports)
 
 ---
 
-<a id="software"></a>
-###<i class="bi bi-link-45deg"></i>  Software Developed
-
-1. **AraSoft:** Software Control Framework for ARA Wireless Living Lab
-   Objective: Design and develop a scalable and robust software
-   control framework for the ARA Wireless Living Lab that enables
-   advanced, reproducible wireless experimentation across
-   heterogeneous compute, storage, wireless, and sensing platforms.
-3. **OpenFlow Software Switch with Controlled Buffering:** Enables an
-   SDN switch for controlled buffering of packets to handle link
-   disruptions in software defined wireless environments.
-2. **Software Defined Optimized Link State Routing (SD-OLSR)
-   Protocol:** Provides an automated SDN resource discovery and
-   self-configuration scheme for software defined wireless
-   environments involving mobile switches and controllers.
-1. [**Urban Delay Tolerant Network Simulator
-   (UDTNSim)**](https://github.com/4sarathbabu/UDTNSim)**:** Helps in
-   designing and developing mobility models and routing protocols for
-   ad-hoc vehicular networks in real-world road network environments
-   and analyze the performance.
-
----
-
 <a id="datasets"></a>
 ###<i class="bi bi-link-45deg"></i>  Datasets
 
@@ -464,3 +456,26 @@ Reports](#tech-reports)
    Ahmad, J. Song, Z. Zhu, Y. Guan, and H. Zhang, "[*TVWS spectrum
    availability*](https://dx.doi.org/10.21227/wcpx-9623)," **IEEE
    DataPort,** May 2026.
+
+---
+
+<a id="software"></a>
+###<i class="bi bi-link-45deg"></i>  Software Developed
+
+1. **AraSoft:** Software Control Framework for ARA Wireless Living Lab
+   Objective: Design and develop a scalable and robust software
+   control framework for the ARA Wireless Living Lab that enables
+   advanced, reproducible wireless experimentation across
+   heterogeneous compute, storage, wireless, and sensing platforms.
+3. **OpenFlow Software Switch with Controlled Buffering:** Enables an
+   SDN switch for controlled buffering of packets to handle link
+   disruptions in software defined wireless environments.
+2. **Software Defined Optimized Link State Routing (SD-OLSR)
+   Protocol:** Provides an automated SDN resource discovery and
+   self-configuration scheme for software defined wireless
+   environments involving mobile switches and controllers.
+1. [**Urban Delay Tolerant Network Simulator
+   (UDTNSim)**](https://github.com/4sarathbabu/UDTNSim)**:** Helps in
+   designing and developing mobility models and routing protocols for
+   ad-hoc vehicular networks in real-world road network environments
+   and analyze the performance.
