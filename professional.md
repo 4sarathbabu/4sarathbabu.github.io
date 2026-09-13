@@ -5,6 +5,8 @@ Affiliations](#affiliations)
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i>
 IEEE](#affiliation-ieee)  
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> ACM](#affiliation-acm)  
+&emsp; [<i class="bi bi-link-45deg"></i> Institutional 
+Services](#institutional-services)  
 &emsp; [<i class="bi bi-link-45deg"></i> Conference
 Services](#conference-services)  
 &emsp;&emsp;&emsp; [<i class="bi bi-link-45deg"></i> Organizing 
@@ -72,6 +74,16 @@ Services](#journal-services)
 
 ---
 
+<a id="institutional-services"></a>
+
+### <i class="bi bi-link-45deg"></i> Institutional Services
+
+* Department of Electrical and Computer Engineering, Iowa State
+  University, USA
+    * Member, Seminar Committee [ Aug 2026&ndash;May 2027 ]
+
+---
+
 <a id="conference-services"></a>
 
 ### <i class="bi bi-link-45deg"></i> Conference Services
@@ -92,6 +104,8 @@ Services](#journal-services)
 		[2025](https://www.comsnets.org/archive/2025/),
 		[2024](https://www.comsnets.org/archive/2024/),
 		[2023](https://www.comsnets.org/archive/2023/) ]
+	* HARVEST-Vision (IEEE/CVF WACF) [
+      [2027](https://icicle-ai.github.io/harvest/vision-2027) ]
 	* ACM WiNTECH [ [2026](https://acm-wintech.github.io/2026/),
 	    [2025](https://acm-wintech.github.io/2025/),
 		[2024](https://acm-wintech.github.io/2024/),
@@ -113,7 +127,8 @@ Services](#journal-services)
 
 * **Conference Reviews (In addition
   to TPCs)**
-    * IEEE INFOCOM [ [2026](https://infocom2026.ieee-infocom.org/),
+    * IEEE INFOCOM [ [2027](https://infocom2027.ieee-infocom.org/),
+      [2026](https://infocom2026.ieee-infocom.org/),
       [2025](https://infocom2025.ieee-infocom.org/),
       [2024](https://infocom2024.ieee-infocom.org/) ]
 	* IEEE GLOBECOM [ [2023](https://globecom2023.ieee-globecom.org/) ]
