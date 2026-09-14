@@ -33,86 +33,50 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
-* Paper titled "[*Towards federated, green, and resilient 6G
+* [ <span class="red">Sep 2026</span> ] Our team has been awarded a
+  **$5.08M NSF VINES Track 2 grant** for ==*AgSlicing: Predictable RAN
+  and Spectrum Slicing for Precision Agriculture*.== I will serve as
+  Co-Investigator on this three-year project led by Iowa State
+  University, in collaboration with the University of Virginia,
+  Skylark Wireless, and Federated Wireless.
+
+* [ <span class="red">Sep 2026</span> ] IEEE Future Networks
+   International Network Generation Roadmap (INGR) Satellite Working
+   Group paper titled "[*Towards federated, green, and resilient 6G
    non-terrestrial networks*](https://arxiv.org/abs/2609.05184)," is
    now available in [<img src="images/arxiv.png"
    style="vertical-align: middle"
    height="20"></img>](https://arxiv.org/abs/2609.05184).
 
-* "==Demo: Experimental validation of limitations in TVWS spectrum
-  sharing via the ARA wireless living lab,==" accepted in 2026
-  [**IEEE International Symposium on Dynamic Spectrum Access Networks
-  (IEEE DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
-  Washington, D.C., USA.
+* [ <span class="red">Apr 2026</span> ] "==Demo: Experimental
+  validation of limitations in TVWS spectrum sharing via the ARA
+  wireless living lab,==" accepted in 2026 [**IEEE International
+  Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN
+  '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026, Washington,
+  D.C., USA.
 
-*  Paper titled "[*Revisiting TVWS for rural broadband: Policy
-   insights from nationwide availability analysis and ARA field
+*  [ <span class="red">Mar 2026</span> ] Paper titled "[*Revisiting
+   TVWS for rural broadband: Policy insights from nationwide
+   availability analysis and ARA field
    validation,*](https://doi.org/10.1109/DySPAN69846.2026.11571151)"
    accepted for publication in Proceedings of the 2026 [**IEEE
    International Symposium on Dynamic Spectrum Access Networks (IEEE
    DySPAN '26),**](https://dyspan2026.ieee-dyspan.org/) May 2026,
    Washington, D.C., USA.
 
-* Paper titled "[*AraOptical testbed: Design, field trials, and
-   channel analysis of long-range FSOC system with COTS
-   transceivers*](https://doi.org/10.1109/JLT.2026.3667493),"
-   accepted for publication in [**IEEE/Optica Journal of Lightwave
-   Technology (IEEE
+* [ <span class="red">Feb 2026</span> ] Paper titled "[*AraOptical
+   testbed: Design, field trials, and channel analysis of long-range
+   FSOC system with COTS
+   transceivers*](https://doi.org/10.1109/JLT.2026.3667493)," accepted
+   for publication in [**IEEE/Optica Journal of Lightwave Technology
+   (IEEE
    JLT),**](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/)
    February 2026.
 
-* Poster titled "[*Demonstration of a 4.2km MISO free-space optical
-   communication link using COTS SFP+
-   transceivers*](https://doi.org/10.1117/12.3089075)," accepted in
-   [**SPIE Photonics
+* [ <span class="red">Jan 2026</span> ] Poster titled "[*Demonstration
+   of a 4.2km MISO free-space optical communication link using COTS
+   SFP+ transceivers*](https://doi.org/10.1117/12.3089075)," accepted
+   in [**SPIE Photonics
    West,**](https://spie.org/conferences-and-exhibitions/photonics-west)
    San Francisco, CA, 17&ndash;22 January 2026.
-
-* System Demo: "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
-  processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)," 
-  December 2025.
-  ( [<img src="images/video.png"
-  style="vertical-align: middle"
-  height="22"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
-  )
-
-* Paper titled "[*AraOptical system and testbed for long-range,
-  high-capacity FSOC in rural wireless x-haul
-  networks,*](https://doi.org/10.1145/3768986)" accepted in 21th
-  [**International Conference on emerging Networking EXperiments and
-  Technologies (ACM CoNEXT
-  2025),**](https://conferences.sigcomm.org/co-next/2025/#!/home)
-  HKUST, Hong Kong, 1&ndash;4 December, 2025.
-
-* Paper titled "[*ReVeal-MT: A physics-informed neural network for
-  multi-transmitter radio environment
-  mapping*](https://doi.org/10.48550/arXiv.2512.04100)," is now
-  available in [<img src="images/arxiv.png" style="vertical-align:
-  middle"
-  height="20"></img>](https://doi.org/10.48550/arXiv.2512.04100).
-
-* Paper and demo titled "[*Real-world integration and evaluation of
-  open-source 5G core with commercial
-  RAN,*](https://doi.org/10.1109/MILCOM64451.2025.11309851)"
-  accepted in [**IEEE Military Communications Conference (IEEE MILCOM
-  2025),**](https://milcom2025.ieee-milcom.org/) Los Angeles, CA, USA,
-  6&ndash;10 October, 2025.
-
-* Poster titled "[*Long-range, high-capacity FSOC system for rural
-  wireless x-haul using COTS
-  transceivers,*](https://doi.org/10.1109/ECOC66593.2025.11263248)"
-  accepted in 51th [**European Conference on Optical Communication
-  (ECOC),**](https://ecoc2025.org/) Copenhagen, Denmark, 28
-  September&ndash;2 October, 2025.
-
-* [ <span class="award">🏆 Best Paper Award</span> ] Paper titled
-  "[*AraRACH: Enhancing NextG random access reliability in
-  programmable wireless living
-  labs,*](https://doi.org/10.1109/NetSoft64993.2025.11080601)"
-  accepted in [**IEEE International Conference on Network
-  Softwarization (IEEE NetSoft
-  2025),**](https://netsoft2025.ieee-netsoft.org/) Budapest, Hungary,
-  23&ndash;27 June, 2025. ( [<img src="images/arxiv.png"
-  style="vertical-align: middle" height="20"></img>
-  version](https://arxiv.org/pdf/2503.18218) )
 

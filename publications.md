@@ -11,6 +11,7 @@ Preprints](#preprints)
 Reports](#tech-reports)  
 &emsp; [<i class="bi bi-link-45deg"></i> Patents](#patents)  
 &emsp; [<i class="bi bi-link-45deg"></i> Datasets](#datasets)  
+&emsp; [<i class="bi bi-link-45deg"></i> Systems Implementation](#systems-implementation)  
 &emsp; [<i class="bi bi-link-45deg"></i> Software](#software)
 
 
@@ -457,6 +458,28 @@ Reports](#tech-reports)
    Ahmad, J. Song, Z. Zhu, Y. Guan, and H. Zhang, "[*TVWS spectrum
    availability*](https://dx.doi.org/10.21227/wcpx-9623)," **IEEE
    DataPort,** May 2026.
+
+---
+
+<a id="systems-implementation"></a>
+###<i class="bi bi-link-45deg"></i>  Systems Implementation
+
+1. "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
+  processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)"
+  [ Dec 2025 ] ( [<img src="images/video.png" style="vertical-align:
+  middle"
+  height="22"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
+  )
+4. "[*ARA wireless living lab*](https://arawireless.org/)" [ Oct
+   2021&ndash;Current ]
+3. "[*Software defined disruption tolerant
+   network*](https://doi.org/10.1109/TNSM.2020.3023889)" [Mar
+   2015&ndash;May 2021]
+2. "[*Self-configuring software defined wireless mesh
+   network*](https://doi.org/10.1109/TNSM.2019.2922107)" [Mar
+   2015&ndash;May 2021]
+1. "==IIST MeshNet: A programmable hybrid wireless mesh network
+   testbed==" [ Feb 2014&ndash;May 2021 ]
 
 ---
 
