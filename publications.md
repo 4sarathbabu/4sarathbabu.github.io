@@ -464,20 +464,20 @@ Reports](#tech-reports)
 <a id="systems-implementation"></a>
 ###<i class="bi bi-link-45deg"></i>  Systems Implementation
 
-1. "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
+1. "[*ARA wireless living lab*](https://arawireless.org/)" [ Oct
+   2021&ndash;Current ]
+5. "[*ARA-to-ICICLE: Remote data sourcing for agricultural AI
   processing*](https://arawireless.org/ara-to-icicle-remote-data-sourcing-for-agricultural-ai-processing/)"
   [ Dec 2025 ] ( [<img src="images/video.png" style="vertical-align:
   middle"
   height="22"></img>](https://youtu.be/tRb4JeMvx14?si=rGrhY1moV1GUht5S)
   )
-4. "[*ARA wireless living lab*](https://arawireless.org/)" [ Oct
-   2021&ndash;Current ]
 3. "[*Software defined disruption tolerant
-   network*](https://doi.org/10.1109/TNSM.2020.3023889)" [Mar
-   2015&ndash;May 2021]
+   network*](https://doi.org/10.1109/TNSM.2020.3023889)" [ Mar
+   2015&ndash;May 2021 ]
 2. "[*Self-configuring software defined wireless mesh
-   network*](https://doi.org/10.1109/TNSM.2019.2922107)" [Mar
-   2015&ndash;May 2021]
+   network*](https://doi.org/10.1109/TNSM.2019.2922107)" [ Mar
+   2015&ndash;May 2021 ]
 1. "==IIST MeshNet: A programmable hybrid wireless mesh network
    testbed==" [ Feb 2014&ndash;May 2021 ]
 
