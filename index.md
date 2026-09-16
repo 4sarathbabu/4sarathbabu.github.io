@@ -34,7 +34,7 @@ spanning cloud, edge, and wireless platforms.
 ### <i class="bi bi-newspaper"></i> Recent News
 
 * [ <span class="red">Sep 2026</span> ] Our team has been awarded a
-  **$5.08M NSF VINES Track 2 grant** for ==*AgSlicing: Predictable RAN
+  $5.08M NSF VINES Track 2 grant for ==*AgSlicing: Predictable RAN
   and Spectrum Slicing for Precision Agriculture*.== I will serve as
   Co-Investigator on this three-year project led by Iowa State
   University, in collaboration with the University of Virginia,
