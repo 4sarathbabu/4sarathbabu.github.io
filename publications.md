@@ -114,7 +114,7 @@ Reports](#tech-reports)
    living labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601),"
    in Proceedings of the 11th **IEEE International Conference on
    Network Softwarization (IEEE NetSoft 2025),** Budapest, Hungary,
-   2025, pp. 362&ndash;370. ( [<img src="images/arxiv.png"
+   Jun. 2025, pp. 362&ndash;370. ( [<img src="images/arxiv.png"
    style="vertical-align: middle" height="20"></img>
    version](https://arxiv.org/pdf/2503.18218) ) [ <span
    class="award">🏆 Best Paper Award</span> ]
@@ -439,7 +439,11 @@ Reports](#tech-reports)
 <a id="datasets"></a>
 ###<i class="bi bi-link-45deg"></i>  Datasets
 
-1. M. Shahid, G. Zu, V. Lee, K. Das, H. Ushaq, H. Zhang, J. Song,
+1. **Sarath Babu,** V. Lee, G. Zu, D. Qiao, and H. Zhang, "[*ARA rural
+   COTS 5G NR UE measurement
+   dataset*](https://dx.doi.org/10.21227/p2a8-f326)," **IEEE
+   DataPort,** Sep. 2026.
+4. M. Shahid, G. Zu, V. Lee, K. Das, H. Ushaq, H. Zhang, J. Song,
    D. Qiao, **Sarath Babu,** Y. Guan, Z. Zhu, and A. Ahmad, "[*ARA
    COTS 5G NR spatio-temporal RSRP measurement
    dataset*](https://dx.doi.org/10.21227/7np5-4e05)," **IEEE

@@ -33,6 +33,11 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
+*  [ <span class="red">Sep 2026</span> ] New dataset "[*ARA rural COTS
+   5G NR UE measurement
+   dataset*](https://dx.doi.org/10.21227/p2a8-f326)," published in
+   [**IEEE DataPort**](https://dx.doi.org/10.21227/p2a8-f326).
+
 * [ <span class="red">Sep 2026</span> ] Our team has been awarded a
   $5.08M NSF VINES Track 2 grant for ==*AgSlicing: Predictable RAN
   and Spectrum Slicing for Precision Agriculture*.== I will serve as
