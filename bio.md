@@ -71,6 +71,9 @@ Rural Communities</u>**](https://arawireless.org/)
 
 <a id="awards"></a>
 ### <i class="bi bi-link-45deg"></i> Awards & Recognitions
+* **Best Demo Award** [ Sep 2026 ]
+  * Midscale Experimental Research Infrastructure Forum ([**MERIF
+    &rsquo;26**](https://merif.renci.org/))
 * **Best Paper Award** [ Jun 2025 ]
   * IEEE International Conference on Network Softwarization ([**IEEE
     NetSoft &rsquo;25**](https://netsoft2025.ieee-netsoft.org/))

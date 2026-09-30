@@ -33,7 +33,14 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
-*  [ <span class="red">Sep 2026</span> ] New dataset "[*ARA rural COTS
+* [ <span class="red">Sep 2026</span> ] [ <span class="award">🏆 Best
+   Demo Award</span> ] Our demo titled "==At-scale, real-world
+   physical AI for precision agriculture on the ARA wireless living
+   lab==" received best demo award at [**Midscale Experimental
+   Research Infrastructure Forum (MERIF),
+   2026**](https://merif.renci.org/home), Washington, D.C., USA.
+
+* [ <span class="red">Sep 2026</span> ] New dataset "[*ARA rural COTS
    5G NR UE measurement
    dataset*](https://dx.doi.org/10.21227/p2a8-f326)," published in
    [**IEEE DataPort**](https://dx.doi.org/10.21227/p2a8-f326).

@@ -264,13 +264,19 @@ Reports](#tech-reports)
 <a id="demos"></a>
 ###<i class="bi bi-link-45deg"></i>  Demos & Posters
 
-1. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
+1. T. U. Islam, J. O. Boateng, V. Lee, **Sarath Babu**, D. Qiao, and
+   H. Zhang, "==At-scale, real-world physical AI for precision
+   agriculture on the ARA wireless living lab,==" in **Midscale
+   Experimental Research Infrastructure Forum (MERIF '26),**
+   Washington, D.C., USA, Sep. 2026. <br>[ <span class="award">🏆 Best
+   Demo Award</span> ]
+12. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
    R. Chandra, and H. Zhang, "==Demo: Experimental validation of
    limitations in TVWS spectrum sharing via the ARA wireless living
-   lab,==" accepted in 2026 **IEEE International Symposium on Dynamic
-   Spectrum Access Networks (IEEE DySPAN '26),** Washington, D.C.,
-   USA, May 2026.
+   lab,==" in **IEEE International Symposium on Dynamic Spectrum
+   Access Networks (IEEE DySPAN '26),** Washington, D.C., USA, May
+   2026.
 11. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
    C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
    and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
