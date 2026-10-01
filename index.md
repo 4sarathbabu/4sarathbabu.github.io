@@ -46,11 +46,10 @@ spanning cloud, edge, and wireless platforms.
    [**IEEE DataPort**](https://dx.doi.org/10.21227/p2a8-f326).
 
 * [ <span class="red">Sep 2026</span> ] Our team has been awarded a
-  $5.08M NSF VINES Track 2 grant for ==*AgSlicing: Predictable RAN
-  and Spectrum Slicing for Precision Agriculture*.== I will serve as
-  Co-Investigator on this three-year project led by Iowa State
-  University, in collaboration with the University of Virginia,
-  Skylark Wireless, and Federated Wireless.
+  $5.08M NSF VINES Track 2 grant for ==*AgSlicing: Predictable RAN and
+  Spectrum Slicing for Precision Agriculture,*== a three-year project
+  led by Iowa State University, in collaboration with the University
+  of Virginia, Skylark Wireless, and Federated Wireless.
 
 * [ <span class="red">Sep 2026</span> ] IEEE Future Networks
    International Network Generation Roadmap (INGR) Satellite Working

@@ -56,13 +56,8 @@ Other Roles](#research-projects-other)
 * **As Principal Investigator (PI) |
   Co-Principal Investigator (Co-PI)**
 
-	1. **Co-PI,** "==*VINES: Track 2: AgSlicing: Predictable RAN and
-       Spectrum Slicing for Precision Agriculture,*=="
-       [**NSF,**](https://www.nsf.gov/) (Total Funding: $5,076,625),
-       Iowa State University (PI), University of Virginia, Skylark
-       Wireless, and Federated Wireless, Sep 2026&ndash;Aug 2029.
 
-	6. **Site Co-PI,** "[*ArMORED: Architecture for massive-MIMO Open
+	1. **Site Co-PI,** "[*ArMORED: Architecture for massive-MIMO Open
 		RAN Energy-efficient
 		Devices,*](https://www.ntia.gov/press-release/2025/biden-harris-administration-awards-117-million-wireless-innovation)"
 		[**NTIA Innovation Fund (NOFO
@@ -111,8 +106,13 @@ Other Roles](#research-projects-other)
 
 * **As Senior Personnel | Other Roles**
 
+	1. **Key Personnel,** "==*VINES: Track 2: AgSlicing: Predictable RAN and
+       Spectrum Slicing for Precision Agriculture,*=="
+       [**NSF,**](https://www.nsf.gov/) (Total Funding: $5,076,625),
+       Iowa State University (PI), University of Virginia, Skylark
+       Wireless, and Federated Wireless, Sep 2026&ndash;Aug 2029.
 
-	1. **Research Scientist/Research Assistant Professor,**
+	9. **Research Scientist/Research Assistant Professor,**
 		"[*Ara4Rural: ARA Infrastructure and Community Building for
 		Rural Wireless Applications,*](https://arawireless.org/)
 		[**NSF
