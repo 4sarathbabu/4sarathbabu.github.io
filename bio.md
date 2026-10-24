@@ -74,6 +74,8 @@ Rural Communities</u>**](https://arawireless.org/)
 * **Best Demo Award** [ Sep 2026 ]
   * Midscale Experimental Research Infrastructure Forum ([**MERIF
     &rsquo;26**](https://merif.renci.org/))
+  * Demo Title: "==At-scale, real-world physical AI for precision
+	agriculture on the ARA wireless living lab=="
 * **Best Paper Award** [ Jun 2025 ]
   * IEEE International Conference on Network Softwarization ([**IEEE
     NetSoft &rsquo;25**](https://netsoft2025.ieee-netsoft.org/))
@@ -81,7 +83,10 @@ Rural Communities</u>**](https://arawireless.org/)
    programmable wireless living
    labs*](https://doi.org/10.1109/NetSoft64993.2025.11080601)"
 * **Best Demo Award** [ Sep 2024 ]
-  * Midscale Experimental Research Infrastructure Forum ([**MERIF &rsquo;24**](https://merif.renci.org/)) 
+  * Midscale Experimental Research Infrastructure Forum ([**MERIF
+    &rsquo;24**](https://merif.renci.org/)) 
+  * Demo Title: ==ARA PAWR: Enabling wireless experiments with
+   programmable COTS RAN and x-Haul platforms=="
 * **Honorable Mention** for the Paper [ Nov 2023 ]
   * IEEE Future Networks World Forum ([**IEEE FNWF
     &rsquo;23**](https://fnwf2023.ieee.org/)) 

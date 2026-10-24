@@ -160,8 +160,7 @@ Services](#journal-services)
     * [IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)](https://ieee-itss.org/pub/t-its/)
 	* [IEEE Transactions on Big Data (IEEE TBD)](https://www.computer.org/csdl/journal/bd)
 	* [IEEE Journal of Selected Areas in Communications
-	  (JSAC)](https://www.comsoc.org/jsac) - Series on Network
-	  Softwarization & Enablers
+	  (JSAC)](https://www.comsoc.org/jsac)
 	* [IEEE Internet of Things Journal](http://ieee-iotj.org/)
 	* [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/)
 	* [IEEE Communications Letters (IEEE COMML)](https://www.comsoc.org/publications/journals/ieee-comml)
@@ -183,11 +182,18 @@ Services](#journal-services)
       Processing](https://dl.acm.org/journal/tallip)
 	* [Elsevier Computer
       Networks](https://www.sciencedirect.com/journal/computer-networks)
-    * [Elsevier Ad Hoc Networks](https://www.sciencedirect.com/journal/ad-hoc-networks)
+    * [Elsevier Ad Hoc
+      Networks](https://www.sciencedirect.com/journal/ad-hoc-networks)
+	* [Elsevier Journal of Network and Computer
+      Applications](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications)
+	* [Elsevier Blockchain: Research and
+      Applications](https://www.sciencedirect.com/journal/blockchain-research-and-applications)
+	* [Elsevier SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 	* [Elsevier Journal of Open Innovation: Technology, Market, and
       Complexity](https://www.sciencedirect.com/journal/journal-of-open-innovation-technology-market-and-complexity)
 	* [Elsevier Journal of Rural Studies](https://www.sciencedirect.com/journal/journal-of-rural-studies)
 	* [Springer Nature Computer Science](https://www.springer.com/journal/42979)
+	* [Springer Nature Scientific Reports](https://www.nature.com/srep)
 
 ---
 

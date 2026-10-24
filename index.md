@@ -33,6 +33,11 @@ spanning cloud, edge, and wireless platforms.
 
 ### <i class="bi bi-newspaper"></i> Recent News
 
+* [ <span class="red">Oct 2026</span> ] Report of ==*Satellite*==
+  Working Group, IEEE INGR International Network Generations Roadmap,
+  2026 Edition, accepted in [**IEEE Future Networks World Forum
+  (FNWF)**](https://fnwf2026.ieee.org/), Lisbon, Portugal, Oct. 2026.
+
 * [ <span class="red">Sep 2026</span> ] [ <span class="award">🏆 Best
    Demo Award</span> ] Our demo titled "==At-scale, real-world
    physical AI for precision agriculture on the ARA wireless living

@@ -416,7 +416,11 @@ Reports](#tech-reports)
 
 ###<i class="bi bi-link-45deg"></i>  Technical Reports
 
-1. S. Kota, G. Giambene, et al.,
+1. S. Ajakaiye, **Sarath Babu**, et al., "==*Satellite*==," IEEE INGR
+   International Network Generations Roadmap, 2026 Edition, accepted
+   in **IEEE Future Networks World Forum (FNWF),** Lisbon, Portugal,
+   Oct. 2026.
+3. S. Kota, G. Giambene, et al.,
    "[*Satellite*](https://doi.org/10.1109/FNWF58287.2023.10520529),"
    IEEE INGR International Network Generations Roadmap, 2023 Edition,
    2023 **IEEE Future Networks World Forum (FNWF),** Baltimore, MD,
@@ -426,7 +430,7 @@ Reports](#tech-reports)
    INGR International Network Generations Roadmap, 2022 Edition, 2022
    **IEEE Future Networks World Forum (FNWF),** Montreal, QC, Canada,
    Oct. 2022, pp. 1&ndash;182.
-3. A. Chakraborty, **Sarath Babu**, and B. S. Manoj, "[*On achieving
+1. A. Chakraborty, **Sarath Babu**, and B. S. Manoj, "[*On achieving
    capacity-enhanced small-world networks*]()," Indian Institute of
    Space Science and Technology, Tech. Rep., 09 2017,
    IIST-SNL-101-2017-09-21.
