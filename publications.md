@@ -100,7 +100,14 @@ Reports](#tech-reports)
    in Proceedings of the 2026 **IEEE International Symposium on
    Dynamic Spectrum Access Networks (IEEE DySPAN '26),** May 2026,
    Washington, D.C., USA, pp. 1&ndash;9.
-24. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+26. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
+   C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
+   and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
+   communication link using COTS SFP+
+   transceivers*](https://doi.org/10.1117/12.3089075)," in Proceedings
+   of **SPIE** 13885, **Free-Space Laser Communications** XXXVIII, 138851O,
+   Mar. 2026.
+25. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
     Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang,
     "[*Real-world integration and evaluation of open-source 5G core
     with commercial
@@ -108,6 +115,14 @@ Reports](#tech-reports)
     Proceedings of the **IEEE Military Communications Conference (IEEE
     MILCOM 2025),** Los Angels, CA, USA, Oct. 2025,
     pp. 1296&ndash;1301.
+24. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
+   M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
+   "[*Long-range, high-capacity FSOC system for rural wireless x-haul
+   using COTS
+   transceivers*](https://doi.org/10.1109/ECOC66593.2025.11263248),"
+   in Proceedings of the 51th **European Conference on Optical
+   Communication (ECOC),** Copenhagen, Denmark, Sep&ndash;Oct. 2025,
+   pp. 1&ndash;4.
 23. J. O. Boateng, T. Zhang, G. Zu, T. U. Islam, **Sarath Babu**,
    F. Kaltenberger, R. Schmidt, H. Zhang, D. Qiao, "[*AraRACH:
    Enhancing NextG random access reliability in programmable wireless
@@ -270,35 +285,20 @@ Reports](#tech-reports)
    Experimental Research Infrastructure Forum (MERIF '26),**
    Washington, D.C., USA, Sep. 2026. <br>[ <span class="award">🏆 Best
    Demo Award</span> ]
-12. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
+10. M. Shahid, T. U. Islam, K. Das, **Sarath Babu**, D. Qiao, A.
    Ahmad, J. Song, Z. Zhu, Y. Guan, T. Chakraborty, S. Jog,
    R. Chandra, and H. Zhang, "==Demo: Experimental validation of
    limitations in TVWS spectrum sharing via the ARA wireless living
    lab,==" in **IEEE International Symposium on Dynamic Spectrum
    Access Networks (IEEE DySPAN '26),** Washington, D.C., USA, May
    2026.
-11. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, O. B. Boyraz,
-   C. J. Margison, R. Chen, M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang,
-   and O. Boyraz, "[*Demonstration of a 4.2km MISO free-space optical
-   communication link using COTS SFP+
-   transceivers*](https://doi.org/10.1117/12.3089075)," in Proceedings
-   of **SPIE** 13885, **Free-Space Laser Communications** XXXVIII, 138851O,
-   Mar. 2026.
-10. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
+9. G. Zu, J. O. Boateng, V. S. Advani, T. U. Islam, V. Lee, **Sarath
    Babu**, M. Nadim, D. Qiao, M. Y. Selim, and H. Zhang, "[*Demo:
    Real-world integration and evaluation of open-source 5G core with
    commercial
    RAN*](https://doi.org/10.1109/MILCOM64451.2025.11310344)," in
    Proceedings of the **IEEE Military Communications Conference (IEEE
    MILCOM 2025),** Los Angels, CA, USA, Oct. 2025, pp. 881&ndash;882.
-9. X. Li, A. Atalar, M. Nadim, **Sarath Babu**, C. J. Margison,
-   M. M. Bayer, A. Ahmad, D. Qiao, H. Zhang, and O.  Boyraz,
-   "[*Long-range, high-capacity FSOC system for rural wireless x-haul
-   using COTS
-   transceivers*](https://doi.org/10.1109/ECOC66593.2025.11263248),"
-   in Proceedings of the 51th **European Conference on Optical
-   Communication (ECOC),** Copenhagen, Denmark, Sep&ndash;Oct. 2025,
-   pp. 1&ndash;4.
 8. M. Kandes, **Sarath Babu**, Z. Meng, and H. Zhang, "[*ARA
    distributed inference experiments: Flying HTCondor over a field of
    wireless
